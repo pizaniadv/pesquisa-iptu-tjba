@@ -1,0 +1,78 @@
+{
+  "tese": 32,
+  "formulacao": "Se o Município condiciona a expedição de alvará (de construção, reforma ou funcionamento), de guia de ITIV ou de certidão à quitação de débitos de IPTU, então a exigência é sanção política vedada (Súmulas 70, 323 e 547 do STF) e o contribuinte obtém o ato independentemente do pagamento.",
+  "n_catalogo_fav": 1,
+  "n_acervo": 9,
+  "n_acervo_fav": 1,
+  "contrarias_ids": [],
+  "precedentes": [
+    {
+      "id": "STF Súmula 70",
+      "fonte": "Cognitio STF:sumulas:70",
+      "conferido": true
+    },
+    {
+      "id": "STF Súmula 323",
+      "fonte": "Cognitio STF:sumulas:323",
+      "conferido": true
+    },
+    {
+      "id": "STF Súmula 547",
+      "fonte": "Cognitio STF:sumulas:547",
+      "conferido": true
+    },
+    {
+      "id": "STF Tema 31 RG",
+      "fonte": "PANGEA stf-rg-31",
+      "conferido": false
+    },
+    {
+      "id": "STF ADI 173",
+      "fonte": "PANGEA stf-adi-173",
+      "conferido": false
+    },
+    {
+      "id": "STF ADI 3952 (contra-caso)",
+      "fonte": "PANGEA stf-adi-3952",
+      "conferido": false
+    }
+  ],
+  "walton": {
+    "esquema": "ARG.SCH.WRM08.ANALOGY",
+    "status": "PLAUSIBLE"
+  },
+  "excertos": [
+    {
+      "numero": "0510899-26.2016.8.05.0001",
+      "texto": "Entendimento adotado pelo Supremo Tribunal Federal, expresso pelas Súmulas 70, 323 e 547, todas no sentido de não admitir que o Poder Público atrele o exercício de direitos ao prévio pagamento de tributos"
+    },
+    {
+      "numero": "8029958-13.2019.8.05.0001",
+      "texto": "o Município de Salvador, fundamentado no parágrafo único do art. 323 da Lei Municipal nº 7.186/2006, que condiciona a expedição de alvará de licença a regularidade tributária,"
+    },
+    {
+      "numero": "8029958-13.2019.8.05.0001",
+      "texto": "A negativa de expedição do Alvará requerido, se mostra, em verdade, atitude que objetiva forçar a presença do contribuinte inadimplente na repartição tributária para coagi-lo a, por meio transverso, providenciar o pagamento dos tributos devidos."
+    },
+    {
+      "numero": "8009256-87.2023.8.05.0039",
+      "texto": "EXIGÊNCIA DE COMPROVAÇÃO DE REGULARIDADE FISCAL DE IPTU. CONDICIONAMENTO INDEVIDO. SÚMULA 323 DO SUPREMO TRIBUNAL FEDERAL. MEIO COERCITIVO DE COBRANÇA. JURISPRUDÊNCIA DO TEMA. SENTENÇA CONFIRMADA."
+    },
+    {
+      "numero": "8031036-03.2023.8.05.0001",
+      "texto": "A exigência de pagamento de IPTU como condição para a emissão da guia de ITIV configura sanção política vedada pelo STF"
+    },
+    {
+      "numero": "8028759-46.2025.8.05.0000",
+      "texto": "EMISSÃO DE GUIA DE RECOLHIMENTO DE IMPOSTO DE TRANSMISSÃO INTER VIVOS (ITIV) CONDICIONADA À QUITAÇÃO DE DÉBITOS PRETÉRITOS DE IMPOSTO PREDIAL E TERRITORIAL URBANO (IPTU) E TAXA DE RESÍDUOS SÓLIDOS DOMICILIARES (TRSD). SANÇÃO POLÍTICA CONFIGURADA."
+    },
+    {
+      "numero": "8065174-98.2020.8.05.0001",
+      "texto": "é defeso à administração impedir ou cercear a atividade do contribuinte, para compeli-lo ao pagamento de débito"
+    },
+    {
+      "numero": "8015030-26.2020.8.05.0000",
+      "texto": "O ato do Agravante de promover o protesto do mesmo título, objeto de ação executiva, caracteriza-se como bis in idem"
+    }
+  ]
+}

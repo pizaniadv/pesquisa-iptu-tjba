@@ -1,0 +1,113 @@
+{
+ "tese": 16,
+ "formulacao": "Se o Município inscreve em dívida ativa, protesta ou executa IPTU indevido (imóvel alheio, homônimo, tributo quitado, lançamento anulado) ou com exigibilidade suspensa, então responde por dano moral presumido, além da sustação e extinção da cobrança.",
+ "n_catalogo_fav": 9,
+ "n_acervo": 1079,
+ "n_acervo_fav": 172,
+ "n_acervo_detalhe": {
+  "n_decisoes": 1207,
+  "n_processos": 1079,
+  "n_processos_fav_indicio": 172,
+  "rotulo": "recorte por palavra na ementa; indicio, nao taxa; contar por processo"
+ },
+ "contrarias_ids": [],
+ "distincoes_fora_da_contagem": [
+  "DEC-TJBA-0ce0df4725cf",
+  "DEC-TJBA-650dbc21b0cd",
+  "DEC-TJBA-cbd03d2d27b0"
+ ],
+ "precedentes": [
+  {
+   "id": "STJ:paradigmas:Tema-777",
+   "fonte": "Cognitio",
+   "conferido": true
+  },
+  {
+   "id": "STJ:integras:306683039",
+   "fonte": "Cognitio",
+   "conferido": true
+  },
+  {
+   "id": "stf-adi-5135",
+   "fonte": "PANGEA",
+   "conferido": false
+  },
+  {
+   "id": "stj-ct-30",
+   "fonte": "PANGEA",
+   "conferido": false
+  },
+  {
+   "id": "tjes-irdr-10",
+   "fonte": "PANGEA",
+   "conferido": false
+  },
+  {
+   "id": "tjrj-iac-8",
+   "fonte": "PANGEA",
+   "conferido": false
+  }
+ ],
+ "walton": {
+  "esquema": "ARG.SCH.WRM08.RULES.S55_1",
+  "status": "PLAUSIBLE"
+ },
+ "excertos": [
+  {
+   "numero": "0529503-06.2014.8.05.0001",
+   "texto": "o ato administrativo de inscrição indevida de crédito tributário em dívida ativa é passível de configurar a responsabilidade do ente tributário pelo dano moral ao contribuinte"
+  },
+  {
+   "numero": "8001087-62.2020.8.05.0154",
+   "texto": "a indevida inclusão do nome do contribuinte na Dívida Ativa, ou o seu protesto, é situação apta a gerar dano moral"
+  },
+  {
+   "numero": "0505335-84.2017.8.05.0113",
+   "texto": "AÇÃO INDENIZATÓRIA. PROTESTO INDEVIDO. DÉBITO DE IPTU DE IMÓVEL QUE NÃO PERTENCE AO DEMANDANTE. DANO MORAL IN RE IPSA."
+  },
+  {
+   "numero": "0506089-54.2017.8.05.0039",
+   "texto": "DANO MORAL. AJUIZAMENTO DE EXECUÇÕES FISCAIS PARA COBRANÇA DE TÍTULO INDEVIDO."
+  },
+  {
+   "numero": "0500482-32.2017.8.05.0113",
+   "texto": "IPTU. PROTESTO REALIZADO PELO MUNICÍPIO. TRIBUTO QUITADO ANTECIPADAMENTE. ILÍCITO."
+  },
+  {
+   "numero": "8125564-97.2021.8.05.0001",
+   "texto": "a prática de protesto de débito tributário com exigibilidade suspensa caracteriza abuso de direito e afronta à ordem judicial vigente"
+  },
+  {
+   "numero": "8003186-40.2024.8.05.0000",
+   "texto": "DEPÓSITO JUDICIAL COMPROVADO. SUSPENSÃO DA EXIGIBILIDADE DO CRÉDITO TRIBUTÁRIO. PROTESTO INDEVIDO."
+  },
+  {
+   "numero": "8008537-30.2020.8.05.0001",
+   "texto": "PARTE AUTORA COMPROVA A SUSPENSÃO DA EXIGIBILIDADE DA DÍVIDA. PROTESTO INDEVIDO DO NOME DA PARTE AUTORA. DANOS MORAIS CONFIGURADOS"
+  },
+  {
+   "numero": "8015030-26.2020.8.05.0000",
+   "texto": "O ato do Agravante de promover o protesto do mesmo título, objeto de ação executiva, caracteriza-se como bis in idem, mostrando-se excessivamente gravoso ao contribuinte"
+  },
+  {
+   "numero": "0015048-74.2019.8.05.0080",
+   "texto": "MERA COBRANÇA INDEVIDA QUE NÃO GERA, POR SI SÓ, DIREITO À REPARAÇÃO MORAL"
+  },
+  {
+   "numero": "0010088-75.2019.8.05.0080",
+   "texto": "DANOS MORAIS NÃO CONFIGURADOS. MERO ABORRECIMENTO."
+  },
+  {
+   "numero": "8133589-60.2025.8.05.0001",
+   "texto": "surpreendido com execuções fiscais, protestos extrajudiciais de Certidões de Dívida Ativa"
+  },
+  {
+   "numero": "0095061-35.2021.8.05.0001",
+   "texto": "DANO MORAL NÃO CONFIGURADO. SENTENÇA REFORMADA."
+  },
+  {
+   "numero": "8004133-20.2022.8.05.0112",
+   "texto": "foi deferida a antecipação dos efeitos da tutela de urgência"
+  }
+ ]
+}

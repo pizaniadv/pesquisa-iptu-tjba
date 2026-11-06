@@ -1,0 +1,82 @@
+{
+ "tese": 22,
+ "formulacao": "Se o lançamento do IPTU usou área construída ou área de terreno maior que a real (erro de metragem no cadastro) e o contribuinte prova a medida correta por laudo técnico ou perícia, então a base de cálculo está viciada, o lançamento é nulo ou revisto pela metragem real e o que se pagou a mais é restituído.",
+ "n_catalogo_fav": 10,
+ "n_acervo": 278,
+ "n_acervo_fav": 56,
+ "contrarias_ids": [],
+ "precedentes": [
+  {
+   "id": "STJ Súmula 393",
+   "fonte": "Cognitio STJ:sumulas:393",
+   "conferido": true
+  },
+  {
+   "id": "STJ Tema 375 (citado no acórdão 0806196-13.2015)",
+   "fonte": "pacote tjba_api (menção no acórdão)",
+   "conferido": false
+  }
+ ],
+ "walton": {
+  "esquema": "ARG.SCH.WRM08.EVIDENCE_TO_HYPOTHESIS",
+  "status": "PLAUSIBLE"
+ },
+ "excertos": [
+  {
+   "numero": "8016755-81.2019.8.05.0001",
+   "texto": "LAUDO PERICIAL DE AVALIAÇÃO JUNTADO AOS AUTOS QUE COMPROVA O EQUÍVOCO NA MEDIÇÃO."
+  },
+  {
+   "numero": "8017373-26.2019.8.05.0001",
+   "texto": "EXISTÊNCIA DE ERRO NA METRAGEM QUE CONSTITUIU A BASE DE CÁLCULO DO IPTU E TRSD"
+  },
+  {
+   "numero": "8006244-24.2019.8.05.0001",
+   "texto": "PROVAS PERICIAIS QUE ATESTAM A SUPERESTIMAÇÃO DA ÁREA CONSTRUÍDA DO IMÓVEL E DA ÁREA TOTAL DO TERRENO."
+  },
+  {
+   "numero": "8033822-59.2019.8.05.0001",
+   "texto": "ANULAÇÃO DE LANÇAMENTO FISCAL. IPTU. CORREÇÃO NA METRAGEM DO IMÓVEL. REVISÃO DE LANÇAMENTO. RESTITUIÇÃO DO INDÉBITO."
+  },
+  {
+   "numero": "8036110-77.2019.8.05.0001",
+   "texto": "ANULAÇÃO DE LANÇAMENTO FISCAL. IPTU. CORREÇÃO NA METRAGEM DO IMÓVEL. REVISÃO DE LANÇAMENTO. SENTENÇA DE PROCEDÊNCIA MANTIDA."
+  },
+  {
+   "numero": "8005378-50.2018.8.05.0001",
+   "texto": "ERRO NA BASE DE CÁLCULO DO IPTU. ILEGALIDADE CONSTATADA. NULIDADE DO LANÇAMENTO."
+  },
+  {
+   "numero": "8016253-11.2020.8.05.0001",
+   "texto": "PARTE AUTORA COMPROVA POR MEIO DE LAUDO PERICIAL QUE O SEU IMÓVEL POSSUI"
+  },
+  {
+   "numero": "8001513-50.2019.8.05.0044",
+   "texto": "LEVANTAMENTO DA ÁREA FEITO PELO MUNICÍPIO EM 2017. IMPOSSIBILIDADE DE PRESUNÇÃO. AUSÊNCIA DE FATO GERADOR. DIFERENÇA DE IPTU DEVIDA A PARTIR DO USO ECONÔMICO DA ÁREA AMPLIADA."
+  },
+  {
+   "numero": "8138690-20.2021.8.05.0001",
+   "texto": "PROVA DE QUE O IMÓVEL ESTÁ EM AREA DE PROTEÇÃO AMBIENTAL. SEM EDIFICAÇÕES E COM ACESSO RESTRITO."
+  },
+  {
+   "numero": "8000503-37.2018.8.05.0001",
+   "texto": "AÇÃO ANULATÓRIA. NOTIFICAÇÃO FISCAL DE LANÇAMENTO DE IPTU. HABITE-SE QUE SOMENTE FOI CONCLUÍDO EM 2017. LANÇAMENTO OCORRIDO ANTES DA EMISSÃO FINAL DO HABITE-SE."
+  },
+  {
+   "numero": "0806196-13.2015.8.05.0001",
+   "texto": "ERRO DE FATO NA ÁREA CONSTRUÍDA DO IMÓVEL. NULIDADE DO LANÇAMENTO E ILIQUIDEZ DA CDA. ADESÃO A PARCELAMENTO ADMINISTRATIVO QUE NÃO CONVALIDA VÍCIO SUBSTANCIAL."
+  },
+  {
+   "numero": "8090444-22.2023.8.05.0001",
+   "texto": "MAJORAÇÃO EXORBITANTE. FLAGRANTE ILEGALIDADE AOS PRECEITOS LIMITADORES PREVISTOS NA LEI MUNICIPAL Nº 8.473/2013 E EM OUTRAS NORMAS."
+  },
+  {
+   "numero": "8004702-51.2019.8.05.0039",
+   "texto": "à mingua de provas que desconstituam a presunção de legitimidade do Auto de Infração Fiscal em análise"
+  },
+  {
+   "numero": "0575556-11.2015.8.05.0001",
+   "texto": "constata-se que o MUNICÍPIO DE SALVADOR trouxe aos autos “Ficha de Propriedade”, na qual estão contidas as características do imóvel de modo detalhado"
+  }
+ ]
+}

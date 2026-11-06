@@ -1,0 +1,97 @@
+{
+  "tese": 28,
+  "formulacao": "Se o contribuinte pagou IPTU indevido (crédito já prescrito, valor a maior por erro de lançamento ou de aplicação da lei municipal, imóvel imune ou sem vínculo com quem pagou) e age em até cinco anos do pagamento, então tem direito à restituição, independentemente de protesto, com correção desde o pagamento e juros a partir do trânsito em julgado.",
+  "n_catalogo_fav": 2,
+  "n_acervo": 766,
+  "n_acervo_fav": 61,
+  "contrarias_ids": [
+    "8000435-94.2023.8.05.0039"
+  ],
+  "precedentes": [
+    {
+      "id": "STJ Tema 229 (REsp 947.206/RJ)",
+      "fonte": "Cognitio STJ:precedentes:Tema-229; STJ:paradigmas-teor:200700991022-1011837",
+      "conferido": true
+    },
+    {
+      "id": "STJ Tema 142 (REsp 1.110.578/SP)",
+      "fonte": "Cognitio STJ:precedentes:Tema-142",
+      "conferido": true
+    },
+    {
+      "id": "STJ Tema 387",
+      "fonte": "Cognitio STJ:precedentes:Tema-387",
+      "conferido": true
+    },
+    {
+      "id": "STJ Súmula 162",
+      "fonte": "Cognitio STJ:sumulas:162",
+      "conferido": true
+    },
+    {
+      "id": "STJ Súmula 188",
+      "fonte": "Cognitio STJ:sumulas:188",
+      "conferido": true
+    },
+    {
+      "id": "STJ Súmula 461",
+      "fonte": "Cognitio STJ:sumulas:461",
+      "conferido": true
+    },
+    {
+      "id": "STJ: repetição de crédito prescrito pago",
+      "fonte": "não localizado",
+      "conferido": false
+    }
+  ],
+  "walton": {
+    "esquema": "ARG.SCH.WRM08.VERBAL_CLASSIFICATION",
+    "status": "PLAUSIBLE"
+  },
+  "excertos": [
+    {
+      "numero": "0500725-41.2018.8.05.0080",
+      "texto": "Constatado que houve o pagamento voluntário de IPTU prescrito, admite-se a repetição do indébito, nos termos do artigo 165, inciso I, do Código Tributário Nacional"
+    },
+    {
+      "numero": "8032508-78.2019.8.05.0001",
+      "texto": "RECÁLCULO NECESSÁRIO. RESTITUIÇÃO DOS VALORES PAGOS A MAIOR DEVIDA."
+    },
+    {
+      "numero": "8002219-78.2023.8.05.0113",
+      "texto": "EFICÁCIA DECLARATÓRIA E RETROATIVA (EX TUNC). PREENCHIMENTO DOS REQUISITOS CONSTITUCIONAIS E AUSÊNCIA DE PROVA DE TREDESTINAÇÃO. PRECEDENTES DO STF E STJ. REPETIÇÃO DO INDÉBITO DEVIDA (2018 A 2021)."
+    },
+    {
+      "numero": "8190679-60.2024.8.05.0001",
+      "texto": "POSSIBILIDADE DE REVISÃO DOS LANÇAMENTOS DECORRENTES DE ERRO DE FATO. TEMA 387 DO STJ."
+    },
+    {
+      "numero": "8190679-60.2024.8.05.0001",
+      "texto": "SENTENÇA DE PROCEDÊNCIA MANTIDA PELOS SEUS PRÓPRIOS FUNDAMENTOS (ART. 46 DA LEI Nº 9.099/95). RECURSO CONHECIDO E NÃO PROVIDO."
+    },
+    {
+      "numero": "0010500-83.2009.8.05.0103",
+      "texto": "O direito à restituição do tributo pago indevidamente é assegurado pelo art. 165, I, do Código Tributário Nacional, independentemente de prévio protesto ou da intenção do contribuinte."
+    },
+    {
+      "numero": "0010500-83.2009.8.05.0103",
+      "texto": "5. A omissão no dever acessório de atualização cadastral sujeita o contribuinte a sanções administrativas, mas não legitima a apropriação de valores pelo Estado sem a correspondente base legal tributária."
+    },
+    {
+      "numero": "8000435-94.2023.8.05.0039",
+      "texto": "MAJORAÇÃO INSTITUÍDA POR LEI EM SENTIDO FORMAL. LEGALIDADE TRIBUTÁRIA OBSERVADA. REAJUSTE ESCALONADO. AUSÊNCIA DE VIOLAÇÃO À ISONOMIA, À CAPACIDADE CONTRIBUTIVA E À VEDAÇÃO AO CONFISCO. SENTENÇA REFORMADA. PEDIDOS IMPROCEDENTES."
+    },
+    {
+      "numero": "0015028-15.2021.8.05.0080",
+      "texto": "ABUSIVIDADE DA CLÁUSULA QUE ATRIBUI AO PROMISSÁRIO COMPRADOR A RESPONSABILIDADE PELO PAGAMENTO DO IMPOSTO, ANTES DA EFETIVA ENTREGA DO IMÓVEL."
+    },
+    {
+      "numero": "8005504-80.2021.8.05.0103",
+      "texto": "Asseverou a nulidade dos lançamentos fiscais promovidos em nome de pessoa falecida, invocando vício na sujeição passiva tributária"
+    },
+    {
+      "numero": "8055426-32.2026.8.05.0001",
+      "texto": "O demandante sustenta incorreção na base fática utilizada no lançamento do Imposto Sobre a Propriedade Predial e Territorial Urbana (IPTU) relativo ao exercício de 2026"
+    }
+  ]
+}

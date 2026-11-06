@@ -1,0 +1,40 @@
+{
+ "tese": 24,
+ "formulacao": "Se a causa discute elemento da obrigação de IPTU (base de cálculo, valor venal, repetição), então corre na vara fazendária fiscal; proposta a execução, a mudança de domicílio não desloca a competência (Súmula 58/STJ). Sem decisão favorável ao contribuinte no material.",
+ "n_catalogo_fav": 0,
+ "n_acervo": 194,
+ "n_acervo_fav": 23,
+ "n_acervo_detalhe": {
+  "n_decisoes": 210,
+  "n_processos": 194,
+  "n_processos_fav_indicio": 23,
+  "rotulo": "recorte por palavra na ementa; indicio, nao taxa; contar por processo"
+ },
+ "contrarias_ids": [],
+ "precedentes": [
+  {
+   "id": "STJ:sumulas:58",
+   "fonte": "Cognitio",
+   "conferido": true
+  },
+  {
+   "id": "stj-rr-373",
+   "fonte": "PANGEA",
+   "conferido": false
+  }
+ ],
+ "walton": {
+  "esquema": "ARG.SCH.WRM08.VERBAL_CLASSIFICATION",
+  "status": "WEAK_UNANSWERED_CQ"
+ },
+ "excertos": [
+  {
+   "numero": "0555415-68.2015.8.05.0001",
+   "texto": "MATÉRIA COM EVIDENTE REPERCUSSÃO NA ESFERA TRIBUTÁRIA. COMPETÊNCIA DA VARA FAZENDÁRIA FISCAL (SUSCITADO)."
+  },
+  {
+   "numero": "0099343-53.2020.8.05.0001",
+   "texto": "A COMPETÊNCIA DEVE SER FIRMADA PELO PROVEITO ECONÔMICO RECLAMADO."
+  }
+ ]
+}

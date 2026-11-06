@@ -1,0 +1,59 @@
+{
+ "tese": 33,
+ "formulacao": "Se o Município de Salvador lança o IPTU (e a TRSD) acima do limite máximo de aumento anual fixado na Lei municipal 8.473/2013 (as travas), por erro de cálculo do limite ou por desconsiderá-lo, então o lançamento é nulo na parte excedente por ofensa à legalidade estrita e o contribuinte paga só até o teto legal, com restituição do excesso.",
+ "n_catalogo_fav": 1,
+ "n_acervo": 322,
+ "n_acervo_fav": 73,
+ "contrarias_ids": [
+  "0508495-31.2018.8.05.0001"
+ ],
+ "precedentes": [
+  {
+   "id": "STF Tema 211 (RE 648.245/MG)",
+   "fonte": "Cognitio STF:paradigmas-teor:211-5323879",
+   "conferido": true
+  }
+ ],
+ "walton": {
+  "esquema": "ARG.SCH.WRM08.RULES.S55_1",
+  "status": "WEAK_UNANSWERED_CQ"
+ },
+ "excertos": [
+  {
+   "numero": "8005719-76.2018.8.05.0001",
+   "texto": "ERRO DE CÁLCULO NO LIMITE MÁXIMO DO TRIBUTO. PRINCÍPIO DA LEGALIDADE EM SENTIDO ESTRITO."
+  },
+  {
+   "numero": "8009457-72.2018.8.05.0001",
+   "texto": "IPTU 2018 LANÇADO COM FLAGRANTE ILEGALIDADE AOS PRECEITOS LIMITADORES PREVISTOS NA LEI MUNICIPAL Nº 8.473/2013"
+  },
+  {
+   "numero": "8010806-13.2018.8.05.0001",
+   "texto": "AÇÃO ANULATÓRIA DE DÉBITO FISCAL. LANÇAMENTO DO IPTU E TRSD EIVADO DE ERRO NA BASE DE CALCULO DA TRAVA."
+  },
+  {
+   "numero": "8090444-22.2023.8.05.0001",
+   "texto": "MAJORAÇÃO EXORBITANTE. FLAGRANTE ILEGALIDADE AOS PRECEITOS LIMITADORES PREVISTOS NA LEI MUNICIPAL Nº 8.473/2013 E EM OUTRAS NORMAS."
+  },
+  {
+   "numero": "8081502-35.2022.8.05.0001",
+   "texto": "ALTERAÇÃO CADASTRAL UNILATERAL. MAJORAÇÃO EXCESSIVA. INOBSERVÂNCIA DOS LIMITES LEGAIS DE AUMENTO."
+  },
+  {
+   "numero": "0552379-13.2018.8.05.0001",
+   "texto": "EXTRAPOLAÇÃO DO LIMITE IMPOSTO PELO ART. 1º, DA LEI MUNICIPAL NO. 8.473/2013"
+  },
+  {
+   "numero": "8024363-33.2019.8.05.0001",
+   "texto": "INCONSTITUCIONALIDADE PARCIAL. REDUÇÃO DE ALÍQUOTA. RECÁLCULO DA BASE DE CÁLCULO PARA O EXERCÍCIO DE 2014."
+  },
+  {
+   "numero": "0508495-31.2018.8.05.0001",
+   "texto": "INAPLICABILIDADE DA LEGISLAÇÃO MUNICIPAL QUANTO ÀS \"TRAVAS\" NOS VALORES DE COBRANÇA."
+  },
+  {
+   "numero": "0508495-31.2018.8.05.0001",
+   "texto": "DEMONSTRATIVOS QUE COMPROVAM RESPEITO AO LIMITE ESTABELECIDO COM BASE NA ALÍQUOTA IPCA-E."
+  }
+ ]
+}

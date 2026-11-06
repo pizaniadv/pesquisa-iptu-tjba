@@ -1,0 +1,136 @@
+{
+ "tese": 12,
+ "formulacao": "Se o mesmo imóvel é tributado duas vezes no mesmo exercício, por duas inscrições do mesmo Município ou por dois Municípios que disputam o território, e o contribuinte prova a identidade do imóvel e o pagamento de uma das cobranças, então a segunda é bis in idem, o crédito está extinto (art. 156, I, do CTN) ou sem fato gerador próprio, a execução se extingue e cabem repetição, honorários e, havendo protesto, dano moral.",
+ "n_catalogo_fav": 18,
+ "n_acervo": 92,
+ "n_acervo_fav": 26,
+ "contrarias_ids": [
+  "8045606-89.2026.8.05.0000",
+  "8065222-84.2025.8.05.0000",
+  "DEC-TJBA-acbfd4b1240c"
+ ],
+ "precedentes": [
+  {
+   "id": "Tema 421/STJ",
+   "fonte": "Cognitio STJ:precedentes:Tema-421",
+   "conferido": true
+  },
+  {
+   "id": "Súmula 393/STJ",
+   "fonte": "Cognitio STJ:sumulas:393",
+   "conferido": true
+  },
+  {
+   "id": "Súmula 392/STJ",
+   "fonte": "Cognitio STJ:sumulas:392",
+   "conferido": true
+  },
+  {
+   "id": "Precedente do STJ sobre pagamento a ente incompetente / bitributação municipal de IPTU",
+   "fonte": "não encontrado",
+   "conferido": false
+  }
+ ],
+ "walton": {
+  "esquema": "ARG.SCH.WRM08.EVIDENCE_TO_HYPOTHESIS",
+  "status": "WEAK_UNANSWERED_CQ"
+ },
+ "excertos": [
+  {
+   "numero": "0771394-06.2014.8.05.0039",
+   "texto": "lançamento em duplicidade do crédito pelo Fisco Municipal em virtude da manutenção indevida de duas inscrições imobiliárias ativas para um mesmo imóvel"
+  },
+  {
+   "numero": "0392989-80.2013.8.05.0001",
+   "texto": "Caracterizado o bis in idem tributário quando demonstrado que o mesmo imóvel foi objeto de cobrança através de duas inscrições imobiliárias distintas"
+  },
+  {
+   "numero": "0806631-79.2018.8.05.0001",
+   "texto": "IPTU. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. DUPLICIDADE DE MATRÍCULA. IMPOSTO REGULARMENTE PAGO. BIS IN IDEM. INSUBSISTÊNCIA DA EXECUÇÃO."
+  },
+  {
+   "numero": "0765074-49.2017.8.05.0001",
+   "texto": "O Boletim de Alteração de Unidade Imobiliária emitido pelo próprio ente municipal confirma a unificação da inscrição, afastando a exigibilidade do crédito tributário."
+  },
+  {
+   "numero": "8005860-59.2022.8.05.0000",
+   "texto": "MATRÍCULA REGISTRADA EM DUPLICIDADE. ERRO SISTÊMICO RECONHECIDO PELA PARTE AGRAVADA."
+  },
+  {
+   "numero": "0961167-08.2015.8.05.0113",
+   "texto": "EQUÍVOCO NO ENDEREÇO DO IMÓVEL TRIBUTADO QUE GEROU DUPLICIDADE DE INSCRIÇÃO MUNICIPAL. ERRO COMETIDO PELA ADMINISTRAÇÃO PUBLICA."
+  },
+  {
+   "numero": "0301135-05.2013.8.05.0001",
+   "texto": "o prazo de cinco anos para pleitear o direito de restituição do pagamento de tributo indevido conta-se da data de extinção do crédito tributário"
+  },
+  {
+   "numero": "8029534-34.2020.8.05.0001",
+   "texto": "IPTU. COBRANÇA EM DUPLICIDADE. DÉBITO INEXISTENTE. PROTESTO INDEVIDO DO NOME DA PARTE AUTORA. DANOS MORAIS IN RE IPSA."
+  },
+  {
+   "numero": "8008748-36.2022.8.05.0150",
+   "texto": "DISPUTA TERRITORIAL. COMPETÊNCIA TERRITORIAL INDEFINIDA. BIS IN IDEM FISCAL. COMPETÊNCIA DO MUNICÍPIO DE SALVADOR."
+  },
+  {
+   "numero": "8008497-18.2022.8.05.0150",
+   "texto": "a competência para a cobrança do IPTU cabe ao Município de Salvador, considerando-se o acordo intermunicipal e a prestação dos serviços públicos no local"
+  },
+  {
+   "numero": "8000188-71.2023.8.05.0150",
+   "texto": "COMPETÊNCIA TRIBUTÁRIA DO MUNICÍPIO DE SALVADOR. ACORDO ENTRE OS MUNICÍPIOS COM INTERMEDIAÇÃO DO MINISTÉRIO PÚBLICO."
+  },
+  {
+   "numero": "8001288-61.2023.8.05.0150",
+   "texto": "Restou comprovado através da documentação apresentada aos autos que a competência é o Município de Salvador, desde do ano de 2015"
+  },
+  {
+   "numero": "8004329-70.2022.8.05.0150",
+   "texto": "IMÓVEL COM INSCRIÇÃO NOS DOIS MUNICÍPIOS. BITRIBUTAÇÃO."
+  },
+  {
+   "numero": "8017356-86.2023.8.05.0150",
+   "texto": "É inconcebível que o contribuinte seja surpreendido com uma súbita cobrança de IPTU em duplicidade, isto é, por dois entes federativos distintos"
+  },
+  {
+   "numero": "8055358-56.2024.8.05.0000",
+   "texto": "É inconcebível que o contribuinte seja surpreendido com uma súbita cobrança de IPTU em duplicidade, isto é, por dois entes federativos distintos, sobre o mesmo imóvel."
+  },
+  {
+   "numero": "8000306-75.2023.8.05.9000",
+   "texto": "suspendendo a exigibilidade do crédito objeto da Execução Fiscal nº. 8015331-37.2022.8.05.0150, até que seja definido o real sujeito ativo da relação tributária em comento"
+  },
+  {
+   "numero": "8014830-49.2023.8.05.0150",
+   "texto": "INEXISTÊNCIA DE DOLO OU CULPA DO EXECUTADO. BOA FÉ DO CONTRIBUINTE. VALIDADE DE PAGAMENTO EFETUADO. IMPOSSIBILIDADE DE BITRIBUTAÇÃO."
+  },
+  {
+   "numero": "8006689-46.2020.8.05.0150",
+   "texto": "TEORIA DA APARÊNCIA. INEXISTÊNCIA DE DOLO OU CULPA DO APELADO. BOA FÉ DO CONTRIBUINTE. IMPOSSIBILIDADE DE BITRIBUTAÇÃO."
+  },
+  {
+   "numero": "8105607-47.2020.8.05.0001",
+   "texto": "Vedação à cobrança tributária em duplicidade."
+  },
+  {
+   "numero": "8008966-18.2023.8.05.0154",
+   "texto": "COBRANÇA EM DUPLICIDADE. IMPOSSIBILIDADE DE SUBSTITUIÇÃO DA CERTIDÃO DE DÍVIDA ATIVA (CDA)."
+  },
+  {
+   "numero": "8098778-16.2021.8.05.0001",
+   "texto": "COBRANÇA DUPLICADA DE IPTU. PROTESTO INDEVIDO."
+  },
+  {
+   "numero": "8045606-89.2026.8.05.0000",
+   "texto": "INEFICÁCIA DE PAGAMENTOS REALIZADOS A ENTE MUNICIPAL INCOMPETENTE."
+  },
+  {
+   "numero": "8065222-84.2025.8.05.0000",
+   "texto": "AUSÊNCIA DE PROVA DOCUMENTAL PRÉ-CONSTITUÍDA E INEQUÍVOCA ACERCA DA INDIVISIBILIDADE FÁTICA E JURÍDICA DO IMÓVEL."
+  },
+  {
+   "numero": "0510457-31.2014.8.05.0001",
+   "texto": "Dúvida preexistente à época do ajuizamento da ação, mas apenas alegada após a prolação da sentença."
+  }
+ ]
+}

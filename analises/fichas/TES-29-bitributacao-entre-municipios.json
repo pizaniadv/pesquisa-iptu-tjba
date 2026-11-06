@@ -1,0 +1,42 @@
+{
+  "tese": 29,
+  "formulacao": "Se dois Municípios cobram IPTU do mesmo imóvel e o imóvel está, pela lei estadual de limites ou pela administração consolidada da área, no território de um deles, então o outro é incompetente para lançar e executar: a CDA dele é nula, a execução se extingue com honorários contra ele, e o contribuinte pode consignar o tributo e ver a dívida quitada com o ente competente. Nos 13 processos do catálogo, o Município competente é Salvador e o incompetente, Lauro de Freitas.",
+  "n_catalogo_fav": 13,
+  "n_acervo": 56,
+  "n_acervo_fav": 34,
+  "contrarias_ids": [
+    "8077091-78.2024.8.05.0000",
+    "8009354-64.2022.8.05.0150"
+  ],
+  "precedentes": [
+    {"id": "Nenhum precedente qualificado STJ/STF sobre a tese (busca exploratória)", "fonte": "PANGEA vazio; Cognitio busca STJ partial_coverage", "conferido": false},
+    {"id": "STJ Tema 421 (REsp 1.185.036) — honorários na exceção acolhida, acessório", "fonte": "Cognitio STJ:paradigmas:Tema-421", "conferido": true},
+    {"id": "Mandado de Segurança nº 439 (competência de Salvador desde 2015)", "fonte": "citado em 8008800-32.2022; não lido", "conferido": false},
+    {"id": "Lei Estadual nº 2.713/1969 (limites)", "fonte": "citada em 8005873-59.2023 e 8023542-62.2022; não lida", "conferido": false}
+  ],
+  "walton": {"esquema": "ARG.SCH.WRM08.VERBAL_CLASSIFICATION", "status": "PLAUSIBLE"},
+  "excertos": [
+    {"numero": "8012160-72.2022.8.05.0150", "texto": "a localidade, até a definição dos limites pelo Estado da Bahia, pertence ao Município de Salvador"},
+    {"numero": "8009830-10.2019.8.05.0150", "texto": "a cobrança do IPTU sobre o imóvel localizado no Loteamento Marisol é de competência do Município de Salvador, considerando a indefinição dos limites territoriais entre os dois municípios, o que evita a bitributação"},
+    {"numero": "8020441-17.2022.8.05.0150", "texto": "IMÓVEL SITUADO NA ZONA URBANA DO MUNICÍPIO DE SALVADOR, ÚNICO COMPETENTE PARA LANÇAR, EXIGIR E COBRAR IPTU."},
+    {"numero": "8015565-19.2022.8.05.0150", "texto": "IMÓVEL QUE É CONSIDERADO INTEGRANTE DO MUNICÍPIO DE SALVADOR. HONORÁRIOS ADVOCATÍCIOS DEVIDOS."},
+    {"numero": "8008800-32.2022.8.05.0150", "texto": "COMPETÊNCIA TRIBUTÁRIA DO MUNICÍPIO DE SALVADOR RECONHECIDA PELO MANDADO DE SEGURANÇA Nº 439, A PARTIR DO ANO DE 2015. NULIDADE DO TÍTULO EXECUTIVO COBRADO PELO MUNICÍPIO DE LAURO DE FREITAS."},
+    {"numero": "8015906-11.2023.8.05.0150", "texto": "Ficou comprovado nos autos que a competência tributária para a cobrança do IPTU do imóvel da apelada é do Município de Salvador desde o ano de 2015"},
+    {"numero": "8020009-95.2022.8.05.0150", "texto": "a competência tributária para a cobrança do IPTU do imóvel da apaleda é do Município de Salvador desde o ano de 2015"},
+    {"numero": "8005873-59.2023.8.05.0150", "texto": "AUSÊNCIA DE PROVA DE LEGALIDADE DA COBRANÇA. LEI ESTADUAL N. 2.713/1969. BEM QUE NÃO SE SITUA DENTRO DOS LIMITES DO MUNICÍPIO DE LAURO DE FREITAS."},
+    {"numero": "8021806-34.2023.8.05.0001", "texto": "AUSÊNCIA DE PROVA DE LEGALIDADE DA COBRANÇA E DE QUE O BEM SE SITUA DENTRO DOS LIMITES DO MUNICÍPIO DE LAURO DE FREITAS."},
+    {"numero": "8003245-97.2023.8.05.0150", "texto": "Uma vez demonstrado que o imóvel encontra-se localizado em município diverso, deve ser reconhecida a incompetência do ente público emissor da CDA para a cobrança do IPTU"},
+    {"numero": "8020344-17.2022.8.05.0150", "texto": "fato que não pode resvalar no contribuinte, haja vista que tanto Salvador, quanto Lauro de Freitas, promovem a cobrança do IPTU do mesmo imóvel, ensejando, assim, na bitributação"},
+    {"numero": "8013249-33.2022.8.05.0150", "texto": "IMÓVEL COM INSCRIÇÃO NOS DOIS MUNICÍPIOS. BITRIBUTAÇÃO. SALVADOR. LAURO DE FREITAS. IDENTIFICAÇÃO DO ENTE MUNICIPAL COMPETENTE PARA ARRECADAÇÃO."},
+    {"numero": "8023542-62.2022.8.05.0150", "texto": "O crédito consignado deve ser levantado pelo Município de Salvador e o devedor tributário tem quitada a sua dívida."},
+    {"numero": "8077091-78.2024.8.05.0000", "texto": "COMPETÊNCIA DO MUNICÍPIO DE SALVADOR. EXISTÊNCIA DE ACORDOS ENTRE OS MUNICÍPIOS E DE OBRAS DE ADMINISTRAÇÃO REALIZADAS NA LOCALIDADE PELA PREFEITURA SOTEROPOLITANA."},
+    {"numero": "8077091-78.2024.8.05.0000", "texto": "DECISÃO MANTIDA. RECURSO DESPROVIDO."},
+    {"numero": "8009354-64.2022.8.05.0150", "texto": "tem-se como indispensável a realização de prova pericial, a fim de apurar, com precisão, a localização exata do bem"},
+    {"numero": "8009354-64.2022.8.05.0150", "texto": "Evidenciado o descabimento da exceção de pré-executividade, na hipótese, diante da necessidade de dilação probatória, impositiva é a desconstituição da sentença que a acolheu."},
+    {"numero": "8044820-50.2023.8.05.0000", "texto": "IMPOSSIBILIDADE DE RECONHECER NESSE MOMENTO PROCESSUAL A ILEGITIMIDADE DO AGRAVADO PARA COBRANÇA DO TRIBUTO. QUESTÃO COMPLEXA QUE PERDURA POR ANOS NA ASSEMBLEIA LEGISLATIVA DO ESTADO DA BAHIA."},
+    {"numero": "8044820-50.2023.8.05.0000", "texto": "ACOLHIMENTO DA PRELIMINAR DE SUSPENSÃO DA EXECUÇÃO FISCAL ATÉ QUE A QUESTÃO CONTROVERSA SEJA RESOLVIDA."},
+    {"numero": "8036679-47.2020.8.05.0000", "texto": "BITRIBUTAÇÃO IPTU/TRSD. IDENTIFICAÇÃO DO ENTE MUNICIPAL COMPETENTE PARA ARRECADAÇÃO. DECLÍNIO DE COMPETÊNCIA. COMPLEXIDADE DA CAUSA. NÃO CABIMENTO."},
+    {"numero": "8241501-19.2025.8.05.0001", "texto": "AÇÃO DE PROCEDIMENTO COMUM C/C ANULATÓRIA DE LANÇAMENTO TRIBUTÁRIO COM PEDIDO DE TUTELA DE URGÊNCIA"},
+    {"numero": "8241501-19.2025.8.05.0001", "texto": "forçoso reconhecer a incompetência absoluta deste Juízo para processar e julgar a presente demanda"}
+  ]
+}

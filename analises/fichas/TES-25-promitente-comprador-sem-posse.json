@@ -1,0 +1,102 @@
+{
+  "tese": 25,
+  "formulacao": "Se o promitente comprador nunca exerceu a posse do imóvel, ou deixou de tê-la antes do fato gerador (distrato, cessão dos direitos, anulação do negócio, renúncia à posse no Município), e prova isso, então ele não é contribuinte do IPTU daqueles exercícios, porque o Tema 122 do STJ só o alcança como \"possuidor a qualquer título\".",
+  "n_catalogo_fav": 4,
+  "n_acervo": 805,
+  "n_acervo_fav": 36,
+  "contrarias_ids": [
+    "8032337-36.2021.8.05.0039",
+    "0795758-25.2015.8.05.0001",
+    "8012566-19.2026.8.05.0000"
+  ],
+  "precedentes": [
+    {
+      "id": "STJ Tema 122 (REsp 1.111.202/SP)",
+      "fonte": "PANGEA stj-rr-122; Cognitio STJ:paradigmas-teor:200900091426-892440",
+      "conferido": true
+    },
+    {
+      "id": "STJ Súmula 399",
+      "fonte": "Cognitio STJ:sumulas:399",
+      "conferido": true
+    },
+    {
+      "id": "STJ Tema 1.158 (REsp 1.982.001): posse tributável exige animus domini",
+      "fonte": "Cognitio STJ:integras:301232701",
+      "conferido": true
+    },
+    {
+      "id": "STJ AgInt no REsp 1.950.739",
+      "fonte": "Cognitio STJ:integras:151559969",
+      "conferido": true
+    },
+    {
+      "id": "TJPE Súmula 183 (análogo, não STJ/STF)",
+      "fonte": "PANGEA tjpe-sum-183",
+      "conferido": true
+    },
+    {
+      "id": "STJ sobre promitente comprador sem posse",
+      "fonte": "não localizado",
+      "conferido": false
+    }
+  ],
+  "walton": {
+    "esquema": "ARG.SCH.WRM08.EXCEPTIONAL_CASE",
+    "status": "PLAUSIBLE"
+  },
+  "excertos": [
+    {
+      "numero": "0504009-03.2018.8.05.0001",
+      "texto": "AUSÊNCIA DE COMPROVAÇÃO DO EXERCÍCIO DA POSSE. PROCESSO ADMINISTRATIVO MUNICIPAL DE RENÚNCIA DA POSSE. NÃO INCIDÊNCIA DO IPTU."
+    },
+    {
+      "numero": "0811415-36.2017.8.05.0001",
+      "texto": "É descabida a cobrança do crédito tributário de IPTU do exercício fiscal de 2014 em face de contribuinte que não era o seu proprietário nem promitente comprador à época do fato gerador"
+    },
+    {
+      "numero": "0827404-58.2012.8.05.0001",
+      "texto": "período este em que o Executado não detinha mais a qualidade de promitente comprador, razão pela qual se mostra acertada a sentença de primeiro grau"
+    },
+    {
+      "numero": "8000168-30.2020.8.05.0039",
+      "texto": "ILEGITIMIDADE PASSIVA APÓS A CESSÃO. APELADO QUE DEIXOU DE MANTER QUALQUER VÍNCULO COM O IMÓVEL."
+    },
+    {
+      "numero": "8032337-36.2021.8.05.0039",
+      "texto": "PROMESSA DE COMPRA E VENDA NÃO REGISTRADA. LEGITIMIDADE PASSIVA DO PROPRIETÁRIO REGISTRAL. TEMA 122 DO STJ."
+    },
+    {
+      "numero": "0795758-25.2015.8.05.0001",
+      "texto": "PROMESSA DE COMPRA E VENDA NÃO REGISTRADA. LEGITIMIDADE PASSIVA DO PROPRIETÁRIO REGISTRAL. DESPROVIMENTO."
+    },
+    {
+      "numero": "8012566-19.2026.8.05.0000",
+      "texto": "INSTRUMENTO PARTICULAR DE COMPRA E VENDA NÃO REGISTRADO NO CARTÓRIO IMOBILIÁRIO. INOPONIBILIDADE AO FISCO. LEGITIMIDADE PASSIVA CONCORRENTE E SOLIDÁRIA. TEMA REPETITIVO 122 DO STJ. NECESSIDADE DE DILAÇÃO PROBATÓRIA ACERCA DA POSSE E DA TITULARIDADE. INADEQUAÇÃO DA VIA ELEITA. SÚMULA 393 DO STJ."
+    },
+    {
+      "numero": "8029000-83.2026.8.05.0000",
+      "texto": "ILEGITIMIDADE PASSIVA. ALIENAÇÃO DO IMÓVEL COM REGISTRO ANTERIOR AO FATO GERADOR."
+    },
+    {
+      "numero": "0007391-73.2020.8.05.0039",
+      "texto": "COBRANÇA DE TAXAS DE IPTU ANTES DA IMISSÃO DA PROMITENTE COMPRADORA NA POSSE. DANOS MORAIS CONFIGURADOS."
+    },
+    {
+      "numero": "0505388-18.2014.8.05.0001",
+      "texto": "determinou a restituição de taxas condominiais e IPTU cobrados antes da imissão na posse"
+    },
+    {
+      "numero": "0500829-67.2017.8.05.0080",
+      "texto": "AUTOR QUE POSSUI DIREITO AO RESSARCIMENTO DOS VALORES PAGOS A TÍTULO DE IPTU E TAXAS CONDOMINIAIS."
+    },
+    {
+      "numero": "0562941-23.2014.8.05.0001",
+      "texto": "TAXA CONDOMINIAL, IPTU E ITIV. RESTITUIÇÃO DOS VALORES ADIMPLIDOS."
+    },
+    {
+      "numero": "8011152-83.2026.8.05.0000",
+      "texto": "PRETENSÃO DE IMPOSIÇÃO DE LAVRATURA DE ESCRITURA PÚBLICA, REGISTRO IMOBILIÁRO E TRANSFERÊNCIA DE DÉBITOS DE IPTU."
+    }
+  ]
+}

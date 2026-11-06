@@ -1,0 +1,143 @@
+{
+ "tese": 21,
+ "formulacao": "Se a planta genérica de valores foi revista por decreto, sem lei formal, ou por lei que aplicou um percentual único e elevado a todos os valores unitários padrão (VUP) sem individualizar os imóveis (o caso dos 286% de Camaçari pela Lei 1.293/2013), então a majoração da base de cálculo é ilegal ou inconstitucional, a exigibilidade pode ser suspensa e o lançamento refeito com restituição do excesso.",
+ "n_catalogo_fav": 10,
+ "n_acervo": 103,
+ "n_acervo_fav": 17,
+ "contrarias_ids": [
+  "8022215-18.2020.8.05.0000",
+  "0563614-11.2017.8.05.0001",
+  "0505884-47.2014.8.05.0001",
+  "0505600-39.2014.8.05.0001",
+  "8010680-38.2021.8.05.0039",
+  "0507452-30.2016.8.05.0001",
+  "0500927-83.2014.8.05.0039",
+  "8000169-87.2015.8.05.0201",
+  "0507524-17.2016.8.05.0001",
+  "0524116-10.2014.8.05.0001"
+ ],
+ "precedentes": [
+  {
+   "id": "STF Tema 1084 (ARE 1.245.097)",
+   "fonte": "PANGEA stf-rg-1084; Cognitio STF:repercussao_geral:tema-1084 (cadastro)",
+   "conferido": true
+  },
+  {
+   "id": "STF Tema 211 (RE 648.245/MG)",
+   "fonte": "Cognitio STF:paradigmas-teor:211-5323879",
+   "conferido": true
+  },
+  {
+   "id": "STJ Súmula 160",
+   "fonte": "Cognitio STJ:sumulas:160",
+   "conferido": true
+  },
+  {
+   "id": "TJRS IRDR 26",
+   "fonte": "PANGEA tjrs-irdr-26",
+   "conferido": false
+  }
+ ],
+ "walton": {
+  "esquema": "ARG.SCH.WRM08.ANALOGY",
+  "status": "WEAK_UNANSWERED_CQ"
+ },
+ "excertos": [
+  {
+   "numero": "0302531-29.2015.8.05.0039",
+   "texto": "o aumento do VUP, para todo e qualquer imóvel, no patamar elevado de 286% (duzentos e oitenta e seis por cento) viola a razoabilidade e a proporcionalidade"
+  },
+  {
+   "numero": "8001590-06.2021.8.05.0039",
+   "texto": "APLICAÇÃO DE PERCENTUAL ÚNICO DE ATUALIZAÇÃO DE 286% AOS VALORES UNITÁRIOS PADRÃO (VUP), FIXADOS PELA PGV (PLANTA GENÉRICA DE VALORES IMOBILIÁRIOS). AUMENTO LINEAR DE VALORES UNITÁRIOS. AUSÊNCIA DE INDIVIDUALIZAÇÃO MÍNIMA."
+  },
+  {
+   "numero": "8038630-90.2019.8.05.0039",
+   "texto": "Aumento LINEAR DO VALORES UNITÁRIOS. AUSÊNCIA DE INDIVIDUALIZAÇÃO MÍNIMA. VUP deve refletir as especificidades do imóvel."
+  },
+  {
+   "numero": "0304400-61.2014.8.05.0039",
+   "texto": "A atualização do IPTU com índice uniforme e elevado para todos os imóveis do Município viola princípios constitucionais, notadamente a proporcionalidade e a capacidade contributiva"
+  },
+  {
+   "numero": "8071249-20.2024.8.05.0000",
+   "texto": "A jurisprudência consolidada deste Tribunal pacificou entendimento no sentido da inconstitucionalidade da majoração linear e uniforme do VUP"
+  },
+  {
+   "numero": "8031079-06.2024.8.05.0000",
+   "texto": "Verificou-se que a majoração dos valores unitários padrão (VUP) da PGV, estabelecida pela Lei Municipal nº 1.293/2013, pode ser desproporcional"
+  },
+  {
+   "numero": "8030249-79.2020.8.05.0000",
+   "texto": "MAJORAÇÃO DE 286% NA PLANTA DE VALORES IMOBILIÁRIOS DO MUNICÍPIO, PELA LEI Nº 1.293/2013. CARÁTER CONFISCATÓRIO."
+  },
+  {
+   "numero": "8032258-14.2020.8.05.0000",
+   "texto": "PLANTA GENÉRICA DE VALORES DO MUNICÍPIO DE CAMAÇARI. EXCESSO NA ATUALIZAÇÃO DO VALOR UNITÁRIO PADRÃO (VUP)."
+  },
+  {
+   "numero": "8015659-34.2019.8.05.0000",
+   "texto": "denotando violação aos princípios da razoabilidade e proporcionalidade, corolários do princípio da vedação ao confisco, justificando assim a suspensão da exigibilidade do tributo no referido exercício"
+  },
+  {
+   "numero": "8011139-28.2019.8.05.0001",
+   "texto": "INCONSTITUCIONALIDADE DA LEI MUNICIPAL Nº 7.952/2010. NULIDADE DOS LANÇAMENTOS TRIBUTÁRIOS DO EXERCÍCIO DE 2013."
+  },
+  {
+   "numero": "8001720-30.2020.8.05.0039",
+   "texto": "A comprovação da ilegalidade apontada independe de laudos técnicos e dilação probatória"
+  },
+  {
+   "numero": "0013602-90.2006.8.05.0274",
+   "texto": "MAJORAÇÃO DO VALOR VENAL DOS IMÓVEIS EM PERCENTUAL SUPERIOR AO ÍNDICE OFICIAL DE CORREÇÃO MONETÁRIA. INCONSTITUCIONALIDADE. NECESSIDADE DE LEI EM SENTIDO FORMAL."
+  },
+  {
+   "numero": "0006835-36.2006.8.05.0274",
+   "texto": "NOVOS PARÂMETROS PARA CÁLCULO DE VALOR VENAL. AUSÊNCIA DE LEI FORMAL. IMPOSSIBILIDADE."
+  },
+  {
+   "numero": "8022215-18.2020.8.05.0000",
+   "texto": "ALTERAÇÃO MEDIANTE LEI MUNICIPAL. POSSIBILIDADE. MAJORAÇÃO DO TRIBUTO AUTORIZADA POR DIPLOMA LEGISLATIVO."
+  },
+  {
+   "numero": "0563614-11.2017.8.05.0001",
+   "texto": "Inexiste inconstitucionalidade nas Leis Municipais n. 8464/2013 e 8474/2013, nem vício na Instrução Normativa n. 12/2013"
+  },
+  {
+   "numero": "0505884-47.2014.8.05.0001",
+   "texto": "DECLARAÇÃO INCIDENTAL DAS LEI MUNICIPAIS 8464/2013, 8473/2013 E 8474/2013 PELO TRIBUNAL PLENO DESTE SODALÍCIO. PRECEDENTE DE OBSERVAÇÃO OBRIGATÓRIA."
+  },
+  {
+   "numero": "0505600-39.2014.8.05.0001",
+   "texto": "inexiste ilegalidade nas Leis Municipais nºs 8.464/2013 e 8.474/2013, nem vício na Instrução Normativa SEFAZ nº 12/2013"
+  },
+  {
+   "numero": "0507452-30.2016.8.05.0001",
+   "texto": "VIOLAÇÃO AO PRINCÍPIO DA CAPACIDADE CONTRIBUTIVA RECHAÇADA."
+  },
+  {
+   "numero": "0507524-17.2016.8.05.0001",
+   "texto": "NÃO IDENTIFICADA INCONSTITUCIONALIDADE NA ANÁLISE ABSTRATA DA PLANTA GENÉRICA DE VALORES."
+  },
+  {
+   "numero": "0524116-10.2014.8.05.0001",
+   "texto": "restando assegurado ao Poder Executivo o direito de propor ao Poder Legislativo Municipal a revisão dos valores que servem de base para a constituição do valor venal"
+  },
+  {
+   "numero": "8000169-87.2015.8.05.0201",
+   "texto": "não é dado ao contribuinte, valendo-se de alegações genéricas de suposta violação aos princípios da razoabilidade, da proporcionalidade, da capacidade contributiva e do não confisco, insurgir-se contra os aumentos perpetrados pela Administração Tributária"
+  },
+  {
+   "numero": "8010680-38.2021.8.05.0039",
+   "texto": "MAJORAÇÃO INCIDENTE SOBRE OS VALORES UNITÁRIOS PADRÃO E, NÃO, DIRETAMENTE SOBRE O IPTU, O QUE IMPLICA EM AUMENTOS DIFERENCIADOS PARA CADA PADRÃO DE IMÓVEL."
+  },
+  {
+   "numero": "0500927-83.2014.8.05.0039",
+   "texto": "OBSERVÂNCIA AO PRINCÍPIO DA LEGALIDADE. AUMENTO GRADUAL. PROPORCIONALIDADE E RAZOABILIDADE. RECURSO CONHECIDO E PROVIDO."
+  },
+  {
+   "numero": "8035808-60.2021.8.05.0039",
+   "texto": "INSTAURAÇÃO DE INCIDENTE DE INCONSTITUCIONALIDADE.SÚMULA VINCULANTE Nº 10. AUTOS ENCAMINHADOS AO TRIBUNAL PLENO."
+  }
+ ]
+}

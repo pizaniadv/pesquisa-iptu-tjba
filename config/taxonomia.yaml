@@ -1,0 +1,76 @@
+# Taxonomia v1 (05/11/2026). Caminhos de pesquisa e organizacao — NAO sao conclusoes de que a tese existe.
+# Cada eixo tem: definicao operacional, ancora normativa (unidade capturada do Atlas, un:), conceitos ontologicos
+# e criterios de inclusao. Ancora doutrinaria entra no dossie da tese, com obra e pagina (fo: do Atlas) ou trecho Cognitio.
+versao: v1
+historico:
+  - {versao: v1, data: 2026-11-05, mudanca: "criacao a partir do prompt-mestre §14 + ontologia da casa"}
+
+ontologia:   # conceitos que decidem a classificacao; usados por todos os classificadores
+  fato_gerador:
+    definicao: "propriedade, dominio util ou posse de bem imovel por natureza ou acessao fisica, localizado na zona urbana do Municipio"
+    ancora: ["un:ctn-lei-5172-1966/art-32 caput", "un:constituicao-1988/art-156 caput-inc-I"]
+    distinguir: ["ITR (CTN art. 29: imovel fora da zona urbana)", "ITBI (transmissao, nao propriedade)"]
+  zona_urbana:
+    definicao: "a definida em lei municipal, com ao menos 2 melhoramentos do § 1o (construidos ou mantidos pelo Poder Publico); ou area urbanizavel/de expansao do § 2o"
+    ancora: ["un:ctn-lei-5172-1966/art-32 par-1", "un:ctn-lei-5172-1966/art-32 par-2"]
+    distinguir: ["criterio da localizacao x criterio da destinacao (DL 57/66, art. 15) — so com fonte no dossie"]
+  contribuinte:
+    definicao: "proprietario, titular do dominio util ou possuidor a qualquer titulo"
+    ancora: ["un:ctn-lei-5172-1966/art-34 caput"]
+    distinguir: ["posse com animus domini x posse precaria (locatario, comodatario)", "responsavel x contribuinte"]
+  base_de_calculo:
+    definicao: "valor venal do imovel (nao se considera o valor dos bens mantidos para utilizacao, exploracao, aformoseamento ou comodidade)"
+    ancora: ["un:ctn-lei-5172-1966/art-33 caput"]
+    distinguir: ["atualizacao monetaria por ato do Executivo x majoracao real (reserva de lei)", "planta generica de valores x avaliacao individual"]
+  progressividade:
+    definicao: "fiscal (valor, localizacao, uso: art. 156 § 1o) x extrafiscal no tempo (art. 182 § 4o, II)"
+    ancora: ["un:constituicao-1988/art-156 par-1", "un:constituicao-1988/art-182 par-4"]
+  imunidade_isencao_nao_incidencia:
+    definicao: "imunidade = limite constitucional da competencia; isencao = dispensa legal do tributo devido; nao incidencia = fato fora da hipotese"
+    ancora: ["CF art. 150, VI", "un:constituicao-1988/art-156 par-1-A"]
+  lancamento_e_ciencia:
+    definicao: "lancamento de oficio; notificacao do contribuinte (inclusive por remessa do carne)"
+    ancora: ["CTN arts. 142, 145, 149"]
+  decadencia_prescricao:
+    definicao: "decadencia = prazo para constituir (CTN 173); prescricao = prazo para cobrar o credito constituido (CTN 174), marcos e interrupcao; intercorrente (LEF art. 40)"
+    ancora: ["CTN arts. 173, 174", "Lei 6.830/80 art. 40"]
+
+resultado_por_questao: [favoravel_integral, favoravel_parcial, desfavoravel, sem_exame, indeterminavel]
+natureza_beneficio: [material, processual, provisorio, probatorio, sucumbencial]
+
+eixos:
+  IPTU-01: {nome: "Incidencia e delimitacao", sub: ["area urbana", "expansao urbana", "destinacao rural / IPTU x ITR", "criterios espacial e temporal"], conceitos: [fato_gerador, zona_urbana]}
+  IPTU-02: {nome: "Sujeicao passiva", sub: ["propriedade", "dominio util", "posse", "compromissario comprador", "usufruto", "posse precaria/locatario"], conceitos: [contribuinte]}
+  IPTU-03: {nome: "Responsabilidade e sucessao", sub: ["alienacao", "sucessao", "arrematacao", "credor fiduciario", "legitimidade"], conceitos: [contribuinte]}
+  IPTU-04: {nome: "Imunidades", sub: ["reciproca", "templos", "partidos/sindicatos/educacao/assistencia", "locacao a terceiro e prova da destinacao", "ônus da prova"], conceitos: [imunidade_isencao_nao_incidencia]}
+  IPTU-05: {nome: "Isencoes e beneficios", sub: ["lei municipal", "requisitos", "reconhecimento", "efeitos temporais"], conceitos: [imunidade_isencao_nao_incidencia]}
+  IPTU-06: {nome: "Base de calculo", sub: ["valor venal", "PGV", "avaliacao", "erro cadastral", "area/metragem"], conceitos: [base_de_calculo]}
+  IPTU-07: {nome: "Aliquotas e progressividade", sub: ["progressividade fiscal pre/pos EC 29", "extrafiscal", "seletividade por uso"], conceitos: [progressividade]}
+  IPTU-08: {nome: "Legalidade e temporalidade", sub: ["majoracao por decreto", "anterioridade", "noventena (art. 150 § 1o)", "irretroatividade"], conceitos: [base_de_calculo]}
+  IPTU-09: {nome: "Lancamento e ciencia", sub: ["notificacao/carne", "motivacao", "revisao de oficio", "cadastro", "defesa administrativa"], conceitos: [lancamento_e_ciencia]}
+  IPTU-10: {nome: "Decadencia e prescricao", sub: ["termo inicial", "interrupcao (despacho/citacao)", "intercorrente"], conceitos: [decadencia_prescricao]}
+  IPTU-11: {nome: "CDA e execucao fiscal", sub: ["requisitos da CDA", "nulidade", "ilegitimidade passiva", "excecao de pre-executividade", "substituicao da CDA", "extincao"], conceitos: [contribuinte, lancamento_e_ciencia]}
+  IPTU-12: {nome: "Constricao e protecao patrimonial", sub: ["penhora", "bem de familia", "liberacao"], conceitos: []}
+  IPTU-13: {nome: "Tutela e exigibilidade", sub: ["liminar", "suspensao", "certidao"], conceitos: []}
+  IPTU-14: {nome: "Pagamento e recuperacao", sub: ["repeticao de indebito", "compensacao", "pagamento em duplicidade"], conceitos: []}
+  IPTU-15: {nome: "Encargos e sucumbencia", sub: ["multa", "juros", "correcao", "honorarios"], conceitos: []}
+  IPTU-16: {nome: "Regime municipal especifico", sub: ["municipio", "diploma", "redacao", "vigencia", "exercicio"], conceitos: []}
+  IPTU-17: {nome: "Questoes conexas", sub: ["taxa de lixo (TRSD/TCRS)", "taxa de iluminacao/COSIP", "outros tributos no mesmo caso"], conceitos: [], regra: "vitoria so sobre taxa nao e vitoria sobre IPTU"}
+
+facetas: [tribunal, instancia, orgao, municipio, exercicio_fiscal, tipo_ato, resultado, forca_juridica, situacao_recursal, qualidade_documental, via_descoberta]
+
+vias_descoberta:
+  - neutra_sistematica       # entra no denominador
+  - dirigida_favoravel       # repertorio; fora do denominador salvo se tambem achada pela neutra
+  - referencia_de_decisao
+  - material_interno
+  - outra_documentada
+
+motivos_exclusao:
+  EXC-01: "mencao incidental sem questao tributaria de IPTU"
+  EXC-02: "so reproduz alegacao das partes"
+  EXC-03: "noticia/pista sem decisao verificavel"
+  EXC-04: "duplicata do mesmo ato (bytes ou identidade judicial)"
+  EXC-05: "controversia exclusivamente sobre outro tributo"
+  EXC-06: "fora do recorte territorial/temporal do protocolo"
+  EXC-07: "IPTU so como dado de fato (ex.: comprovante de endereco, partilha, alimentos, locacao, condominio)"

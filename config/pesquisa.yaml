@@ -1,0 +1,47 @@
+# PESQUISA-IPTU — parametros vigentes (protocolo v2, 05/11/2026; v1 preservado em metodologia/protocolo-v1.md)
+projeto: PESQUISA-IPTU
+raiz: 
+data_corte_informacional: 2026-11-05
+fuso_relatorios: America/Sao_Paulo
+perspectiva: favoravel ao contribuinte (contrarias integram controle e denominador)
+
+recortes:
+  nucleo_territorial: BA
+  locais:
+    - {id: TJBA-2G, descricao: "TJBA 2o grau (camaras, secoes)", denominador_proprio: true}
+    - {id: TJBA-TR, descricao: "Turmas Recursais (Projudi/PJe)", denominador_proprio: true}
+    - {id: TJBA-1G, descricao: "1o grau baiano por moldura DataJud (assunto 5952) + DJEN por numero", denominador_proprio: true}
+  superiores:
+    - {id: SUP-NAC, descricao: "STJ/STF jurisprudencia nacional pertinente ao IPTU", entra_no_denominador_BA: false}
+    - {id: SUP-BA, descricao: "STJ/STF em litigio originario da Bahia", entra_no_denominador_BA: false}
+  complementares:
+    - {id: CMT-SSA, descricao: "CMT-Salvador (contencioso administrativo municipal)", denominador_proprio: true}
+    - {id: OUTROS-TJ, descricao: "outros tribunais achados no acervo", denominador_proprio: false}
+    - {id: INTERNO, descricao: "casos e pecas do escritorio (pista, nunca autoridade)", denominador_proprio: false}
+
+janela:
+  prioridade: "2021-01-01 a 2026-11-05 (ultimos 5 anos), expansao retrospectiva por blocos"
+  exclusao_temporal_definitiva: nenhuma
+
+fontes_confirmadas:   # caminhos testados em 05/11/2026
+  F_TJBA: "<ACERVO>/JURISPRUDÊNCIAS-TJBA/<ano>/acordaos-<ano>-<mm>.jsonl"   # 2020-01..2026-05; 2,1 mi registros (STATUS-INGEST 05/07/2026)
+  F_STJ: "<ACERVO>/STJ/acordaos-stj.jsonl"                                   # 135.625 registros (amostra, nao o STJ inteiro)
+  F_STF: ["<ACERVO>/STF/acordaos-stf.jsonl", "<ACERVO>/STF/repercussao-geral-stf.jsonl", "<ACERVO>/STF/sumulas-stf.jsonl"]
+  F_PANGEA: "<ACERVO>/PANGEA/pangea.db"                                      # BNP/CNJ, 13.776 precedentes qualificados (21/07/2026)
+  F_CMT: "<ACERVO>/CMT-Salvador/acordaos-cmt.jsonl"
+  COGNITIO: "MCP cognitio buscar_juris_struct/obter_documento (TJBA 2.162.747; STJ 3.495.966; STF 39.295 telegrafico)"
+  DATAJUD: "https://api-publica.datajud.cnj.jus.br/api_publica_tjba/_search (metadados; assunto 5952 = IPTU)"
+  DJEN: "https://comunicaapi.pje.jus.br/api/v1/comunicacao (texto=frase + siglaTribunal; ou numeroProcesso)"
+  PDPJ: "MCP conector PDPJ local (MCP) (processo, movimentos, documentos, texto)"
+  TJBA_API: "https://jurisprudenciaws.tjba.jus.br/graphql (delta posterior a 15/05/2026)"
+  PORTAIS: ["https://scon.stj.jus.br/SCON/", "https://jurisprudencia.stf.jus.br/", "https://portal.stf.jus.br/repercussaogeral/"]
+
+maquinas:
+  estacao: "orquestracao e lotes leves"
+  servidor_coleta: "coletas de rede longas (DJEN/DataJud)"
+  servidor_lote: "lote pesado"
+
+modelos:
+  bracal: sonnet      # triagem, extracao
+  juridico: opus      # classificacao por questao das centrais, dossies, Walton
+  revisor: codex      # so com a arvore parada

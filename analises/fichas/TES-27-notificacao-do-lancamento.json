@@ -1,0 +1,81 @@
+{
+  "tese": 27,
+  "formulacao": "Se o Município revê, complementa ou altera o enquadramento de um lançamento de IPTU já notificado (inclusive a passagem do imóvel de zona rural para urbana) sem notificar o contribuinte do novo lançamento e sem lhe dar oportunidade de defesa, então o lançamento revisto é nulo ou inexigível, e a CDA que o veicula não se sustenta; para o lançamento anual originário, o envio do carnê basta (Súmula 397 do STJ).",
+  "n_catalogo_fav": 3,
+  "n_acervo": 698,
+  "n_acervo_fav": 146,
+  "contrarias_ids": [
+    "8031040-43.2023.8.05.0000"
+  ],
+  "precedentes": [
+    {
+      "id": "STJ Súmula 397",
+      "fonte": "Cognitio STJ:sumulas:397; PANGEA stj-sum-397",
+      "conferido": true
+    },
+    {
+      "id": "STJ Tema 116 / REsp 1.111.124/PR",
+      "fonte": "PANGEA stj-rr-116; Cognitio STJ:precedentes:Tema-116; STJ:paradigmas-teor:200900156841-874694",
+      "conferido": true
+    },
+    {
+      "id": "STJ Súmula 414",
+      "fonte": "Cognitio STJ:sumulas:414",
+      "conferido": true
+    },
+    {
+      "id": "STJ REsp 1.130.545/RJ (art. 145 CTN, item 2 da ementa)",
+      "fonte": "Cognitio STJ:paradigmas-teor:200900568067-991464",
+      "conferido": true
+    },
+    {
+      "id": "STJ AREsp 2.757.364 (não é precedente; Súmula 284/STF)",
+      "fonte": "Cognitio STJ:integras:331016130",
+      "conferido": true
+    },
+    {
+      "id": "TJPE Súmula 98 (persuasiva, outro tribunal)",
+      "fonte": "PANGEA tjpe-sum-98",
+      "conferido": false
+    },
+    {
+      "id": "STJ REsp 1.933.514",
+      "fonte": "Cognitio STJ:integras:138564640 (não aberto)",
+      "conferido": false
+    }
+  ],
+  "walton": {
+    "esquema": "ARG.SCH.WRM08.RULES.S55_1",
+    "status": "PLAUSIBLE"
+  },
+  "excertos": [
+    {
+      "numero": "0323034-54.2016.8.05.0001",
+      "texto": "a Fazenda Pública promoveu uma revisão do lançamento tributário do IPTU após o lançamento originário realizado com a emissão do carnê, sem, contudo, oportunizar a ampla defesa e contraditório"
+    },
+    {
+      "numero": "8097112-77.2021.8.05.0001",
+      "texto": "AUSÊNCIA DE NOTIFICAÇÃO DO CONTRIBUINTE ACERCA DO LANÇAMENTO COMPLEMENTAR. IMPOSSIBILIDADE."
+    },
+    {
+      "numero": "8011756-68.2019.8.05.0039",
+      "texto": "Não notificado previamente a Contribuinte, sobre a alteração de zona rural para zona urbana, é nulo o lançamento do Imposto Predial e Territorial Urbano"
+    },
+    {
+      "numero": "8031040-43.2023.8.05.0000",
+      "texto": "NULIDADE DA CITAÇÃO EDITALÍCIA. SÚMULA Nº 414 DO SUPERIOR TRIBUNAL DE JUSTIÇA. NÃO EXAURIMENTO DAS TENTATIVAS DE LOCALIZAÇÃO DO ENDEREÇO DO EXECUTADO."
+    },
+    {
+      "numero": "8165454-09.2022.8.05.0001",
+      "texto": "estabelecer se houve violação ao contraditório e à ampla defesa, diante da ausência de notificação prévia da contribuinte quanto ao lançamento complementar"
+    },
+    {
+      "numero": "8165454-09.2022.8.05.0001",
+      "texto": "VIOLAÇÃO AO CONTRADITÓRIO E À SEGURANÇA JURÍDICA. SENTENÇA MANTIDA. RECURSO DESPROVIDO."
+    },
+    {
+      "numero": "8036428-53.2025.8.05.0000",
+      "texto": "ARTIGOS 145, 146 E 149 DO CTN."
+    }
+  ]
+}

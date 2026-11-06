@@ -1,0 +1,121 @@
+{
+ "tese": 15,
+ "formulacao": "Se o crédito de IPTU está sob causa de suspensão do art. 151 do CTN (impugnação administrativa pendente, tutela fundada em indício de ilegalidade, depósito integral, parcelamento em dia), então o Município não pode cobrá-lo nem prosseguir com atos executivos enquanto a suspensão durar; e, se após o parcelamento a Fazenda, intimada, deixa a execução parada, o processo se extingue.",
+ "n_catalogo_fav": 8,
+ "n_acervo": 679,
+ "n_acervo_fav": 181,
+ "contrarias_ids": [
+  "DEC-TJBA-d96d45992c87",
+  "DEC-TJBA-c968f0e6fb51",
+  "8021704-10.2026.8.05.0000",
+  "8004549-53.2020.8.05.0113",
+  "8011503-13.2023.8.05.0113",
+  "DEC-TJBA-0d73ee2a5ca7",
+  "8006324-02.2021.8.05.0103"
+ ],
+ "precedentes": [
+  {
+   "id": "Súmula 112/STJ",
+   "fonte": "Cognitio STJ:sumulas:112",
+   "conferido": true
+  },
+  {
+   "id": "Tema 375/STJ",
+   "fonte": "Cognitio STJ:precedentes:Tema-375",
+   "conferido": true
+  },
+  {
+   "id": "Tema 980/STJ",
+   "fonte": "Cognitio STJ:precedentes:Tema-980",
+   "conferido": true
+  },
+  {
+   "id": "Tema 1.413/STJ",
+   "fonte": "citado no TJBA; não buscado",
+   "conferido": false
+  },
+  {
+   "id": "Súmula 409/STJ",
+   "fonte": "citada no TJBA; não buscada",
+   "conferido": false
+  }
+ ],
+ "walton": {
+  "esquema": "ARG.SCH.WRM08.RULES.S55_1",
+  "status": "PLAUSIBLE"
+ },
+ "excertos": [
+  {
+   "numero": "8001635-59.2023.8.05.0000",
+   "texto": "AÇÃO ANULATÓRIA. COBRANÇA DE IPTU. ALEGAÇÃO DE ILEGALIDADE NA MAJORAÇÃO DO IMPOSTO. SUSPENSÃO DA EXIGIBILIDADE. ANTECIPAÇÃO DA TUTELA DEFERIDA EM PRIMEIRO GRAU."
+  },
+  {
+   "numero": "8050290-28.2024.8.05.0000",
+   "texto": "indícios de ilegalidade nos critérios legais que majoram o IPTU"
+  },
+  {
+   "numero": "8028737-27.2021.8.05.0000",
+   "texto": "IMÓVEL LOCALIZADO EM ÁREA DE PROTEÇÃO AMBIENTAL. APARENTE RESTRIÇÃO INTEGRAL AO DIREITO DE CONSTRUIR. SUSPENSÃO DA EXIGIBILIDADE DO CRÉDITO TRIBUTÁRIO."
+  },
+  {
+   "numero": "8121671-98.2021.8.05.0001",
+   "texto": "IMPUGNAÇÃO ADMINISTRATIVA. APENAS DO IPTU/2018. POSSIBILIDADE. SUSPENSÃO DA EXIGIBILIDADE DO IPTU. CABIMENTO (ART. 151, III, do CTN)."
+  },
+  {
+   "numero": "8000538-87.2023.8.05.9000",
+   "texto": "SUSPENSÃO DA EXIBILIDADE DE IPTU. CONDICIONADO AO DEPÓSITO JUDICIAL DE VALORES INCONTROVERSOS. MEDIDA LIMINAR INDEFERIDA. AGRAVO CONHECIDO E PROVIDO."
+  },
+  {
+   "numero": "8027030-89.2019.8.05.0001",
+   "texto": "INCONSTITUCIONALIDADE DA PREVISÃO DOS CONSECTÁRIOS. MATÉRIA COM LEGISLAÇÃO CONCORRENTE. PREVISÃO DA UNIÃO SOBRE A MATÉRIA. INVASÃO DA COMPETÊNCIA. PROCEDÊNCIA DO PEDIDO."
+  },
+  {
+   "numero": "0775437-66.2015.8.05.0001",
+   "texto": "A ausência de manifestação do ente público, mesmo após regular intimação, configura desídia processual e perda superveniente da utilidade da tutela executiva."
+  },
+  {
+   "numero": "8003250-77.2020.8.05.0004",
+   "texto": "A extinção do processo por abandono da causa (art. 485, III, do CPC/2015) pressupõe a inércia da parte após regular intimação pessoal para dar andamento ao feito."
+  },
+  {
+   "numero": "0806196-13.2015.8.05.0001",
+   "texto": "ADESÃO A PARCELAMENTO ADMINISTRATIVO QUE NÃO CONVALIDA VÍCIO SUBSTANCIAL. TEMA 375 DO STJ."
+  },
+  {
+   "numero": "0005665-55.2006.8.05.0039",
+   "texto": "PARCELAMENTO DE OFÍCIO QUE NÃO É CAUSA INTERRUPTIVA DA PRESCRIÇÃO."
+  },
+  {
+   "numero": "0531268-12.2014.8.05.0001",
+   "texto": "ADESÃO AO PROGRAMA DE PARCELAMENTO INCENTIVADO (PPI). LEI MUNICIPAL 9.306/17. PAGAMENTO INTEGRAL DA DÍVIDA."
+  },
+  {
+   "numero": "8034461-46.2020.8.05.0000",
+   "texto": "INVIABILIDADE DA SUSPENSÃO. NECESSIDADE DE DEPÓSITO DO VALOR INTEGRAL DEVIDO."
+  },
+  {
+   "numero": "8031430-13.2023.8.05.0000",
+   "texto": "a agravante possui débitos tributários que não estão com a exigibilidade suspensa"
+  },
+  {
+   "numero": "8021704-10.2026.8.05.0000",
+   "texto": "SUSPENSÃO DA EXIGIBILIDADE RESTRITA AOS DÉBITOS ABRANGIDOS PELO ACORDO."
+  },
+  {
+   "numero": "8004549-53.2020.8.05.0113",
+   "texto": "SUSPENSÃO DO PROCESSO ATÉ O ADIMPLEMENTO INTEGRAL OU ROMPIMENTO DO PARCELAMENTO."
+  },
+  {
+   "numero": "8011503-13.2023.8.05.0113",
+   "texto": "INAPLICABILIDADE DA TRANSAÇÃO EXTINTIVA (ART. 156, III, DO CTN)."
+  },
+  {
+   "numero": "0781965-24.2012.8.05.0001",
+   "texto": "PRESUNÇÃO DE QUITAÇÃO DA DÍVIDA."
+  },
+  {
+   "numero": "8006324-02.2021.8.05.0103",
+   "texto": "HONORÁRIOS DE ADESÃO AO REFIS MUNICIPAL NÃO COMPROVADOS. RECURSO DA EXECUTADA DESPROVIDO. RECURSO DO MUNICÍPIO PROVIDO."
+  }
+ ]
+}

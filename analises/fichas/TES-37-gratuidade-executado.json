@@ -1,0 +1,72 @@
+{
+ "tese": 37,
+ "formulacao": "Se o executado pessoa natural requer a gratuidade com declaração de insuficiência, sem elementos contrários nos autos, então faz jus ao benefício (art. 99, § 3º, CPC); a pessoa jurídica, se provar a impossibilidade (Súmula 481/STJ); com prova inequívoca de falta de patrimônio, admitem-se embargos sem garantia.",
+ "n_catalogo_fav": 3,
+ "n_acervo": 445,
+ "n_acervo_fav": 45,
+ "n_acervo_detalhe": {
+  "n_decisoes": 492,
+  "n_processos": 445,
+  "n_processos_fav_indicio": 45,
+  "rotulo": "recorte por palavra na ementa; indicio, nao taxa; contar por processo"
+ },
+ "contrarias_ids": [
+  "DEC-TJBA-8fa7bda6bf01",
+  "8011503-13.2023.8.05.0113"
+ ],
+ "favoraveis_extra": [
+  "DEC-TJBA-91b36ff3aeab",
+  "8062700-84.2025.8.05.0000"
+ ],
+ "precedentes": [
+  {
+   "id": "STJ:sumulas:481",
+   "fonte": "Cognitio",
+   "conferido": true
+  },
+  {
+   "id": "STJ:paradigmas-teor:200900453592-1025539",
+   "fonte": "Cognitio (Tema 260, REsp 1.127.815)",
+   "conferido": true
+  },
+  {
+   "id": "tjsc-iac-28",
+   "fonte": "PANGEA",
+   "conferido": false
+  }
+ ],
+ "walton": {
+  "esquema": "ARG.SCH.WRM08.RULES.S55_1",
+  "status": "PLAUSIBLE"
+ },
+ "excertos": [
+  {
+   "numero": "8111623-46.2022.8.05.0001",
+   "texto": "O art. 99, §3º, do CPC/2015 prevê presunção relativa de veracidade à alegação de hipossuficiência deduzida por pessoa natural"
+  },
+  {
+   "numero": "0803273-19.2012.8.05.0001",
+   "texto": "VI - Impositiva é a reforma da sentença recorrida, tão somente, para conceder ao Executado, ora Apelante, os benefícios da Gratuidade da Justiça"
+  },
+  {
+   "numero": "8029728-80.2021.8.05.0039",
+   "texto": "é possível afastar a exigência da garantia do juízo, como condição de procedibilidade dos embargos à execução fiscal"
+  },
+  {
+   "numero": "8002430-31.2024.8.05.0000",
+   "texto": "GRATUIDADE DE JUSTIÇA CONCEDIDA, CONFIRMADA E ESTENDIDA À EXECUÇÃO FISCAL."
+  },
+  {
+   "numero": "8062700-84.2025.8.05.0000",
+   "texto": "PESSOA JURÍDICA INATIVA. COMPROVAÇÃO DE HIPOSSUFICIÊNCIA. SÚMULA 481 DO STJ."
+  },
+  {
+   "numero": "8002313-93.2019.8.05.0039",
+   "texto": "GRATUIDADE DE JUSTIÇA. JULGAMENTO ULTRA PETITA. AUSÊNCIA DE REQUISITOS PARA CONCESSÃO."
+  },
+  {
+   "numero": "8011503-13.2023.8.05.0113",
+   "texto": "GRATUIDADE DA JUSTIÇA CONCEDIDA DE OFÍCIO. AUSÊNCIA DE REQUERIMENTO EXPRESSO DA EXECUTADA"
+  }
+ ]
+}

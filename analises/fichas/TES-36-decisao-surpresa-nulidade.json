@@ -1,0 +1,92 @@
+{
+ "tese": 36,
+ "formulacao": "Se o juízo decide contra o executado com fundamento sobre o qual ele não pôde se manifestar, com prejuízo concreto, então a decisão é nula (arts. 9º e 10 do CPC); no TJBA a vedação à surpresa serve sobretudo ao Município, e a tese é para o contribuinte principalmente defensiva.",
+ "n_catalogo_fav": 1,
+ "n_acervo": 70,
+ "n_acervo_fav": 25,
+ "n_acervo_detalhe": {
+  "n_decisoes": 73,
+  "n_processos": 70,
+  "n_processos_fav_indicio": 25,
+  "rotulo": "recorte por palavra na ementa; indicio, nao taxa; contar por processo"
+ },
+ "contrarias_ids": [
+  "DEC-TJBA-b0a725877fc7",
+  "DEC-TJBA-d600e769907b",
+  "DEC-TJBAAPI-87fdedf15cbe",
+  "DEC-TJBA-dcb327572a46",
+  "DEC-TJBA-6ddaef32957e",
+  "DEC-TJBA-e415aab18a18",
+  "DEC-TJBA-0605b6d144e4",
+  "0762145-19.2012.8.05.0001",
+  "0804591-37.2012.8.05.0001",
+  "0790870-81.2013.8.05.0001"
+ ],
+ "misto_fora_da_contagem": [
+  "0760385-98.2013.8.05.0001"
+ ],
+ "precedentes": [],
+ "precedentes_nota": "PANGEA devolveu stf-adi-7695, stf-adi-7697 e stf-adc-84, impertinentes (ruído de busca por termo); nenhum precedente qualificado conferido. Súmula 452/STJ, Súmula 17/TJBA e Tema 1184/STF só citados em ementas do TJBA [A CONFERIR].",
+ "walton": {
+  "esquema": "ARG.SCH.WRM08.RULES.S55_1",
+  "status": "WEAK_UNANSWERED_CQ"
+ },
+ "excertos": [
+  {
+   "numero": "0511072-36.2018.8.05.0080",
+   "texto": "DECISÃO SURPRESA. AFRONTA AO QUANTO EXPRESSO NOS ARTS. 9º E 10º DO CPC/2015."
+  },
+  {
+   "numero": "0825054-97.2012.8.05.0001",
+   "texto": "DECISÃO SURPRESA. SUPOSIÇÃO DE QUITAÇÃO DE CRÉDITO TRIBUTÁRIO. AUSÊNCIA DE COMPROVAÇÃO EXPRESSA NOS AUTOS"
+  },
+  {
+   "numero": "0762145-19.2012.8.05.0001",
+   "texto": "SUPOSIÇÃO DE QUITAÇÃO DE CRÉDITO TRIBUTÁRIO. AUSÊNCIA DE COMPROVAÇÃO EXPRESSA NOS AUTOS."
+  },
+  {
+   "numero": "0804591-37.2012.8.05.0001",
+   "texto": "PRESUNÇÃO DE QUITAÇÃO INTEGRAL DO CRÉDITO TRIBUTÁRIO. AUSÊNCIA DE INTIMAÇÃO PRÉVIA. DECISÃO SURPRESA."
+  },
+  {
+   "numero": "0790870-81.2013.8.05.0001",
+   "texto": "PRESUNÇÃO DE QUITAÇÃO INTEGRAL DO CRÉDITO TRIBUTÁRIO. AUSÊNCIA DE INTIMAÇÃO PRÉVIA. DECISÃO SURPRESA."
+  },
+  {
+   "numero": "0820454-33.2012.8.05.0001",
+   "texto": "VEDAÇÃO À DECISÃO SURPRESA. ARTS. 9º E 10, CPC. PROVA DE PAGAMENTO INEXISTENTE."
+  },
+  {
+   "numero": "0037689-80.2011.8.05.0001",
+   "texto": "VIOLAÇÃO AO PRINCÍPIO DA NÃO SURPRESA. NECESSIDADE DE PRÉVIA INTIMAÇÃO DO EXEQUENTE."
+  },
+  {
+   "numero": "8002798-93.2017.8.05.0191",
+   "texto": "NECESSIDADE DE PRÉVIAS PROVIDÊNCIAS ADMINISTRATIVAS. DECISÃO SURPRESA. SENTENÇA ANULADA."
+  },
+  {
+   "numero": "8001275-43.2024.8.05.0048",
+   "texto": "SENTENÇA SURPRESA. VIOLAÇÃO AO CONTRADITÓRIO (ARTS. 9º E 10, CPC)."
+  },
+  {
+   "numero": "0505473-87.2017.8.05.0004",
+   "texto": "A decisão proferida sem prévia advertência afronta o princípio da vedação à decisão surpresa"
+  },
+  {
+   "numero": "0507337-09.2016.8.05.0001",
+   "texto": "ausência de violação ao art. 10 do CPC, inexistência de decisão surpresa"
+  },
+  {
+   "numero": "8105607-47.2020.8.05.0001",
+   "texto": "Contraditório substancial observado. Ausência de prejuízo processual."
+  },
+  {
+   "numero": "8011684-41.2021.8.05.0256",
+   "texto": "PRINCÍPIO DA NÃO SURPRESA. AGRAVO CONHECIDO E NÃO PROVIDO."
+  },
+  {
+   "numero": "0760385-98.2013.8.05.0001",
+   "texto": "CONFIGURADA A PRESCRIÇÃO INTERCORRENTE."
+  }
+ ]
+}

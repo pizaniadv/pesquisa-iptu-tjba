@@ -1,0 +1,135 @@
+{
+ "tese": 8,
+ "formulacao": "Se o Município reclassifica unilateralmente o imóvel (de residencial para comercial ou não residencial) e cobra a diferença de alíquota de exercícios já lançados e pagos, ou aplica alíquota que o próprio TJBA declarou inconstitucional (4% e 5% para terrenos no IPTU 2014 de Salvador; tabela da Lei 7.952/2010), então o lançamento da diferença é nulo, o contribuinte paga pela classificação anterior ou pela alíquota válida (mínima) e tem direito à restituição do que pagou a mais.",
+ "n_catalogo_fav": 16,
+ "n_acervo": 296,
+ "n_acervo_fav": 66,
+ "contrarias_ids": [
+  "0560744-61.2015.8.05.0001",
+  "0506741-59.2015.8.05.0001",
+  "0508495-31.2018.8.05.0001",
+  "0510661-02.2019.8.05.0001",
+  "0506436-75.2015.8.05.0001",
+  "0129121-69.2000.8.05.0001",
+  "0535783-51.2018.8.05.0001"
+ ],
+ "precedentes": [
+  {
+   "id": "STF Tema 523 (RE 666.156/RJ)",
+   "fonte": "Cognitio STF:paradigmas-teor:523-752973153",
+   "conferido": true
+  },
+  {
+   "id": "STF Tema 226 (RE 602.347/MG)",
+   "fonte": "PANGEA stf-rg-226; Cognitio STF:paradigmas-teor:226-10676798",
+   "conferido": true
+  },
+  {
+   "id": "TJRN IRDR 2",
+   "fonte": "PANGEA tjrn-irdr-2",
+   "conferido": false
+  }
+ ],
+ "walton": {
+  "esquema": "ARG.SCH.WRM08.PRECEDENT",
+  "status": "PLAUSIBLE"
+ },
+ "excertos": [
+  {
+   "numero": "8067910-26.2019.8.05.0001",
+   "texto": "IMPOSSIBILIDADE DE RETROAÇÃO DA CLASSIFICAÇÃO DO BEM PARA ALCANÇAR TRIBUTO DEVIDAMENTE RECOLHIDO COM BASE NA ANTERIOR CLASSIFICAÇÃO DA UNIDADE"
+  },
+  {
+   "numero": "8043302-61.2019.8.05.0001",
+   "texto": "ALTERAÇÃO UNILATERAL DA CLASSIFICAÇÃO DE IMÓVEL DE RESIDENCIAL PARA COMERCIAL, COM A CONSEQUENTE COBRANÇA DA DIFERENÇA DE ALÍQUOTA APLICÁVEL"
+  },
+  {
+   "numero": "8049802-46.2019.8.05.0001",
+   "texto": "IMPOSSIBILIDADE DE RETROAÇÃO DA ALTERAÇÃO DA CLASSIFICAÇÃO PARA ATINGIR TRIBUTO RECOLHIDO COM BASE NA"
+  },
+  {
+   "numero": "8043314-75.2019.8.05.0001",
+   "texto": "IMPOSSIBILIDADE DE RETROAÇÃO DA ALTERAÇÃO DA CLASSIFICAÇÃO PARA ATINGIR TRIBUTO RECOLHIDO COM BASE NA CLASSIFICAÇÃO ANTERIOR."
+  },
+  {
+   "numero": "8006407-04.2019.8.05.0001",
+   "texto": "AUSÊNCIA DE PREVISÃO EM LEI FEDERAL SOBRE A NATUREZA DO APART HOTEL PARA FINS DE APLICAÇÃO DE ALÍQUOTA DIFERENCIADA DO IPTU."
+  },
+  {
+   "numero": "8001652-34.2019.8.05.0001",
+   "texto": "TIPO CADASTRAL CLASSIFICADO COMO NÃO RESIDENCIAL, QUANDO NA VERDADE SE TRATA DE IMÓVEL RESIDENCIAL"
+  },
+  {
+   "numero": "8079317-29.2019.8.05.0001",
+   "texto": "IMPOSSIBILIDADE DE RETROAÇÃO DA ALTERAÇÃO DA CLASSIFICAÇÃO PARA ATINGIR TRIBUTO RECOLHIDO"
+  },
+  {
+   "numero": "8134513-47.2020.8.05.0001",
+   "texto": "IMPOSSIBILIDADE DE RETROAÇÃO DA ALTERAÇÃO DA CLASSIFICAÇÃO PARA ATINGIR TRIBUTO RECOLHIDO COM BASE NA CLASSIFICAÇAO ANTERIOR."
+  },
+  {
+   "numero": "8024467-25.2019.8.05.0001",
+   "texto": "MAJORAÇÃO DO IPTU E DA TRSD EM DECORRÊNCIA DA ALTERAÇÃO DO IMÓVEL DO AUTOR (APART-HOTEL) DA CATEGORIA RESIDENCIAL PARA A COMERCIAL. MUDANÇA ILÍCITA E QUE ENSEJA AUMENTO INDEVIDO DO TRIBUTO."
+  },
+  {
+   "numero": "8129313-59.2020.8.05.0001",
+   "texto": "ALTERAÇÃO DA CLASSIFICAÇÃO DE IMÓVEL DE RESIDENCIAL PARA COMERCIAL. COBRANÇA DA DIFERENÇA DA ALÍQUOTA APLICÁVEL. TRIBUTO DEVIDAMENTE RECOLHIDO."
+  },
+  {
+   "numero": "8023580-41.2019.8.05.0001",
+   "texto": "MUDANÇA ILÍCITA E QUE ENSEJA AUMENTO INDEVIDO DO TRIBUTO. VEDAÇÃO AO ENRIQUECIMENTO SEM CAUSA."
+  },
+  {
+   "numero": "0311778-51.2015.8.05.0001",
+   "texto": "o juízo em decisão interlocutória, diante da prova negativa que teria que produzir o autor, readequou o ônus da prova, determinando que o Município trouxesse"
+  },
+  {
+   "numero": "0519683-89.2016.8.05.0001",
+   "texto": "a exação de 2014 permaneceu indevidamente com a alíquota inconstitucional de 5%"
+  },
+  {
+   "numero": "0547580-63.2014.8.05.0001",
+   "texto": "reconheceu a nulidade parcial do lançamento do IPTU referente ao exercício de 2014, reduzindo a alíquota de 5% para 3% sobre o imóvel de inscrição nº 2544547"
+  },
+  {
+   "numero": "8010057-93.2018.8.05.0001",
+   "texto": "INCONSTITUCIONALIDADE DA LEI MUNICIPAL Nº 7.952/2010. DEFINIÇÃO DE CRITÉRIOS QUE EXTRAPOLAM OS LIMITES DA COMPETÊNCIA TRIBUTÁRIA DO MUNICÍPIO."
+  },
+  {
+   "numero": "8000876-66.2021.8.05.0000",
+   "texto": "estabelecem a alíquota de 2% somente para as unidades imobiliárias construídas em terrenos sem edificações ou construções"
+  },
+  {
+   "numero": "0007301-97.2011.8.05.0001",
+   "texto": "uma vez declarada inconstitucional a progressividade de alíquota de tributo, é devido o tributo calculado pela alíquota mínima correspondente, de acordo com a destinação do imóvel"
+  },
+  {
+   "numero": "0560744-61.2015.8.05.0001",
+   "texto": "AUSÊNCIA DE VIOLAÇÃO AOS PRINCÍPIOS DA RESERVA LEGAL, DA MOTIVAÇÃO E DA ANTERIORIDADE NONAGESIMAL MAJORAÇÃO DE ALÍQUOTAS. INOCORRÊNCIA."
+  },
+  {
+   "numero": "0506741-59.2015.8.05.0001",
+   "texto": "EXCLUSIVAMENTE NO QUE SE REFERE ÀS ALÍQUOTAS DE 4% E 5% PREVISTAS NA \"TABELA PROGRESSIVA - TERRENOS\" DO SEU ANEXO ÚNICO REFERENTE AOS IMÓVEIS NÃO EDIFICADOS. SITUAÇÃO DIFERENTE DA AUTORA."
+  },
+  {
+   "numero": "0508495-31.2018.8.05.0001",
+   "texto": "DIFERENÇA DE VALORES DE IPTU ENTRE IMÓVEIS DISTINTOS NÃO IMPORTA EM DIREITO LÍQUIDO E CERTO À REDUÇÃO DE UM DELES."
+  },
+  {
+   "numero": "0510661-02.2019.8.05.0001",
+   "texto": "AFRONTA AOS PRINCÍPIOS DA CAPACIDADE CONTRIBUTIVA E CONFISCO. TESES RECHAÇADAS POR OCASIÃO DO JULGAMENTO DA ADI N.º 0002526-37.2014.8.05.0000."
+  },
+  {
+   "numero": "0506436-75.2015.8.05.0001",
+   "texto": "conheceu do recurso e negou-lhe provimento, mantendo a denegação da segurança"
+  },
+  {
+   "numero": "0129121-69.2000.8.05.0001",
+   "texto": "não se trata de progressividade de IPTU e sim de aplicação de alíquotas diferenciadas com base na destinação do imóvel"
+  },
+  {
+   "numero": "0535783-51.2018.8.05.0001",
+   "texto": "MAJORAÇÃO DE ALÍQUOTA. INCONSTITUCIONALIDADE. TESE RECHAÇADA PELO TRIBUNAL PLENO"
+  }
+ ]
+}

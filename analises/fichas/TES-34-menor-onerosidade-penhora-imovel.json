@@ -1,0 +1,123 @@
+{
+ "tese": 34,
+ "formulacao": "Se o executado demonstra concretamente que a penhora em dinheiro lhe é excessivamente gravosa e oferece o próprio imóvel gerador do IPTU com valor suficiente, então a ordem do art. 11 da LEF pode ser mitigada e a penhora recai sobre o imóvel (Tema 578: ônus do executado).",
+ "n_catalogo_fav": 6,
+ "n_acervo": 56,
+ "n_acervo_fav": 9,
+ "n_acervo_detalhe": {
+  "n_decisoes": 71,
+  "n_processos": 56,
+  "n_processos_fav_indicio": 9,
+  "rotulo": "recorte por palavra na ementa; indicio, nao taxa; contar por processo"
+ },
+ "contrarias_ids": [
+  "DEC-TJBA-d02f4ddedea3",
+  "DEC-TJBA-ab019bb98de6",
+  "8042647-82.2025.8.05.0000",
+  "8012805-23.2026.8.05.0000",
+  "8043704-04.2026.8.05.0000"
+ ],
+ "favoraveis_extra_api": [
+  "8062700-84.2025.8.05.0000"
+ ],
+ "precedentes": [
+  {
+   "id": "STJ:paradigmas:Tema-578",
+   "fonte": "Cognitio",
+   "conferido": true
+  },
+  {
+   "id": "STJ:paradigmas-teor:201201666766-1242975",
+   "fonte": "Cognitio",
+   "conferido": true
+  },
+  {
+   "id": "stj-rr-769",
+   "fonte": "PANGEA",
+   "conferido": false
+  },
+  {
+   "id": "stj-rr-1012",
+   "fonte": "PANGEA",
+   "conferido": false
+  }
+ ],
+ "walton": {
+  "esquema": "ARG.SCH.WRM08.EXCEPTIONAL_CASE",
+  "status": "PLAUSIBLE"
+ },
+ "excertos": [
+  {
+   "numero": "8018463-33.2023.8.05.0000",
+   "texto": "É possível a apresentação do imóvel gerador do débito tributário para garantir o juízo da execução."
+  },
+  {
+   "numero": "8026326-69.2025.8.05.0000",
+   "texto": "A recusa judicial imotivada à nomeação do imóvel, com posterior constrição eletrônica de numerário, afronta o princípio da execução menos gravosa e revela desproporcionalidade da medida."
+  },
+  {
+   "numero": "8075277-31.2024.8.05.0000",
+   "texto": "tal ordem não é absoluta, podendo ser flexibilizada quando demonstradas situações específicas que justificam o afastamento da gradação legal."
+  },
+  {
+   "numero": "8021542-88.2021.8.05.0000",
+   "texto": "demonstrado, in initio littis, que a obediência à ordem de penhora constante do art. 11 da Lei n. 6.830/80 acarretaria na violação ao princípio da menor onerosidade ao executado"
+  },
+  {
+   "numero": "8028649-47.2025.8.05.0000",
+   "texto": "A ordem legal de preferência de bens penhoráveis, estatuída no art. 11 da Lei nº 6.830/1980 e no CPC, não tem caráter absoluto, devendo ser mitigada em situações excepcionais."
+  },
+  {
+   "numero": "8021877-78.2019.8.05.0000",
+   "texto": "SOCIEDADE DE ECONOMIA MISTA EM LIQUIDAÇÃO EXTRAJUDICIAL. URBIS. ESTATAL PRESTADORA DE SERVIÇO PÚBLICO. PRINCÍPIO DA MENOR ONEROSIDADE AO DEVEDOR."
+  },
+  {
+   "numero": "8062700-84.2025.8.05.0000",
+   "texto": "REJEIÇÃO DE BEM IMÓVEL PROPTER REM. MENOR ONEROSIDADE. ARTIGO 805 DO CPC. RECURSO CONHECIDO E PROVIMENTO."
+  },
+  {
+   "numero": "0305467-39.2018.8.05.0001",
+   "texto": "OFERTA DO IMÓVEL OBJETO DA DÍVIDA TRIBUTÁRIA. MEIO INEFICAZ. NÃO INCIDÊNCIA DO PRINCÍPIO DA MENOR ONEROSIDADE."
+  },
+  {
+   "numero": "8034241-09.2024.8.05.0000",
+   "texto": "AUSÊNCIA DE ELEMENTOS CONCRETOS QUE JUSTIFIQUE A INCIDÊNCIA DO PRINCÍPIO DA MENOR ONEROSIDADE."
+  },
+  {
+   "numero": "8042647-82.2025.8.05.0000",
+   "texto": "SUBSTITUIÇÃO POR IMÓVEL GERADOR DO IPTU. ORDEM LEGAL DE PREFERÊNCIA DA PENHORA. TEMA 578 DO STJ."
+  },
+  {
+   "numero": "8012805-23.2026.8.05.0000",
+   "texto": "AUSÊNCIA DE COMPROVAÇÃO DE IMPRESCINDIBILIDADE DA SUBSTITUIÇÃO E DE RISCO ATUAL E CONCRETO."
+  },
+  {
+   "numero": "8043704-04.2026.8.05.0000",
+   "texto": "SUBSTITUIÇÃO DE PENHORA DE DINHEIRO POR IMÓVEL. DISCORDÂNCIA DA FAZENDA PÚBLICA."
+  },
+  {
+   "numero": "8009423-22.2026.8.05.0000",
+   "texto": "PENHORA DE IMÓVEL RESIDENCIAL. BEM DE FAMÍLIA."
+  },
+  {
+   "numero": "8002227-11.2020.8.05.0000",
+   "texto": "É PRIORITÁRIA A PENHORA EM DINHEIRO, PODENDO O JUIZ, NAS DEMAIS HIPÓTESES, ALTERAR A ORDEM PREVISTA NO CAPUT DE ACORDO COM AS CIRCUNSTÂNCIAS DO CASO CONCRETO"
+  },
+  {
+   "numero": "8013496-18.2018.8.05.0000",
+   "texto": "o que é vedado na via estreita do recurso especial"
+  },
+  {
+   "numero": "8000428-98.2018.8.05.0000",
+   "texto": "PENHORA DE DINHEIRO. BACENJUD. POSSIBILIDADE. NOMEAÇÃO DE BENS À PENHORA. INEXISTÊNCIA."
+  },
+  {
+   "numero": "8002424-97.2019.8.05.0000",
+   "texto": "mantendo a decisão que deferiu o pedido de penhora de numerário por meio eletrônico"
+  },
+  {
+   "numero": "8064523-93.2025.8.05.0000",
+   "texto": "EXECUÇÃO FISCAL. PENHORA. ORDEM LEGAL. MITIGAÇÃO. MENOR ONEROSIDADE AO DEVEDOR."
+  }
+ ]
+}

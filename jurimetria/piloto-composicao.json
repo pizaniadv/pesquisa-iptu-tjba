@@ -1,0 +1,154 @@
+{
+ "gerado_em": "2026-11-05T23:02:04-03:00",
+ "universo": "piloto E3 (amostra intencional estratificada por indicio T1, semente 20261105) — NAO representativo",
+ "unidade": "questao decidida (tributo=IPTU), registros nao excluidos",
+ "taxa_de_exito": "nao calculavel por desenho (amostra dirigida)",
+ "registros": 24,
+ "excluidos": [
+  "DEC-STJ-30002772af9e",
+  "DEC-TJBA-0ff1906dbe1b",
+  "DEC-TJBA-54279381ee86",
+  "DEC-TJBA-586b1b5d074a",
+  "DEC-TJBA-c0ea6c492630"
+ ],
+ "por_eixo": {
+  "IPTU-01": {
+   "sem_exame": {
+    "n": 1,
+    "ids": [
+     "DEC-TJBA-0b55055e5c4a#Q2"
+    ]
+   }
+  },
+  "IPTU-04": {
+   "favoravel_integral": {
+    "n": 6,
+    "ids": [
+     "DEC-PANGEA-16443fd19693#Q1",
+     "DEC-PANGEA-fee6cba8f601#Q1",
+     "DEC-TJBA-2f27678bfdd9#Q1",
+     "DEC-TJBA-3b1fec99f102#Q1",
+     "DEC-TJBA-4a49bc3601d8#Q1",
+     "DEC-TJBA-4cbfee164302#Q1"
+    ]
+   },
+   "sem_exame": {
+    "n": 1,
+    "ids": [
+     "DEC-PANGEA-92184bd597d5#Q1"
+    ]
+   },
+   "desfavoravel": {
+    "n": 1,
+    "ids": [
+     "DEC-TJBA-9d673755fc33#Q2"
+    ]
+   }
+  },
+  "IPTU-06": {
+   "desfavoravel": {
+    "n": 1,
+    "ids": [
+     "DEC-TJBA-3559ccd91b6f#Q5"
+    ]
+   }
+  },
+  "IPTU-07": {
+   "desfavoravel": {
+    "n": 1,
+    "ids": [
+     "DEC-TJBA-3559ccd91b6f#Q4"
+    ]
+   }
+  },
+  "IPTU-08": {
+   "desfavoravel": {
+    "n": 3,
+    "ids": [
+     "DEC-TJBA-3559ccd91b6f#Q2",
+     "DEC-TJBA-3559ccd91b6f#Q3",
+     "DEC-TJBA-5e5ace5addec#Q3"
+    ]
+   },
+   "favoravel_integral": {
+    "n": 1,
+    "ids": [
+     "DEC-TJBA-97bcca2ed476#Q1"
+    ]
+   }
+  },
+  "IPTU-09": {
+   "favoravel_integral": {
+    "n": 1,
+    "ids": [
+     "DEC-TJBA-48ccfea60db9#Q1"
+    ]
+   }
+  },
+  "IPTU-10": {
+   "favoravel_integral": {
+    "n": 3,
+    "ids": [
+     "DEC-TJBA-49e4f50b9765#Q1",
+     "DEC-TJBA-7ad644b0371d#Q1",
+     "DEC-TJBA-baf0206ad5f6#Q1"
+    ]
+   },
+   "desfavoravel": {
+    "n": 1,
+    "ids": [
+     "DEC-TJBA-a97a0d39c9d6#Q1"
+    ]
+   }
+  },
+  "IPTU-11": {
+   "desfavoravel": {
+    "n": 2,
+    "ids": [
+     "DEC-TJBA-0b55055e5c4a#Q1",
+     "DEC-TJBA-9d673755fc33#Q1"
+    ]
+   },
+   "favoravel_integral": {
+    "n": 1,
+    "ids": [
+     "DEC-TJBA-e342ea215765#Q1"
+    ]
+   }
+  },
+  "IPTU-13": {
+   "desfavoravel": {
+    "n": 1,
+    "ids": [
+     "DEC-TJBA-ea444f3ce019#Q1"
+    ]
+   },
+   "sem_exame": {
+    "n": 1,
+    "ids": [
+     "DEC-TJBA-ea444f3ce019#Q2"
+    ]
+   }
+  },
+  "IPTU-15": {
+   "favoravel_integral": {
+    "n": 3,
+    "ids": [
+     "DEC-TJBA-4a49bc3601d8#Q2",
+     "DEC-TJBA-97bcca2ed476#Q2",
+     "DEC-TJBA-97bcca2ed476#Q3"
+    ]
+   }
+  },
+  "IPTU-16": {
+   "desfavoravel": {
+    "n": 3,
+    "ids": [
+     "DEC-TJBA-3559ccd91b6f#Q1",
+     "DEC-TJBA-5e5ace5addec#Q1",
+     "DEC-TJBA-5e5ace5addec#Q2"
+    ]
+   }
+  }
+ }
+}

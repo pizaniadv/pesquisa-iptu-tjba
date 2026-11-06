@@ -1,0 +1,215 @@
+{
+ "tese": 4,
+ "formulacao": "Se a execução fiscal de IPTU foi dirigida a quem, no fato gerador ou no ajuizamento, já não era proprietário, titular do domínio útil nem possuidor do imóvel e isso se prova por documento (em regra, registro), então o executado é parte ilegítima, a CDA não pode ser emendada para trocar o sujeito passivo (Súmula 392/STJ), a execução se extingue sem mérito e o Município paga honorários pela causalidade.",
+ "n_catalogo_fav": 25,
+ "n_acervo": 522,
+ "n_acervo_fav": 138,
+ "contrarias_ids": [
+  "DEC-TJBA-86acd810c923",
+  "8071811-29.2024.8.05.0000",
+  "8072682-59.2024.8.05.0000",
+  "DEC-TJBA-dd51dc6458ed",
+  "8032337-36.2021.8.05.0039",
+  "0795758-25.2015.8.05.0001"
+ ],
+ "precedentes": [
+  {
+   "id": "Súmula 392/STJ",
+   "fonte": "Cognitio STJ:sumulas:392",
+   "conferido": true
+  },
+  {
+   "id": "Tema 166/STJ",
+   "fonte": "Cognitio STJ:precedentes:Tema-166",
+   "conferido": true
+  },
+  {
+   "id": "Súmula 393/STJ",
+   "fonte": "Cognitio STJ:sumulas:393",
+   "conferido": true
+  },
+  {
+   "id": "Tema 122/STJ",
+   "fonte": "Cognitio STJ:precedentes:Tema-122",
+   "conferido": true
+  },
+  {
+   "id": "Tema 421/STJ",
+   "fonte": "Cognitio STJ:precedentes:Tema-421",
+   "conferido": true
+  },
+  {
+   "id": "Tema 108/STJ",
+   "fonte": "Cognitio STJ:precedentes:Tema-108",
+   "conferido": true
+  },
+  {
+   "id": "Tema 702/STJ (contra-analogia)",
+   "fonte": "Cognitio STJ:precedentes:Tema-702",
+   "conferido": true
+  },
+  {
+   "id": "REsp 2.116.283/STJ (aplica Súmula 392 e Tema 166)",
+   "fonte": "Cognitio STJ:integras:333440766 (ementa na busca)",
+   "conferido": false
+  }
+ ],
+ "walton": {
+  "esquema": "ARG.SCH.WRM08.VERBAL_CLASSIFICATION",
+  "status": "PLAUSIBLE"
+ },
+ "excertos": [
+  {
+   "numero": "0095614-44.2005.8.05.0001",
+   "texto": "ALIENAÇÃO REGISTRADA ANTES DA OCORRÊNCIA DO FATO GERADOR. ILEGITIMIDADE PASSIVA. OCORRÊNCIA."
+  },
+  {
+   "numero": "8007837-24.2022.8.05.0150",
+   "texto": "ILEGITIMIDADE PASSIVA DO EXECUTADO EM RAZÃO DE TER ALIENADO O IMÓVEL ANTES DO FATO GERADOR DOS TRIBUTOS"
+  },
+  {
+   "numero": "8050942-16.2022.8.05.0000",
+   "texto": "em razão da ilegitimidade passiva da Agravada, para responder pelo débito IPTU de imóvel transferido antes de ocorrido o respectivo fato gerador"
+  },
+  {
+   "numero": "0067252-76.1998.8.05.0001",
+   "texto": "a pretendida substituição da CDA não decorreu em virtude de simples erro material ou formal, mas sim de alteração do sujeito passivo da obrigação tributária"
+  },
+  {
+   "numero": "0130100-16.2009.8.05.0001",
+   "texto": "Constata-se, assim, que o vício presente na CDA juntada aos autos é substancial e, portanto insanável, não se tratando de mero erro material ou formal."
+  },
+  {
+   "numero": "0038495-72.1998.8.05.0001",
+   "texto": "Sendo direcionada a Execução Fiscal referente a IPTU ao antigo proprietário do imóvel, que não mais figurava como contribuinte ao tempo da propositura da ação"
+  },
+  {
+   "numero": "0015189-88.2009.8.05.0001",
+   "texto": "EXECUÇÃO MOVIDA CONTRA ANTIGO PROPRIETÁRIO. ILEGITIMIDADE PASSIVA AD CAUSAM. REDIRECIONAMENTO DA EXECUÇÃO PARA ATUAL PROPRIETÁRIO. INEXIGIBILIDADE."
+  },
+  {
+   "numero": "0067028-21.2010.8.05.0001",
+   "texto": "A arrematação judicial de imóvel implica sub-rogação do crédito tributário no preço da arrematação, não sendo legítima a execução contra o antigo proprietário após a transferência da posse ou propriedade."
+  },
+  {
+   "numero": "0167595-07.2003.8.05.0001",
+   "texto": "Tema n.º 166 - A Fazenda Pública pode substituir a certidão de dívida ativa (CDA) até a prolação da sentença de embargos, quando se tratar de correção de erro material ou formal, vedada a modificação do sujeito passivo da execução."
+  },
+  {
+   "numero": "8005183-35.2020.8.05.0150",
+   "texto": "ILEGITIGIMIDADE PASSIVA DA CONSTRUTORA TENDA S/A CONFIGURADA."
+  },
+  {
+   "numero": "8013989-58.2019.8.05.0000",
+   "texto": "A documentação encartada aos autos e submetida ao contraditório, porém, permite a desconstituição da ordem restritiva impugnada"
+  },
+  {
+   "numero": "8030976-84.2023.8.05.0080",
+   "texto": "O executado logrou êxito em afastar a presunção da CDA ao apresentar certidão do cartório competente que atesta a inexistência de registro imobiliário"
+  },
+  {
+   "numero": "0170321-17.2004.8.05.0001",
+   "texto": "Inexistência de relação jurídica de propriedade entre o apelado. Ilegitimidade passiva configurada."
+  },
+  {
+   "numero": "8056920-03.2024.8.05.0000",
+   "texto": "INAPLICABILIDADE DO ARTIGO 135 DO CTN À HIPÓTESE. EXCLUSÃO DO POLO PASSIVO DA DEMANDA QUE SE IMPÕE."
+  },
+  {
+   "numero": "0818220-78.2012.8.05.0001",
+   "texto": "O redirecionamento da execução contra o espólio ou os herdeiros só é admitido quando o falecimento do contribuinte ocorre após sua citação nos autos da execução fiscal."
+  },
+  {
+   "numero": "8001054-85.2019.8.05.0258",
+   "texto": "o STJ sedimentou o entendimento de que o redirecionamento só é possível quando o falecimento do contribuinte ocorrer depois de ele ter sido devidamente citado nos autos da execução fiscal."
+  },
+  {
+   "numero": "0505047-41.2017.8.05.0274",
+   "texto": "Inviabilidade de redirecionamento ao espólio quando morte precede execução. Ajuizamento contra devedor pré-morto que constitui vício insanável."
+  },
+  {
+   "numero": "0126041-58.2004.8.05.0001",
+   "texto": "FALECIMENTO DO EXECUTADO ANTES DA OCORRÊNCIA DO FATO GERADOR DOS TRIBUTOS E DO AJUIZAMENTO DA DEMANDA. ILEGITIMIDADE DO D CUJUS."
+  },
+  {
+   "numero": "8002798-12.2022.8.05.0032",
+   "texto": "FALECIMENTO DO EXECUTADO ANTES DA CITAÇÃO. IMPOSSIBILIDADE DE SUBSTITUIÇÃO DO SUJEITO PASSIVO. APLICABILIDADE DA SÚMULA 392/STJ."
+  },
+  {
+   "numero": "0819550-13.2012.8.05.0001",
+   "texto": "extingue-se a figura do espólio e, consequentemente, sua legitimidade para figurar no polo passivo da demanda executiva"
+  },
+  {
+   "numero": "8148180-66.2021.8.05.0001",
+   "texto": "AUSÊNCIA DE INDICAÇÃO DE INVENTARIANTE OU HERDEIROS DO ESPÓLIO. DESCUMPRIMENTO DO DESPACHO PARA REGULARIZAÇÃO DO POLO PASSIVO. SENTENÇA MANTIDA."
+  },
+  {
+   "numero": "8050503-02.2022.8.05.0001",
+   "texto": "AJUIZAMENTO CONTRA O ESPÓLIO. NECESSIDADE DE INDICAÇÃO DE INVENTARIANTE OU ADMINISTRADOR PROVISÓRIO. DETERMINAÇÃO DE EMENDA DA INICIAL. INÉRCIA DO ENTE PÚBLICO."
+  },
+  {
+   "numero": "8061044-94.2022.8.05.0001",
+   "texto": "O Espólio deve ser citado em nome daquele que possui poderes de representação processual, sendo certo que a ausência de indicação obsta o desenvolvimento regular do feito"
+  },
+  {
+   "numero": "0786170-91.2015.8.05.0001",
+   "texto": "o espólio é um ente despersonalizado, sendo imperiosa a indicação do inventariante ou do seu administrador"
+  },
+  {
+   "numero": "8000341-03.2022.8.05.0001",
+   "texto": "Não indicado o inventariante, nem os nomes dos herdeiros, o feito deve ser extinto por não haver indicação expressa da pessoa ou das pessoas aptas a receberem a citação"
+  },
+  {
+   "numero": "0790834-97.2017.8.05.0001",
+   "texto": "DOAÇÃO DO IMÓVEL OBJETO DO TRIBUTO. ESCRITURA PÚBLICA REGISTRADA NO CARTÓRIO DO 2º OFÍCIO DE REGISTRO DE IMÓVEIS DESTA CAPITAL."
+  },
+  {
+   "numero": "8029198-33.2020.8.05.0000",
+   "texto": "IMÓVEL VENDIDO EM 1999, CONFORME CONSTA DO REGISTRO PÚBLICO. ILEGITIMIDADE PASSIVA. EXECUÇÃO EXTINTA. AGRAVO PROVIDO."
+  },
+  {
+   "numero": "0794699-94.2018.8.05.0001",
+   "texto": "A CDA TEM EQUÍVOCO NA LEGITIMAÇÃO DO APELADO PARA RESPONDER PELO PAGAMENTO DO TRIBUTO"
+  },
+  {
+   "numero": "8062301-91.2021.8.05.0001",
+   "texto": "tendo o negócio sido devidamente registrado no cartório competente, o que confere publicidade erga omnes"
+  },
+  {
+   "numero": "0500978-96.2014.8.05.0103",
+   "texto": "ILEGITIMIDADE PASSIVA CONFIGURADA. HOMONÍMIA PARCIAL."
+  },
+  {
+   "numero": "8003270-57.2023.8.05.0103",
+   "texto": "HOMONÍMIA. MODIFICAÇÃO DO SUJEITO PASSIVO DA CDA. VEDAÇÃO. SÚMULA 392 DO STJ E TEMA 166 DO STJ."
+  },
+  {
+   "numero": "8006287-70.2021.8.05.0039",
+   "texto": "ALIENAÇÃO DO IMÓVEL COM REGISTRO ANTERIOR AOS FATOS GERADORES."
+  },
+  {
+   "numero": "8071811-29.2024.8.05.0000",
+   "texto": "A escritura pública de compra e venda, ainda que não registrada, evidencia relação jurídica entre a executada e o imóvel, caracterizando posse a qualquer título."
+  },
+  {
+   "numero": "8072682-59.2024.8.05.0000",
+   "texto": "A alegação de ilegitimidade passiva para figurar no polo da execução fiscal fundada em cobrança de IPTU exige comprovação inequívoca da ausência de vínculo jurídico com o imóvel, o que não se evidenciou nos autos."
+  },
+  {
+   "numero": "8041962-80.2022.8.05.0000",
+   "texto": "A AGRAVANTE NÃO COLACIONOU À EXCEÇÃO DE PRÉ-EXECUTIVIDADE, OPOSTA NO JUÍZO PRECEDENTE, DOCUMENTOS QUE DEMONSTRASSEM, INEQUIVOCAMENTE, NÃO SER CONTRIBUINTE DO TRIBUTO OBJETO DA AÇÃO FISCAL."
+  },
+  {
+   "numero": "8032337-36.2021.8.05.0039",
+   "texto": "PROMESSA DE COMPRA E VENDA NÃO REGISTRADA. LEGITIMIDADE PASSIVA DO PROPRIETÁRIO REGISTRAL. TEMA 122 DO STJ."
+  },
+  {
+   "numero": "0795758-25.2015.8.05.0001",
+   "texto": "PROMESSA DE COMPRA E VENDA NÃO REGISTRADA. LEGITIMIDADE PASSIVA DO PROPRIETÁRIO REGISTRAL. DESPROVIMENTO."
+  },
+  {
+   "numero": "8044031-17.2024.8.05.0000",
+   "texto": "A não localização da empresa executada no endereço fiscal declarado, sem comunicação ao Fisco, presume dissolução irregular."
+  }
+ ]
+}

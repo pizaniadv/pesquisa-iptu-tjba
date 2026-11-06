@@ -1,0 +1,150 @@
+{
+ "tese": 13,
+ "formulacao": "Se a execução fiscal de IPTU é ajuizada contra pessoa já falecida, ou contra espólio sem indicação do inventariante ou administrador provisório, e o Município, intimado a emendar, não regulariza o polo passivo, então falta pressuposto processual (art. 75, VII, do CPC) ou há ilegitimidade originária, e a execução se extingue sem mérito, sem substituição da CDA para incluir espólio ou herdeiros quando a morte precedeu a citação (Súmula 392/STJ).",
+ "n_catalogo_fav": 18,
+ "n_acervo": 385,
+ "n_acervo_fav": 85,
+ "contrarias_ids": [
+  "DEC-TJBA-1d702d68fdaa",
+  "DEC-TJBA-2328f2b07675"
+ ],
+ "precedentes": [
+  {
+   "id": "Súmula 392/STJ",
+   "fonte": "Cognitio STJ:sumulas:392",
+   "conferido": true
+  },
+  {
+   "id": "Tema 166/STJ",
+   "fonte": "Cognitio STJ:precedentes:Tema-166",
+   "conferido": true
+  },
+  {
+   "id": "AgInt no AREsp 2.659.697/STJ (2025)",
+   "fonte": "Cognitio STJ:integras:318751505",
+   "conferido": true
+  },
+  {
+   "id": "Controvérsia 657/STJ (pendente)",
+   "fonte": "PANGEA stj-ct-657; Cognitio STJ:pangea:stj-ct-657",
+   "conferido": true
+  },
+  {
+   "id": "Tema 702/STJ",
+   "fonte": "PANGEA stj-rr-702; Cognitio STJ:precedentes:Tema-702",
+   "conferido": true
+  },
+  {
+   "id": "Tema 703/STJ",
+   "fonte": "PANGEA stj-rr-703",
+   "conferido": false
+  },
+  {
+   "id": "IRDR 9/TJPR",
+   "fonte": "PANGEA tjpr-irdr-9",
+   "conferido": false
+  }
+ ],
+ "walton": {
+  "esquema": "ARG.SCH.WRM08.RULES.S55_1",
+  "status": "WEAK_UNANSWERED_CQ"
+ },
+ "excertos": [
+  {
+   "numero": "8001880-92.2018.8.05.0211",
+   "texto": "Cobrança ajuizada contra o espólio sem representação pelo inventariante, ao arrepio do disposto no art. 75, inciso VIII, do CPC"
+  },
+  {
+   "numero": "8001863-56.2018.8.05.0211",
+   "texto": "Hipótese em que o feito executivo foi direcionado em desfavor do Espólio, sem qualquer indicação de seu representante processual."
+  },
+  {
+   "numero": "8001878-25.2018.8.05.0211",
+   "texto": "o espólio será representado em juízo por administrador provisório até que o inventariante preste compromisso"
+  },
+  {
+   "numero": "8001520-60.2018.8.05.0211",
+   "texto": "Ausente a indicação de representante do espólio, carece o processo de pressuposto de constituição e de desenvolvimento válido e regular"
+  },
+  {
+   "numero": "8001698-18.2022.8.05.0001",
+   "texto": "O art. 75 do Código de Processo Civil, em seu inciso VII, prevê expressamente que a representação ativa e passiva do espólio dar-se-á pelo inventariante."
+  },
+  {
+   "numero": "8113000-86.2021.8.05.0001",
+   "texto": "ESPÓLIO. ENTE DESPERSONALIZADO. REPRESENTAÇÃO PROCESSUAL. NECESSIDADE DE INDICAÇÃO DE ADMINISTRADOR PROVISÓRIO OU INVENTARIANTE. REGULARIZAÇÃO DO POLO PASSIVO NÃO ATENDIDA PELA FAZENDA PÚBLICA."
+  },
+  {
+   "numero": "8052314-31.2021.8.05.0001",
+   "texto": "é imprescindível a identificação de seu representante para que se possa dar prosseguimento à ação"
+  },
+  {
+   "numero": "8034128-23.2022.8.05.0001",
+   "texto": "REGULARIZAÇÃO DO POLO PASSIVO NÃO ATENDIDA PELA FAZENDA PÚBLICA. EXTINÇÃO SEM JULGAMENTO DO MÉRITO. NECESSIDADE DE REPRESENTAÇÃO PROCESSUAL DO ESPÓLIO EM JUÍZO."
+  },
+  {
+   "numero": "0814634-62.2014.8.05.0001",
+   "texto": "REGULARIZAÇÃO DA REPRESENTAÇÃO PROCESSUAL NÃO EFETIVADA. EXTINÇÃO DO PROCESSO POR FALTA DE PRESSUPOSTO DE CONSTITUIÇÃO E DESENVOLVIMENTO VÁLIDO E REGULAR DO PROCESSO."
+  },
+  {
+   "numero": "8072571-48.2019.8.05.0001",
+   "texto": "a sua representação, seja por meio de administrador provisório - antes mesmo da abertura do inventário - seja pelo Inventariante, é imprescindível"
+  },
+  {
+   "numero": "8084636-07.2021.8.05.0001",
+   "texto": "INTIMAÇÃO PARA EMENDA À INICIAL. NECESSIDADE. REPRESENTAÇÃO EM JUÍZO. AUSÊNCIA DE MANIFESTAÇÃO DA FAZENDA PÚBLICA."
+  },
+  {
+   "numero": "8085144-50.2021.8.05.0001",
+   "texto": "INEXISTÊNCIA DE DADOS SOBRE A REPRESENTAÇÃO DO ESPÓLIO EXECUTADO."
+  },
+  {
+   "numero": "8150340-64.2021.8.05.0001",
+   "texto": "EXECUÇÃO FISCAL MOVIDA EM FACE DE ESPÓLIO. INTIMAÇÃO PARA EMENDA À INICIAL. NECESSIDADE. REPRESENTAÇÃO EM JUÍZO."
+  },
+  {
+   "numero": "8134774-75.2021.8.05.0001",
+   "texto": "OPORTUNIZADO A EMENDA DA INICIAL, COM INDICAÇÃO DO REPRESENTANTE LEGAL, SOB PENA DE EXTINÇÃO. AUSÊNCIA DE REGULARIZAÇÃO DA PREPRESENTAÇÃO PROCESSUAL."
+  },
+  {
+   "numero": "8084949-65.2021.8.05.0001",
+   "texto": "NECESSIDADE DE INDICAÇÃO DO REPRESENTANTE LEGAL JUDICIAL OU DATIVO OU TITULAR DO DIREITO PARA VIABILIZAR A CITAÇÃO REGULAR."
+  },
+  {
+   "numero": "8136162-13.2021.8.05.0001",
+   "texto": "AUSÊNCIA DE PRESSUPOSTOS DE CONSTITUIÇÃO E DESENVOLVIMENTO VÁLIDO E REGULAR DO PROCESSO. INCIDÊNCIA DOS ARTS. 321 E 485, IV, DO CPC."
+  },
+  {
+   "numero": "8138390-58.2021.8.05.0001",
+   "texto": "AUSÊNCIA DE INDICAÇÃO DE INVENTARIANTE OU HERDEIROS DO ESPÓLIO, OU AINDA DE INVENTARIANTE PROVISÓRIO. OPORTUNIZADA A REGULARIZAÇÃO DO POLO PASSIVO. NÃO OCORRÊNCIA."
+  },
+  {
+   "numero": "8005591-65.2023.8.05.0103",
+   "texto": "AUSÊNCIA DA INDICAÇÃO DO INVENTARIANTE OU SUCESSORES E DO ENDEREÇO. EMENDA DA INICIAL. TRANSCURSO DO PRAZO. IRREGULARIDADE PROCESSUAL NÃO SANADA."
+  },
+  {
+   "numero": "0014008-23.2007.8.05.0001",
+   "texto": "FALECIMENTO DO EXECUTADO ANTES DO AJUIZAMENTO DA AÇÃO. AUSÊNCIA DE CITAÇÃO VÁLIDA. ILEGITIMIDADE PASSIVA. IMPOSSIBILIDADE DE SUBSTITUIÇÃO DO POLO PASSIVO."
+  },
+  {
+   "numero": "8001369-24.2019.8.05.0126",
+   "texto": "EXECUTADO FALECIDO ANTES DO AJUIZAMENTO DA AÇÃO. ILEGITIMIDADE PASSIVA ORIGINÁRIA. IMPOSSIBILIDADE DE REDIRECIONAMENTO AO ESPÓLIO OU ALTERAÇÃO DO POLO PASSIVO NA CDA."
+  },
+  {
+   "numero": "8032106-53.2026.8.05.0000",
+   "texto": "ILEGITIMIDADE PASSIVA DO ESPÓLIO. PRESUNÇÃO RELATIVA DA CERTIDÃO DE DÍVIDA ATIVA. CERTIDÃO DE REGISTRO DE IMÓVEIS."
+  },
+  {
+   "numero": "8120622-85.2022.8.05.0001",
+   "texto": "IMÓVEL CADASTRADO EM NOME DE ESPÓLIO DE TERCEIRO. PROVA DOCUMENTAL PRÉ-CONSTITUÍDA. VEDAÇÃO DE MODIFICAÇÃO DO SUJEITO PASSIVO DA EXECUÇÃO FISCAL."
+  },
+  {
+   "numero": "8136168-20.2021.8.05.0001",
+   "texto": "AUSÊNCIA DE INDICAÇÃO DO INVENTARIANTE/ADMINISTRADOR PROVISÓRIO DO ESPÓLIO. PROVIDÊNCIA DISPENSÁVEL. PETIÇÃO INICIAL QUE CUMPRE OS REQUISITOS DE LEI. SENTENÇA ANULADA."
+  },
+  {
+   "numero": "0807782-17.2017.8.05.0001",
+   "texto": "CONDENAÇÃO DO EXEQUENTE EM HONORÁRIOS ADVOCATÍCIOS. INADMISSIBILIDADE. DESCUMPRIMENTO, POR HERDEIROS, DE OBRIGAÇÃO ACESSÓRIA DANDO CAUSA AO AJUIZAMENTO DA AÇÃO."
+  }
+ ]
+}

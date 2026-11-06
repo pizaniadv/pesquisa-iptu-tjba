@@ -1,0 +1,46 @@
+{
+  "tese": 19,
+  "formulacao": "Se o imóvel é comprovadamente usado em exploração extrativa, vegetal, agrícola, pecuária ou agroindustrial, ou está em zona rural sem os requisitos do art. 32 do CTN, então não incide IPTU, mas ITR, ainda que o imóvel esteja em área que a lei municipal considera urbana. E se o Município reclassifica o imóvel (de rural para urbano) ou reativa uma inscrição já baixada sem notificar o contribuinte e sem processo administrativo, então o lançamento e a CDA são nulos.",
+  "n_catalogo_fav": 11,
+  "n_acervo": 1067,
+  "n_acervo_fav": 140,
+  "contrarias_ids": [
+    "8052650-96.2025.8.05.0000",
+    "8055247-38.2025.8.05.0000",
+    "8030609-09.2023.8.05.0000"
+  ],
+  "precedentes": [
+    {"id": "STJ Tema 174 (REsp 1.112.646/SP)", "fonte": "Cognitio STJ:paradigmas-teor:200900510886-907599", "conferido": true},
+    {"id": "STJ Súmula 626", "fonte": "Cognitio STJ:sumulas:626", "conferido": true},
+    {"id": "STF Tema 138 (RE 594.296/MG)", "fonte": "Cognitio STF:paradigmas-teor:138-1729772", "conferido": true},
+    {"id": "STJ AgInt no REsp 2.090.749 (aplicação do Tema 174; Súmula 7)", "fonte": "Cognitio STJ:integras:219679695", "conferido": true},
+    {"id": "STF Súmula 473 (invocada pela contrária 8055247)", "fonte": "não aberta", "conferido": false}
+  ],
+  "walton": {"esquema": "ARG.SCH.WRM08.RULES.S55_1", "status": "PLAUSIBLE"},
+  "excertos": [
+    {"numero": "8002511-48.2022.8.05.0000", "texto": "não incide IPTU, mas ITR, sobre imóvel localizado na área urbana do Município, desde que comprovadamente utilizado em exploração extrativa, vegetal, agrícola, pecuária ou agroindustrial"},
+    {"numero": "8046880-30.2022.8.05.0000", "texto": "Para definição da incidência tributária, de IPTU ou ITR, em se tratando de imóvel localizado em zona urbana, há de se considerar destinação do bem (REsp nº 1112646/SP)."},
+    {"numero": "0302815-70.2014.8.05.0201", "texto": "incide ITR, ao invés do IPTU, sobre imóvel utilizado em exploração extrativa, vegetal, agrícola, pecuária ou agroindustrial, mesmo que localizado na área urbana do município"},
+    {"numero": "0570624-09.2017.8.05.0001", "texto": "Imóveis comprovadamente utilizados para exploração rural, nos termos do art. 15 do Decreto-Lei nº 57/1966, não estão sujeitos ao IPTU, ainda que situados em área considerada urbana."},
+    {"numero": "8034431-35.2025.8.05.0000", "texto": "não incide IPTU, mas ITR, sobre imóvel localizado em área urbana, desde que comprovadamente utilizado em exploração extrativa, vegetal, agrícola, pecuária ou agroindustrial."},
+    {"numero": "0505955-61.2016.8.05.0039", "texto": "DESTINAÇÃO RURAL DO IMÓVEL. INCIDÊNCIA DO ITR. RECURSO CONHECIDO E IMPROVIDO."},
+    {"numero": "8058846-19.2024.8.05.0000", "texto": "ao lado do critério de localização do imóvel previsto no artigo 32, do CTN deve ser também aferida a destinação do imóvel, se urbano ou rural"},
+    {"numero": "8011756-68.2019.8.05.0039", "texto": "Não notificado previamente a Contribuinte, sobre a alteração de zona rural para zona urbana, é nulo o lançamento do Imposto Predial e Territorial Urbano"},
+    {"numero": "8010153-72.2022.8.05.0000", "texto": "IMÓVEL RURAL. INCIDÊNCIA DO ITR. BAIXA DA INSCRIÇÃO IMOBILIÁRIA E POSTERIOR REATIVAÇÃO DA INSCRIÇÃO SEM CONTRADITÓRIO OU AMPLA DEFESA."},
+    {"numero": "8021521-73.2025.8.05.0000", "texto": "O reconhecimento administrativo de equívoco no desmembramento de imóvel rural caracteriza probabilidade do direito para fins de antecipação de tutela."},
+    {"numero": "8026337-11.2019.8.05.0000", "texto": "Pairando dúvidas sobre o atendimento à exigência mínima prevista no art. 32, §1º, do CTN, impõe-se a necessidade de aprofundamento da instrução processual"},
+    {"numero": "0501145-17.2017.8.05.0004", "texto": "COMPROVADA LOCALIZAÇÃO EM ZONA RURAL. CADASTRO NO INCRA E RECOLHIMENTO DE ITR."},
+    {"numero": "0501145-17.2017.8.05.0004", "texto": "IMPOSSIBILIDADE DE INCIDÊNCIA DE IPTU. BITRIBUTAÇÃO E INVASÃO DA COMPETÊNCIA TRIBUTÁRIA DA UNIÃO CARACTERIZADAS."},
+    {"numero": "8000846-39.2021.8.05.0256", "texto": "suspendeu a exigibilidade dos créditos fiscais relativos a imóveis com natureza rural."},
+    {"numero": "8052713-24.2025.8.05.0000", "texto": "IMÓVEL LOCALIZADO EM ZONA RURAL COM DESTINAÇÃO INDUSTRIAL. INCIDÊNCIA DO ITR. INEXIGIBILIDADE DO IPTU."},
+    {"numero": "8052434-38.2025.8.05.0000", "texto": "IMÓVEL LOCALIZADO EM ZONA RURAL. DESTINAÇÃO INDUSTRIAL. ART. 32 DO CTN. PREVALÊNCIA SOBRE LEGISLAÇÃO MUNICIPAL. TEMA 174 DO STJ."},
+    {"numero": "8054777-07.2025.8.05.0000", "texto": "BAIXA DA INSCRIÇÃO IMOBILIÁRIA RECONHECIDA ADMINISTRATIVAMENTE. REATIVAÇÃO UNILATERAL E DE OFÍCIO PELO MUNICÍPIO. AUSÊNCIA DE PRÉVIO PROCESSO ADMINISTRATIVO. VIOLAÇÃO AO CONTRADITÓRIO E AMPLA DEFESA. TEMA Nº 138 DO STF."},
+    {"numero": "8052650-96.2025.8.05.0000", "texto": "é legítima a incidência do IPTU sobre imóvel situado em zona rural quando comprovada sua destinação econômica à atividade industrial"},
+    {"numero": "8052650-96.2025.8.05.0000", "texto": "ART. 32, § 2º, DO CTN. CRITÉRIO DA DESTINAÇÃO. ORIENTAÇÃO CONSOLIDADA DO STJ. SÚMULA 626/STJ."},
+    {"numero": "8055247-38.2025.8.05.0000", "texto": "IMÓVEL LOCALIZADO EM ZONA RURAL COM DESTINAÇÃO INDUSTRIAL. CRITÉRIOS DE INCIDÊNCIA TRIBUTÁRIA. LEGALIDADE MUNICIPAL EM FACE DO CÓDIGO TRIBUTÁRIO NACIONAL."},
+    {"numero": "8055247-38.2025.8.05.0000", "texto": "A Administração Pública, no exercício de sua autotutela (Súmula 473 do Supremo Tribunal Federal), pode anular atos ilegais, produzindo efeitos ex tunc."},
+    {"numero": "8030609-09.2023.8.05.0000", "texto": "dirimir se o imóvel tem destinação urbana ou rural, haja vista a impossibilidade de bitributação"},
+    {"numero": "8030609-09.2023.8.05.0000", "texto": "inobservância ao fato de haver comprovação nos autos de que o imóvel possui destinação urbana desde 2011"},
+    {"numero": "8030609-09.2023.8.05.0000", "texto": "VÍCIOS EXISTENTES E SANADOS. EMBARGOS CONHECIDOS E ACOLHIDOS O DO MUNICÍPIO E PREJUDICADO O DO AGRAVANTE. ACÓRDÃO REFORMADO."}
+  ]
+}

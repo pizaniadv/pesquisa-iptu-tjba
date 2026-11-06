@@ -1,0 +1,29 @@
+{
+  "tese": 30,
+  "formulacao": "Se a limitação ambiental (APP, zona de proteção ambiental, área non aedificandi) impede por completo o uso, o gozo e a edificação de todo o imóvel, então o proprietário não exerce o domínio útil que o IPTU pressupõe, e não há fato gerador. Se a restrição atinge só parte do imóvel ou é relativa, o IPTU incide.",
+  "n_catalogo_fav": 2,
+  "n_acervo": 107,
+  "n_acervo_fav": 21,
+  "contrarias_ids": [
+    "0526259-35.2015.8.05.0001"
+  ],
+  "precedentes": [
+    {"id": "STJ AgInt no REsp 2.062.845/SP (restrição parcial não desnatura o fato gerador, salvo prova de impossibilidade absoluta)", "fonte": "Cognitio STJ:integras:223610641", "conferido": true},
+    {"id": "STJ AgInt no AREsp 2.345.529 (Súmula 7; mantém acórdão favorável por esvaziamento econômico)", "fonte": "Cognitio STJ:integras:272539042", "conferido": true},
+    {"id": "STJ AREsp 1.723.597 (Súmula 7; APP com inexequibilidade absoluta de uso)", "fonte": "Cognitio STJ:integras:124031465", "conferido": true},
+    {"id": "STJ Tema 1010 (faixa não edificável de APP urbana; não pertinente ao IPTU)", "fonte": "Cognitio STJ:paradigmas:Tema-1010", "conferido": true},
+    {"id": "STJ AgInt no AREsp 2.594.742 (exceção rejeitada por necessidade de prova)", "fonte": "Cognitio STJ:integras:329917838 (só na busca)", "conferido": false},
+    {"id": "STF sobre IPTU em APP", "fonte": "não pesquisado", "conferido": false}
+  ],
+  "walton": {"esquema": "ARG.SCH.WRM08.EXCEPTIONAL_CASE", "status": "PLAUSIBLE"},
+  "excertos": [
+    {"numero": "0030481-07.1995.8.05.0001", "texto": "RESTRIÇÃO ABSOLUTA IMPOSTA AO BEM. HIPÓTESE DE NÃO INCIDÊNCIA TRIBUTÁRIA"},
+    {"numero": "8028737-27.2021.8.05.0000", "texto": "IMÓVEL LOCALIZADO EM ÁREA DE PROTEÇÃO AMBIENTAL. APARENTE RESTRIÇÃO INTEGRAL AO DIREITO DE CONSTRUIR. SUSPENSÃO DA EXIGIBILIDADE DO CRÉDITO TRIBUTÁRIO."},
+    {"numero": "0555629-88.2017.8.05.0001", "texto": "IMÓVEL LOCALIZADO EM ZONA DE PROTEÇÃO AMBIENTAL ZPAM."},
+    {"numero": "0555629-88.2017.8.05.0001", "texto": "LIMITAÇÕES ADMINISTRATIVAS QUE RESTRINGEM O EXERCÍCIO DO DOMÍNIO ÚTIL DA PROPRIEDADE. DESCARACTERIZADA HIPÓTESE DE INCIDÊNCIA DO FATO GERADOR DO TRIBUTO. ARTS 32 E 34 DO CTN C/C ART. 1.228 DO CCB."},
+    {"numero": "0555629-88.2017.8.05.0001", "texto": "passou - em diversas oportunidades de consulta junto à própria Prefeitura Municipal de Salvador - por Análise de Orientação Prévia"},
+    {"numero": "0526259-35.2015.8.05.0001", "texto": "INCIDÊNCIA SOBRE ÁREA DE PROTEÇÃO AMBIENTAL. LEGALIDADE. RESTRIÇÃO À UTILIZAÇÃO DE PARTE DO IMÓVEL QUE NÃO DESNATURA A OCORRÊNCIA DO FATO GERADOR DO TRIBUTO."},
+    {"numero": "8042604-21.2020.8.05.0001", "texto": "conquanto nem sequer seja evidente que restrições administrativas ao uso de imóvel impliquem alteração na hipótese de incidência do IPTU"},
+    {"numero": "8042604-21.2020.8.05.0001", "texto": "FALTA DE PROVA PRÉ-CONSTITUÍDA."}
+  ]
+}

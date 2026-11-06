@@ -1,0 +1,187 @@
+{
+ "tese": 11,
+ "formulacao": "Se a CDA de IPTU omite requisito do art. 202 do CTN e do art. 2º, §§ 5º e 6º, da LEF de que a defesa precisa (imóvel, termo inicial dos acréscimos, fundamento legal, valor por tributo) ou se apoia em lançamento sem fato gerador próprio ou contrário a decisão administrativa, e o Município, intimado, não a corrige, então o título é nulo, a execução se extingue e a substituição para mudar fundamento ou sujeito passivo é vedada.",
+ "n_catalogo_fav": 21,
+ "n_acervo": 76,
+ "n_acervo_fav": 24,
+ "contrarias_ids": [
+  "DEC-TJBA-9509cb4faf44",
+  "DEC-TJBA-49dd91d3bdfd",
+  "DEC-TJBA-acc94bef0f85",
+  "8000696-82.2022.8.05.0172",
+  "8008571-79.2021.8.05.0256",
+  "8000447-26.2026.8.05.0000",
+  "DEC-TJBA-1bdf138a7b5f"
+ ],
+ "precedentes": [
+  {
+   "id": "Súmula 392/STJ",
+   "fonte": "Cognitio STJ:sumulas:392",
+   "conferido": true
+  },
+  {
+   "id": "Tema 166/STJ",
+   "fonte": "Cognitio STJ:precedentes:Tema-166",
+   "conferido": true
+  },
+  {
+   "id": "Súmula 397/STJ",
+   "fonte": "Cognitio STJ:sumulas:397",
+   "conferido": true
+  },
+  {
+   "id": "Tema 248/STJ",
+   "fonte": "PANGEA stj-rr-248; Cognitio STJ:precedentes:Tema-248",
+   "conferido": true
+  },
+  {
+   "id": "Tema 375/STJ",
+   "fonte": "Cognitio STJ:precedentes:Tema-375",
+   "conferido": true
+  },
+  {
+   "id": "Súmula 393/STJ",
+   "fonte": "Cognitio STJ:sumulas:393",
+   "conferido": true
+  },
+  {
+   "id": "Exigência de prejuízo para nulidade da CDA (STJ)",
+   "fonte": "citada em 8030962-15.2024; não localizada como precedente qualificado",
+   "conferido": false
+  }
+ ],
+ "walton": {
+  "esquema": "ARG.SCH.WRM08.RULES.S55_1",
+  "status": "PLAUSIBLE"
+ },
+ "excertos": [
+  {
+   "numero": "8001009-26.2018.8.05.0223",
+   "texto": "NULIDADE DA CDA. CARACTERIZAÇÃO. AUSÊNCIA DE REQUISITOS DISPOSTOS NOS ARTS. 2º, §§ 5º E 6º DA LEI 6.830/90. AUSÊNCIA DE TERMO INICIAL DO CÁLCULO DE JUROS E CORREÇÃO MONETÁRIA."
+  },
+  {
+   "numero": "8000890-03.2022.8.05.0166",
+   "texto": "não há informações acerca de atualização monetária, multa de mora, juros de mora, como algumas datas nela constantes remontam a 01/01/1900"
+  },
+  {
+   "numero": "8001004-96.2021.8.05.0223",
+   "texto": "inexiste termo inicial para incidência da atualização monetária, multa e juros de mora"
+  },
+  {
+   "numero": "8000629-04.2023.8.05.0166",
+   "texto": "NULIDADE DA CDA. CARACTERIZAÇÃO. AUSÊNCIA DE FUNDAMENTAÇÃO LEGAL PARA A COBRANÇA E DA FORMA DE CÁLCULO DOS JUROS E CORREÇÃO"
+  },
+  {
+   "numero": "0501232-27.2016.8.05.0256",
+   "texto": "RECONHECIMENTO DE VÍCIO FORMAL NA CERTIDÃO DE DÍVIDA ATIVA. VIOLAÇÃO AO QUANTO DISPOSTO NO ART. 202, III, DO CTN E NO ART. 2º, §5º, DA LEF. AUSÊNCIA DE INDIVIDUALIZAÇÃO DO IMÓVEL."
+  },
+  {
+   "numero": "8004735-89.2016.8.05.0154",
+   "texto": "RECONHECIMENTO DE NULIDADE NA CERTIDÃO DE DÍVIDA ATIVA. VIOLAÇÃO AO QUANTO DISPOSTO NO ART. 202, III, DO CTN, E NO ART. 2º, §5º, DA LEF."
+  },
+  {
+   "numero": "0502098-35.2016.8.05.0256",
+   "texto": "a jurisprudência do STJ é no sentido de que a ausência de identificação específica do bem torna nula a CDA, porquanto prejudica a defesa do executado no questionamento da origem da dívida."
+  },
+  {
+   "numero": "0500177-07.2017.8.05.0256",
+   "texto": "TÍTULO EXEQUENDO QUE VEICULOU, EM UMA MESMA CERTIDÃO DE DÍVIDA ATIVA, A COBRANÇA DE VÁRIOS IMÓVEIS"
+  },
+  {
+   "numero": "8016361-04.2024.8.05.0000",
+   "texto": "apenas indicam o total da dívida referente a vários tributos em conjunto (COSIP / IPTU /TRSD), sem especificar o valor devido por cada um deles"
+  },
+  {
+   "numero": "0794036-24.2013.8.05.0001",
+   "texto": "os requisitos legais da CDA de fl. 08 não foram preenchidos adequadamente"
+  },
+  {
+   "numero": "8005715-68.2020.8.05.0001",
+   "texto": "Não se tratando de mero erro material ou vício formal, mas sim de defeito no próprio lançamento dos tributos, é inviável a substituição das CDAs"
+  },
+  {
+   "numero": "8087684-08.2020.8.05.0001",
+   "texto": "Ocorrendo efetiva mudança da base de cálculo do tributo o que, per si, enseja a alteração do próprio lançamento, a liquidez e certeza da certidão é nula."
+  },
+  {
+   "numero": "8077047-32.2019.8.05.0001",
+   "texto": "ERRO EM CADASTRO IMOBILIÁRIO, OBJETO DE AÇÃO JUDICIAL. DIVERGÊNCIAS NO REGISTRO DO IMÓVEL SUB JUDICE, COMPROVADAS. CERTIDÃO DE DÍVIDA ATIVA, ILIDIDA A PRESUNÇÃO DE VERACIDADE."
+  },
+  {
+   "numero": "8011059-04.2018.8.05.0000",
+   "texto": "ambos correspondem a inscrições de créditos tributários constituídos à partir da aplicação da alíquota de 5% (cinco por cento), declarada inconstitucional por meio de sentença transitada em julgado"
+  },
+  {
+   "numero": "8035025-80.2024.8.05.0001",
+   "texto": "CDA FUNDADA EM LANÇAMENTO CONTRÁRIO À DECISÃO ADMINISTRATIVA DEFINITIVA E SEM NOTIFICAÇÃO DO CONTRIBUINTE."
+  },
+  {
+   "numero": "8009178-85.2022.8.05.0150",
+   "texto": "AUSÊNCIA DE PROVA DE FATO GERADOR DO IMPOSTO EM RELAÇÃO AO MUNICÍPIO DE LAURO DE FREITAS. NULIDADE DA CDA. SENTENÇA MANTIDA."
+  },
+  {
+   "numero": "8015331-37.2022.8.05.0150",
+   "texto": "CDA nº. 16943124, por corresponder a inscrição de crédito tributário constituído a partir de fato gerador inexistente, não goza de liquidez e certeza"
+  },
+  {
+   "numero": "0825573-67.2015.8.05.0001",
+   "texto": "vedada a modificação do sujeito passivo da execução (súmula nº. 392, do STJ), ainda que em decorrência de sucessão tributária prevista no art. 130, do CTN"
+  },
+  {
+   "numero": "0065810-36.2002.8.05.0001/50000",
+   "texto": "SUBSTITUIÇÃO OU EMENDA DA CDA PARA INCLUIR NOVO SUJEITO PASSIVO. IMPOSSIBILIDADE. INTELIGÊNCIA DA SÚMULA 392 DO STJ"
+  },
+  {
+   "numero": "0081323-44.2002.8.05.0001",
+   "texto": "REQUERIDA SUBSTITUIÇÃO DO TÍTULO E PROSSEGUIMENTO DA EXECUÇÃO CONTRA OS SUCESSORES DO REAL SUJEITO PASSIVO DA DEMANDA. NÃO CABIMENTO. APLICAÇÃO DO ENUNCIADO DA SÚMULA 392 DO STJ."
+  },
+  {
+   "numero": "8009372-65.2023.8.05.0113",
+   "texto": "ausência de identificação do representante legal do espólio na CDA constitui vício insanável que impede o regular prosseguimento da execução fiscal"
+  },
+  {
+   "numero": "0323034-54.2016.8.05.0001",
+   "texto": "NULIDADE DA CDA EM VIRTUDE DA AUSÊNCIA DE NOTIFICAÇÃO DE PROCEDIMENTO ADMINISTRATIVO PRÉVIO."
+  },
+  {
+   "numero": "8002837-67.2019.8.05.0079",
+   "texto": "AUSÊNCIA DE IDENTIFICAÇÃO DO IMÓVEL. AUSÊNCIA DE ASSINATURA DA AUTORIDADE COMPETENTE. VÍCIOS INSANÁVEIS. IMPOSSIBILIDADE DE SUBSTITUIÇÃO DA CDA."
+  },
+  {
+   "numero": "0300084-46.2019.8.05.0001",
+   "texto": "CONTRIBUINTE PESSOA FÍSICA SEM ADVOGADO CONSTITUÍDO. INTIMAÇÃO EXCLUSIVA POR DIÁRIO OFICIAL. INVALIDADE."
+  },
+  {
+   "numero": "0002699-13.2010.8.05.0223",
+   "texto": "AUSÊNCIA DE COMPROVAÇÃO DA NOTIFICAÇÃO DO TRIBUTO. LANÇAMENTO DE OFÍCIO. PRESUNÇÃO."
+  },
+  {
+   "numero": "0005650-77.2010.8.05.0223",
+   "texto": "ENTREGA DO CARNÊ. ÔNUS DA PROVA. CONTRIBUINTE. PRECEDENTES. SENTENÇA ANULADA."
+  },
+  {
+   "numero": "8030962-15.2024.8.05.0000",
+   "texto": "PLANILHA DE CÁLCULO. REQUISITO NÃO PREVISTO EM LEI."
+  },
+  {
+   "numero": "8000696-82.2022.8.05.0172",
+   "texto": "SUFICIÊNCIA DA INSCRIÇÃO IMOBILIÁRIA. DESNECESSIDADE DE ENDEREÇO COMPLETO E MATRÍCULA NO RGI."
+  },
+  {
+   "numero": "8008571-79.2021.8.05.0256",
+   "texto": "LANÇAMENTO DE OFÍCIO. DISPENSA DE PROCESSO ADMINISTRATIVO PRÉVIO. VALIDADE DA CDA."
+  },
+  {
+   "numero": "8000447-26.2026.8.05.0000",
+   "texto": "CERTIDÃO DE DÍVIDA ATIVA. REGULARIDADE FORMAL. LANÇAMENTO DE OFÍCIO. DESNECESSIDADE DE PROCESSO ADMINISTRATIVO ESPECÍFICO."
+  },
+  {
+   "numero": "8010848-94.2020.8.05.0000",
+   "texto": "TESE DE ISENÇÃO TRIBUTÁRIA. NÃO COMPROVADO O PREENCHIMENTO DOS REQUISITOS DO ART. 83 DA LEI nº 7.186/2006."
+  },
+  {
+   "numero": "8009436-65.2019.8.05.0000",
+   "texto": "INEXISTÊNCIA DE VÍCIO NA CDA. EXAÇÃO DEVIDA."
+  }
+ ]
+}

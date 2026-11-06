@@ -1,0 +1,75 @@
+{
+  "tese": 31,
+  "formulacao": "Se o Município revê de ofício o lançamento de IPTU de exercício passado sem fato novo, desconhecido ou não provado à época, apenas dando nova valoração jurídica a dados que já conhecia (por exemplo, o reenquadramento do padrão construtivo sem alteração física), então há erro de direito ou mudança de critério jurídico, e o lançamento complementar retroativo é nulo; o novo critério só vale para fatos geradores posteriores (CTN, art. 146).",
+  "n_catalogo_fav": 2,
+  "n_acervo": 41,
+  "n_acervo_fav": 8,
+  "contrarias_ids": [],
+  "precedentes": [
+    {
+      "id": "STJ Tema 387 / REsp 1.130.545/RJ",
+      "fonte": "PANGEA stj-rr-387; Cognitio STJ:paradigmas:Tema-387; STJ:paradigmas-teor:200900568067-991464",
+      "conferido": true
+    },
+    {
+      "id": "Súmula 227/TFR (transcrita no teor do REsp 1.130.545)",
+      "fonte": "Cognitio STJ:paradigmas-teor:200900568067-991464 (só transcrição)",
+      "conferido": false
+    },
+    {
+      "id": "STJ AREsp 2.995.053 (não é precedente; Súmula 7)",
+      "fonte": "Cognitio STJ:integras:342855716",
+      "conferido": true
+    }
+  ],
+  "walton": {
+    "esquema": "ARG.SCH.WRM08.VERBAL_CLASSIFICATION",
+    "status": "PLAUSIBLE"
+  },
+  "excertos": [
+    {
+      "numero": "0848075-63.2016.8.05.0001",
+      "texto": "o Fisco Municipal tenta revisar o lançamento do IPTU, com base na tese de valoração das características construtivas pretéritas, as quais já eram de conhecimento do Fisco"
+    },
+    {
+      "numero": "0099207-08.2010.8.05.0001",
+      "texto": "ocorrido o erro na qualificação jurídica do lançamento o mesmo não pode ser revisto ou refeito"
+    },
+    {
+      "numero": "8165454-09.2022.8.05.0001",
+      "texto": "LANÇAMENTO COMPLEMENTAR. REVISÃO TRIBUTÁRIA. ERRO DE DIREITO. AUSÊNCIA DE FATO NOVO."
+    },
+    {
+      "numero": "8165454-09.2022.8.05.0001",
+      "texto": "O erro de fato, nos termos do art. 149, VIII, do CTN, pressupõe desconhecimento ou impossibilidade de comprovação de fato"
+    },
+    {
+      "numero": "8043120-36.2023.8.05.0001",
+      "texto": "AUSÊNCIA DE FATO NOVO OU DESCONHECIDO. MUDANÇA NO CRITÉRIO DE VALORAÇÃO JURÍDICA. CARACTERIZAÇÃO DE ERRO DE DIREITO. VEDAÇÃO À RETROATIVIDADE."
+    },
+    {
+      "numero": "8043120-36.2023.8.05.0001",
+      "texto": "Inexistência de alteração física nos imóveis."
+    },
+    {
+      "numero": "8036428-53.2025.8.05.0000",
+      "texto": "MODIFICAÇÃO DE CRITÉRIO JURÍDICO ADOTADO PELA ADMINISTRAÇÃO. ERRO DE DIREITO. IMPOSSIBILIDADE DE REVISÃO RETROATIVA. ARTIGOS 145, 146 E 149 DO CTN."
+    },
+    {
+      "numero": "8036428-53.2025.8.05.0000",
+      "texto": "Inexistindo demonstração de fato novo, desconhecido ou não provado à época dos lançamentos"
+    },
+    {
+      "numero": "8036428-53.2025.8.05.0000",
+      "texto": "reconheceu a nulidade de notificações fiscais de lançamento de IPTU decorrentes de revisão de ofício promovida pela administração tributária"
+    },
+    {
+      "numero": "0506118-24.2017.8.05.0001",
+      "texto": "deu provimento à apelação do Município de Salvador, denegando segurança em Mandado de Segurança que questionava o aumento do IPTU com fundamento nas Leis Municipais nºs 8.464/2013, 8.473/2013 e 8.474/2013"
+    },
+    {
+      "numero": "8031671-84.2023.8.05.0000",
+      "texto": "PRESUNÇÃO QUE PODE SER DESCONSIDERADA APENAS POR MEIO DE PROCESSO ADMINISTRATIVO PRÉVIO."
+    }
+  ]
+}

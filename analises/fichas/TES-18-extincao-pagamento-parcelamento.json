@@ -1,0 +1,201 @@
+{
+ "tese": 18,
+ "formulacao": "Se o contribuinte prova o pagamento integral do IPTU executado (carnês, extratos, parcelamento quitado, dação, consignatória), então o crédito e a execução se extinguem, com ônus para o Município se o pagamento precede o ajuizamento ou a citação; mera presunção de quitação não basta.",
+ "n_catalogo_fav": 14,
+ "n_acervo": 499,
+ "n_acervo_fav": 57,
+ "n_acervo_detalhe": {
+  "n_decisoes": 547,
+  "n_processos": 499,
+  "n_processos_fav_indicio": 57,
+  "rotulo": "recorte por palavra na ementa; indicio, nao taxa; contar por processo"
+ },
+ "contrarias_ids": [
+  "DEC-TJBA-ddb496115afd",
+  "DEC-TJBA-21c55fcf6195",
+  "DEC-TJBA-45af99ef42ae",
+  "DEC-TJBA-af5670954f2d",
+  "DEC-TJBA-c778697ffd66",
+  "DEC-TJBA-0afdef970c2b",
+  "DEC-TJBA-5942c984185e",
+  "DEC-TJBA-c40295fdbf9e",
+  "DEC-TJBA-717f094035b8",
+  "0102866-93.2008.8.05.0001",
+  "0037689-80.2011.8.05.0001",
+  "8078727-45.2025.8.05.0000"
+ ],
+ "classificacao_duvidosa": [
+  "DEC-TJBA-49307378eaf9"
+ ],
+ "favoraveis_extra_api": [
+  "8105607-47.2020.8.05.0001",
+  "0501324-82.2016.8.05.0004"
+ ],
+ "precedentes": [
+  {
+   "id": "STJ:paradigmas:Tema-421",
+   "fonte": "Cognitio",
+   "conferido": true
+  },
+  {
+   "id": "STJ:paradigmas:Tema-143",
+   "fonte": "Cognitio",
+   "conferido": true
+  },
+  {
+   "id": "STJ:paradigmas-teor:200701272003-991466",
+   "fonte": "Cognitio (Tema 365; ementa vista na busca, sem obter_documento)",
+   "conferido": false
+  },
+  {
+   "id": "stj-rr-400",
+   "fonte": "PANGEA",
+   "conferido": false
+  },
+  {
+   "id": "stj-rr-1012",
+   "fonte": "PANGEA",
+   "conferido": false
+  },
+  {
+   "id": "stj-ct-532",
+   "fonte": "PANGEA",
+   "conferido": false
+  },
+  {
+   "id": "tjpr-irdr-31",
+   "fonte": "PANGEA",
+   "conferido": false
+  }
+ ],
+ "walton": {
+  "esquema": "ARG.SCH.WRM08.RULES.S55_1",
+  "status": "PLAUSIBLE"
+ },
+ "excertos": [
+  {
+   "numero": "0811515-88.2017.8.05.0001",
+   "texto": "Existe prova nos autos de que o apelado parcelou em 11 (onze) prestações e pagou o débito do IPTU, exercício de 2014"
+  },
+  {
+   "numero": "8052106-13.2022.8.05.0001",
+   "texto": "restou demonstrado nos autos prova inequívoca capaz de ilidir as Certidões de Dívida Ativa colacionada aos autos"
+  },
+  {
+   "numero": "0789630-86.2015.8.05.0001",
+   "texto": "PARCELAMENTO ADMISTRATIVO DO DÉBITO. QUITAÇÃO. SATISFAÇÃO INTEGRAL DA OBRIGAÇÃO PELO CONTRIBUINTE."
+  },
+  {
+   "numero": "0785219-05.2012.8.05.0001",
+   "texto": "EXCEÇÃO DE PÉ EXECUTIVIDADE. EMBASAMENTO NA QUITAÇÃO DA DÍVIDA. ACOLHIMENTO. PROCESSO EXTINTO."
+  },
+  {
+   "numero": "8000326-61.2019.8.05.0220",
+   "texto": "a dação em pagamento, embora não homologada de imediato por inércia das partes em responder a despachos saneadores, constituiu satisfação da obrigação aceita pelo credor"
+  },
+  {
+   "numero": "0812413-04.2017.8.05.0001",
+   "texto": "SUSPENSÃO DA EXIGIBILIDADE DO CRÉDITO TRIBUTÁRIO. AÇÃO CONSIGNATÓRIA ANTERIORMENTE AJUIZADA. DEPÓSITO DO DÉBITO. INEXISTÊNCIA DE DÍVIDA EXIGÍVEL"
+  },
+  {
+   "numero": "0501106-54.2016.8.05.0004",
+   "texto": "Celebrado acordo entre as partes para pagamento parcelado do débito tributário, compete ao Município exequente informar ao juízo sobre seu cumprimento ou descumprimento, quando regularmente intimado para tanto."
+  },
+  {
+   "numero": "8004670-75.2019.8.05.0191",
+   "texto": "A extinção do processo, no caso, decorre de falta superveniente de interesse de agir, nos termos do art. 485, VI, do CPC"
+  },
+  {
+   "numero": "0300780-19.2015.8.05.0229",
+   "texto": "mostrando-se correto o entendimento pela ocorrência de perda superveniente do interesse de agir"
+  },
+  {
+   "numero": "0793874-24.2016.8.05.0001",
+   "texto": "A quitação do crédito tributário em momento anterior ao ajuizamento do feito executivo redunda na inexigibilidade do título"
+  },
+  {
+   "numero": "8095480-79.2022.8.05.0001",
+   "texto": "DIVIDA QUITADA ANTES DO AJUIZAMENTO DA EXECUÇÃO. COMPROVAÇÃO. FAZENDA PÚBLICA QUE DEU CAUSA AO AJUIZAMENTO DA DEMANDA."
+  },
+  {
+   "numero": "0502110-54.2017.8.05.0146",
+   "texto": "por ter sido pago o débito fiscal antes da citação, deve a extinção da execução ocorrer sem ônus para as partes"
+  },
+  {
+   "numero": "0502524-52.2017.8.05.0146",
+   "texto": "a parte apelada não pode ser compelida ao pagamento de honorários advocatícios, se já incluídos no parcelamento, sob pena de bis in idem"
+  },
+  {
+   "numero": "8006665-77.2020.8.05.0001",
+   "texto": "LEGITIMIDADE ATIVA DO PROPRIETÁRIO DO IMÓVEL PARA FIGURAR NA RELAÇÃO JURÍDICA PROCESSUAL CONFIGURADA."
+  },
+  {
+   "numero": "8105607-47.2020.8.05.0001",
+   "texto": "Pagamento integral dos tributos por meio das inscrições regulares."
+  },
+  {
+   "numero": "0501324-82.2016.8.05.0004",
+   "texto": "PAGAMENTO SUPERVENIENTE DO DÉBITO. EXTINÇÃO DA EXECUÇÃO POR SATISFAÇÃO DA OBRIGAÇÃO."
+  },
+  {
+   "numero": "0751570-15.2013.8.05.0001",
+   "texto": "EXTINÇÃO DO PROCESSO POR PRESUNÇÃO DE QUITAÇÃO INTEGRAL DO DÉBITO. INVIABILIDADE."
+  },
+  {
+   "numero": "0819993-61.2012.8.05.0001",
+   "texto": "Impossibilidade de presunção de quitação do débito fiscal, obrigatoriedade de oitiva da parte exequente."
+  },
+  {
+   "numero": "0809422-31.2012.8.05.0001",
+   "texto": "PROLAÇÃO DE DECISÃO SURPRESA. VIOLAÇÃO AO DEVIDO PROCESSO LEGAL E AMPLA DEFESA. SENTENÇA DESCONSTITUÍDA."
+  },
+  {
+   "numero": "0764263-65.2012.8.05.0001",
+   "texto": "O parcelamento do débito é causa de suspensão da exigibilidade do crédito tributário (art. 151, inc. VI, do CTN)"
+  },
+  {
+   "numero": "0799005-19.2012.8.05.0001",
+   "texto": "EXTINÇÃO. QUITAÇÃO DO DÉBITO. PRESUNÇÃO. IMPOSSIBILIDADE. AUDIÇÃO DO EXEQUENTE. INOCORRÊNCIA."
+  },
+  {
+   "numero": "0766364-75.2012.8.05.0001",
+   "texto": "AUSÊNCIA DE PROVA DE PAGAMENTO INTEGRAL DO DÉBITO PELA EXECUTADA. APELAÇÃO PROVIDA."
+  },
+  {
+   "numero": "0757529-64.2013.8.05.0001",
+   "texto": "PARCELAMENTO DO DÉBITO. AUSÊNCIA DE INTIMAÇÃO DO EXEQUENTE PARA FALAR SOBRE A QUITAÇÃO. PRESUNÇÃO DE PAGAMENTO. IMPOSSIBILIDADE."
+  },
+  {
+   "numero": "0790798-94.2013.8.05.0001",
+   "texto": "PARCELAMENTO DO DÉBITO. AUSÊNCIA DE INTIMAÇÃO DO EXEQUENTE PARA FALAR SOBRE A QUITAÇÃO. PRESUNÇÃO DE PAGAMENTO. IMPOSSIBILIDADE. SENTENÇA CASSADA."
+  },
+  {
+   "numero": "0800641-20.2012.8.05.0001",
+   "texto": "SENTENÇA QUE EXTINGUIU O FEITO EXECUTIVO POR PRESUMIR A QUITAÇÃO DA DÍVIDA. INTEGRALIDADE DO PAGAMENTO NÃO DEMONSTRADA."
+  },
+  {
+   "numero": "0102866-93.2008.8.05.0001",
+   "texto": "AUSÊNCIA DE COMPROVAÇÃO DA QUITAÇÃO INTEGRAL. IMPOSSIBILIDADE DE EXTINÇÃO DA EXECUÇÃO POR PRESUNÇÃO DE PAGAMENTO."
+  },
+  {
+   "numero": "0037689-80.2011.8.05.0001",
+   "texto": "SENTENÇA QUE EXTINGUIU O PROCESSO POR PRESUNÇÃO DE PAGAMENTO ANTE O SILÊNCIO DO EXEQUENTE. IMPOSSIBILIDADE."
+  },
+  {
+   "numero": "8078727-45.2025.8.05.0000",
+   "texto": "PARCELAMENTO ANTERIOR À CITAÇÃO DESCUMPRIDO. PRINCÍPIO DA CAUSALIDADE."
+  },
+  {
+   "numero": "0562331-21.2015.8.05.0001",
+   "texto": "A conversão do depósito judicial em renda é válida quando o montante integral do crédito tributário é reconhecido pelas partes, ainda que haja desistência da ação."
+  },
+  {
+   "numero": "8019047-03.2023.8.05.0000",
+   "texto": "POSSIBILIDADE DO CONTRIBUINTE, TITULAR DE CONTA CORRENTE, SOLICITAR INFORMAÇÕES JUNTO A INSTITUIÇÃO BANCÁRIA"
+  },
+  {
+   "numero": "0820454-33.2012.8.05.0001",
+   "texto": "aí incluídos o valor executado e demais encargos"
+  }
+ ]
+}

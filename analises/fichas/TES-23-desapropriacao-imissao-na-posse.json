@@ -1,0 +1,113 @@
+{
+  "tese": 23,
+  "formulacao": "Se o imóvel foi desapropriado (por decreto e ação ou por apossamento indireto; a desapropriação amigável só aparece na contrária 0022673-57.2009, em outra questão) e o ente expropriante foi imitido na posse antes dos fatos geradores cobrados, então o expropriado deixa de ser sujeito passivo do IPTU a partir da imissão, ainda que o registro não tenha sido transferido, e a cobrança contra ele é indevida.",
+  "n_catalogo_fav": 9,
+  "n_acervo": 417,
+  "n_acervo_fav": 32,
+  "contrarias_ids": [
+    "0022673-57.2009.8.05.0001"
+  ],
+  "precedentes": [
+    {
+      "id": "STJ AREsp 3.117.209: imissão do expropriante afasta a responsabilidade do expropriado a partir de então",
+      "fonte": "Cognitio STJ:espelhos:959011",
+      "conferido": true
+    },
+    {
+      "id": "STJ REsp 2.201.074: ônus do expropriado só até a imissão na posse (DL 3.365/1941, art. 34)",
+      "fonte": "Cognitio STJ:espelhos:957895",
+      "conferido": true
+    },
+    {
+      "id": "STJ REsp 1.291.828",
+      "fonte": "citado no AREsp 3.117.209; ausente do acervo Cognitio",
+      "conferido": false
+    }
+  ],
+  "walton": {
+    "esquema": "ARG.SCH.WRM08.RULES.S55_1",
+    "status": "PLAUSIBLE"
+  },
+  "excertos": [
+    {
+      "numero": "0317842-09.2017.8.05.0001",
+      "texto": "A desapropriação de imóvel e a posterior imissão de posse pelo Município expropriante cessa a responsabilidade tributária do expropriado sobre impostos relativos a esse bem."
+    },
+    {
+      "numero": "8000043-09.2025.8.05.0000",
+      "texto": "a imissão na posse, ainda que sem registro formal da propriedade, transfere a responsabilidade tributária ao ente expropriante, excluindo o expropriado ou adquirente posterior do polo passivo da obrigação tributária"
+    },
+    {
+      "numero": "8074063-07.2021.8.05.0001",
+      "texto": "Com a imissão na posse, a responsabilidade pelo pagamento dos tributos passou ao ente expropriante"
+    },
+    {
+      "numero": "0016654-52.2008.8.05.0039",
+      "texto": "A emissão na posse decorrente de desapropriação exclui a responsabilidade do contribuinte pelo pagamento de IPTU sobre área desapropriada"
+    },
+    {
+      "numero": "8106014-53.2020.8.05.0001",
+      "texto": "demonstra que o executado não é o sujeito passivo da obrigação tributária"
+    },
+    {
+      "numero": "0810931-21.2017.8.05.0001",
+      "texto": "ILEGITIMIDADE PASSIVA. DESAPROPRIAÇÃO. POSSIBILIDADE. INCIDENTE INSTRUÍDO COM DECLARAÇÕES EMITIDAS PELA PRÓPRIA PREFEITURA MUNICIPAL DE SALVADOR"
+    },
+    {
+      "numero": "0765385-40.2017.8.05.0001",
+      "texto": "Não é possível a cobrança de IPTU de imóvel que pertencia ao Município de Salvador quando da ocorrência do fato gerador."
+    },
+    {
+      "numero": "8023120-54.2019.8.05.0001",
+      "texto": "LANÇAMENTO INDEVIDO DE DÉBITO TRIBUTÁRIO. IPTU. IMÓVEL DO AUTOR QUE FORA OBJETO DE EXPROPRIAÇÃO."
+    },
+    {
+      "numero": "8001107-14.2019.8.05.0146",
+      "texto": "COBRANÇA DE IPTU. IMÓVEL DESAPROPRIADO MEDIANTE DECRETO MUNICIPAL DESDE 2005. IMPOSTO INDEVIDO"
+    },
+    {
+      "numero": "0500826-58.2017.8.05.0001",
+      "texto": "manteve sentença que declarou inexistente a relação jurídico-tributária referente a IPTU e TRSD sobre imóvel objeto de desapropriação indireta pelo Estado da Bahia, a partir de novembro de 2014"
+    },
+    {
+      "numero": "0795148-52.2018.8.05.0001",
+      "texto": "O Excipiente demonstrou através de documentos idôneos, que o imóvel objeto da execução fiscal, foi-lhe expropriado pelo Governo do Estado da Bahia, para realizar obras públicas, em 2008."
+    },
+    {
+      "numero": "0113705-51.2006.8.05.0001",
+      "texto": "o Município do Salvador, ora Apelante, reconheceu a existência de desapropriação do imóvel objeto da execução fiscal em data anterior à cobrança da dívida tributária"
+    },
+    {
+      "numero": "0317285-56.2016.8.05.0001",
+      "texto": "ficou comprovada a desapropriação do imóvel objeto da presente ação, na medida em que há uma via pública que o permeia"
+    },
+    {
+      "numero": "0317285-56.2016.8.05.0001",
+      "texto": "configurada está a ilegitimidade passiva do Embargante em relação ao exercício do IPTU do ano 2000"
+    },
+    {
+      "numero": "8037526-12.2021.8.05.0001",
+      "texto": "Da análise dos autos, verifico que houve efetiva desapropriação do imóvel em 2015."
+    },
+    {
+      "numero": "8037526-12.2021.8.05.0001",
+      "texto": "somente há transferência de titularidade mediante o registro no cartório competente"
+    },
+    {
+      "numero": "0022673-57.2009.8.05.0001",
+      "texto": "AUSÊNCIA DE PEDIDO ADMINISTRATIVO DE COMPENSAÇÃO DE DÉBITOS FISCAIS COM CRÉDITOS ORIUNDOS DE DESAPROPRIAÇÃO AMIGÁVEL DE IMÓVEL."
+    },
+    {
+      "numero": "8000043-09.2025.8.05.0000",
+      "texto": "ainda que sem registro formal da propriedade"
+    },
+    {
+      "numero": "0239834-71.2024.8.05.0001",
+      "texto": "COBRANÇA DE IPTU ANTES DA IMISSÃO NA POSSE. RSPONSABILIDADE PELO PAGAMENTO DA CONSTRUTORA."
+    },
+    {
+      "numero": "8007569-89.2021.8.05.0154",
+      "texto": "IPTU. RESPONSABILIDADE DO COMPRADOR IMITIDO NA POSSE."
+    }
+  ]
+}

@@ -1,0 +1,2858 @@
+{
+ "gerado_por": "scripts/tabela_tes001.py",
+ "regra": "metodologia/harmonizacao-t3-v1.md",
+ "atos": 204,
+ "processos": 147,
+ "linhas_processo": [
+  {
+   "id": "DEC-TJBA-850cfcc1211c",
+   "processo": "0000817-47.2004.8.05.0022",
+   "especie": "acordao",
+   "orgao": "Segunda Câmara Cível",
+   "julgamento": "2021-10-05",
+   "questao": "DEC-TJBA-850cfcc1211c#Q1",
+   "materia": "merito",
+   "resultado": "favoravel",
+   "provisoriedade": "definitiva_na_instancia",
+   "alinea": "c",
+   "via": "execucao_fiscal_outro",
+   "onus": "municipio",
+   "onus_texto": "município (falta prova de que o imóvel teve outro uso; imóvel em uso próprio)",
+   "completude": "ementa_e_dispositivo",
+   "atos_do_processo": [
+    "DEC-TJBA-850cfcc1211c"
+   ]
+  },
+  {
+   "id": "DEC-TJBA-7b0ed1f601c6",
+   "processo": "0001014-02.2004.8.05.0022",
+   "especie": "acordao",
+   "orgao": "Terceira Câmara Cível",
+   "julgamento": "2021-12-15",
+   "questao": "DEC-TJBA-7b0ed1f601c6#Q1",
+   "materia": "merito",
+   "resultado": "favoravel",
+   "provisoriedade": "definitiva_na_instancia",
+   "alinea": "c",
+   "via": "excecao_pre_executividade",
+   "onus": "municipio",
+   "onus_texto": "município (por exclusão)",
+   "completude": "ementa_e_dispositivo",
+   "atos_do_processo": [
+    "DEC-TJBA-7b0ed1f601c6"
+   ]
+  },
+  {
+   "id": "DEC-TJBA-c73afa1ef253",
+   "processo": "0001165-60.2014.8.05.0072",
+   "especie": "acordao",
+   "orgao": "Quinta Câmara Cível",
+   "julgamento": "2025-04-08",
+   "questao": "DEC-TJBA-c73afa1ef253#Q1",
+   "materia": "merito",
+   "resultado": "favoravel",
+   "provisoriedade": "definitiva_na_instancia",
+   "alinea": "a",
+   "via": "acao_conhecimento_ou_outro",
+   "onus": "nao_tratado",
+   "onus_texto": "não tratado (o acórdão não distribui o ônus; diz que a documentação dos autos, trazida pela contribuinte, comprova a destinação)",
+   "completude": "ementa_e_dispositivo",
+   "atos_do_processo": [
+    "DEC-TJBA-c73afa1ef253",
+    "DEC-TJBA-f3173de51558"
+   ]
+  },
+  {
+   "id": "DEC-TJBA-097794f92b4f",
+   "processo": "0002144-89.2008.8.05.0150",
+   "especie": "acordao",
+   "orgao": "Primeira Câmara Cível",
+   "julgamento": "2021-02-26",
+   "questao": "DEC-TJBA-097794f92b4f#Q1",
+   "materia": "processual",
+   "resultado": "favoravel",
+   "provisoriedade": "definitiva_na_instancia",
+   "alinea": "c",
+   "via": "acao_conhecimento_ou_outro",
+   "onus": "nao_tratado",
+   "onus_texto": "não tratado (a prova dos requisitos legais fica com o contribuinte)",
+   "completude": "ementa_e_dispositivo",
+   "atos_do_processo": [
+    "DEC-TJBA-097794f92b4f",
+    "DEC-TJBA-b8e0c9b26343"
+   ]
+  },
+  {
+   "id": "DEC-TJBA-93573c9e8ec5",
+   "processo": "0005210-27.2017.8.05.0000",
+   "especie": "decisao_monocratica",
+   "orgao": "2ª Vice Presidência",
+   "julgamento": "2022-08-03",
+   "questao": "DEC-TJBA-93573c9e8ec5#Q1",
+   "materia": "admissibilidade",
+   "resultado": "sem_exame",
+   "provisoriedade": "definitiva_na_instancia",
+   "alinea": "c",
+   "via": "excecao_pre_executividade",
+   "onus": "nao_tratado",
+   "onus_texto": "não tratado (este ato só inadmite o REsp do Município; o acórdão mantido era tutela de urgência, benefício processual, não mérito)",
+   "completude": "inteiro_teor",
+   "atos_do_processo": [
+    "DEC-TJBA-93573c9e8ec5"
+   ]
+  },
+  {
+   "id": "DEC-TJBA-942ff5dec8de",
+   "processo": "0005952-52.2017.8.05.0000",
+   "especie": "decisao_monocratica",
+   "orgao": "2ª Vice Presidência",
+   "julgamento": "2022-08-06",
+   "questao": "DEC-TJBA-942ff5dec8de#Q1",
+   "materia": "admissibilidade",
+   "resultado": "sem_exame",
+   "provisoriedade": "definitiva_na_instancia",
+   "alinea": "c",
+   "via": "excecao_pre_executividade",
+   "onus": "nao_tratado",
+   "onus_texto": "não tratado neste ato (o acórdão recorrido transcrito o põe no município)",
+   "completude": "inteiro_teor",
+   "atos_do_processo": [
+    "DEC-TJBA-942ff5dec8de"
+   ]
+  },
+  {
+   "id": "DEC-TJBA-4a49bc3601d8",
+   "processo": "0009822-49.2010.8.05.0001",
+   "especie": "acordao",
+   "orgao": "Quarta Câmara Cível",
+   "julgamento": "2024-10-08",
+   "questao": "DEC-TJBA-4a49bc3601d8#Q1",
+   "materia": "merito",
+   "resultado": "favoravel",
+   "provisoriedade": "definitiva_na_instancia",
+   "alinea": "c",
+   "via": "embargos_execucao",
+   "onus": "nao_tratado",
+   "onus_texto": "",
+   "completude": "ementa_e_dispositivo",
+   "atos_do_processo": [
+    "DEC-TJBA-4a49bc3601d8"
+   ]
+  },
+  {
+   "id": "DEC-TJBA-5d844a19fe72",
+   "processo": "0016940-35.2017.8.05.0000",
+   "especie": "decisao_monocratica",
+   "orgao": "2ª Vice-Presidência",
+   "julgamento": "2024-06-07",
+   "questao": "DEC-TJBA-5d844a19fe72#Q1",
+   "materia": "admissibilidade",
+   "resultado": "sem_exame",
+   "provisoriedade": "definitiva_na_instancia",
+   "alinea": "c",
+   "via": "excecao_pre_executividade",
+   "onus": "nao_tratado",
+   "onus_texto": "não tratado",
+   "completude": "inteiro_teor",
+   "atos_do_processo": [
+    "DEC-TJBA-5d844a19fe72"
+   ]
+  },
+  {
+   "id": "DEC-TJBA-d3762f59e4ab",
+   "processo": "0019311-76.2011.8.05.0001",
+   "especie": "acordao",
+   "orgao": "Segunda Câmara Cível",
+   "julgamento": "2020-10-16",
+   "questao": "DEC-TJBA-d3762f59e4ab#Q2",
+   "materia": "merito",
+   "resultado": "favoravel",
+   "provisoriedade": "definitiva_na_instancia",
+   "alinea": "c",
+   "via": "excecao_pre_executividade",
+   "onus": "nao_tratado",
+   "onus_texto": "não tratado",
+   "completude": "ementa_e_dispositivo",
+   "atos_do_processo": [
+    "DEC-TJBA-d3762f59e4ab",
+    "DEC-TJBA-82699ed401d2"
+   ]
+  },
+  {
+   "id": "DEC-TJBA-812d7184b786",
+   "processo": "0026071-37.1994.8.05.0001",
+   "especie": "acordao",
+   "orgao": "Primeira Câmara Cível",
+   "julgamento": "2025-07-15",
+   "questao": "DEC-TJBA-812d7184b786#Q1",
+   "materia": "processual",
+   "resultado": "desfavoravel",
+   "provisoriedade": "definitiva_na_instancia",
+   "alinea": "c",
+   "via": "acao_conhecimento_ou_outro",
+   "onus": "municipio",
+   "onus_texto": "município (a sentença o onerou; o acórdão não redistribui o ônus, só garante a perícia ao Município)",
+   "completude": "ementa_e_dispositivo",
+   "atos_do_processo": [
+    "DEC-TJBA-812d7184b786"
+   ]
+  },
+  {
+   "id": "DEC-TJBA-20d039540e2e",
+   "processo": "0029668-43.1996.8.05.0001",
+   "especie": "acordao",
+   "orgao": "Terceira Câmara Cível",
+   "julgamento": "2023-08-22",
+   "questao": "DEC-TJBA-20d039540e2e#Q2",
+   "materia": "merito",
+   "resultado": "favoravel",
+   "provisoriedade": "definitiva_na_instancia",
+   "alinea": "c",
+   "via": "embargos_execucao",
+   "onus": "nao_tratado",
+   "onus_texto": "não tratado",
+   "completude": "ementa_e_dispositivo",
+   "atos_do_processo": [
+    "DEC-TJBA-20d039540e2e"
+   ]
+  },
+  {
+   "id": "DEC-TJBA-c01ff170ed36",
+   "processo": "0034925-34.2005.8.05.0001",
+   "especie": "acordao",
+   "orgao": "Quinta Câmara Cível",
+   "julgamento": "2021-07-13",
+   "questao": "DEC-TJBA-c01ff170ed36#Q1",
+   "materia": "merito",
+   "resultado": "favoravel",
+   "provisoriedade": "definitiva_na_instancia",
+   "alinea": "a",
+   "via": "embargos_execucao",
+   "onus": "nao_tratado",
+   "onus_texto": "não tratado pelo órgão (só aparece num precedente do STF transcrito, que atribui a demonstração ao ente tributante)",
+   "completude": "inteiro_teor",
+   "atos_do_processo": [
+    "DEC-TJBA-c01ff170ed36"
+   ]
+  },
+  {
+   "id": "DEC-TJBA-08a24533fa4d",
+   "processo": "0045898-92.1998.8.05.0001",
+   "especie": "acordao",
+   "orgao": "Quinta Câmara Cível",
+   "julgamento": "2021-07-27",
+   "questao": "DEC-TJBA-08a24533fa4d#Q1",
+   "materia": "merito",
+   "resultado": "favoravel",
+   "provisoriedade": "definitiva_na_instancia",
+   "alinea": "c",
+   "via": "excecao_pre_executividade",
+   "onus": "municipio",
+   "onus_texto": "município",
+   "completude": "inteiro_teor",
+   "atos_do_processo": [
+    "DEC-TJBA-08a24533fa4d"
+   ]
+  },
+  {
+   "id": "DEC-TJBA-7d5d3ac1528c",
+   "processo": "0058238-97.2000.8.05.0001",
+   "especie": "acordao",
+   "orgao": "Quarta Câmara Cível",
+   "julgamento": "2021-02-11",
+   "questao": "DEC-TJBA-7d5d3ac1528c#Q2",
+   "materia": "merito",
+   "resultado": "favoravel",
+   "provisoriedade": "definitiva_na_instancia",
+   "alinea": "c",
+   "via": "embargos_execucao",
+   "onus": "nao_tratado",
+   "onus_texto": "não tratado",
+   "completude": "ementa_e_dispositivo",
+   "atos_do_processo": [
+    "DEC-TJBA-7d5d3ac1528c",
+    "DEC-TJBA-0b514937c440"
+   ]
+  },
+  {
+   "id": "DEC-TJBA-c7c4c7ae16f8",
+   "processo": "0106477-83.2010.8.05.0001",
+   "especie": "integrativa",
+   "orgao": "Quarta Câmara Cível",
+   "julgamento": "2020-05-19",
+   "questao": "DEC-TJBA-c7c4c7ae16f8#Q1",
+   "materia": "processual",
+   "resultado": "favoravel",
+   "provisoriedade": "definitiva_na_instancia",
+   "alinea": "c",
+   "via": "acao_conhecimento_ou_outro",
+   "onus": "municipio",
+   "onus_texto": "município (art. 14 do CTN + presunção de atendimento aos fins: \"prova concreta de lavra do ente tributante\")",
+   "completude": "inteiro_teor",
+   "atos_do_processo": [
+    "DEC-TJBA-c7c4c7ae16f8"
+   ]
+  },
+  {
+   "id": "DEC-TJBAAPI-70126807c201",
+   "processo": "0134621-38.2008.8.05.0001",
+   "especie": "acordao",
+   "orgao": "Segunda Câmara Cível",
+   "julgamento": "2026-06-04",
+   "questao": "DEC-TJBAAPI-70126807c201#Q1",
+   "materia": "merito",
+   "resultado": "favoravel",
+   "provisoriedade": "definitiva_na_instancia",
+   "alinea": "b",
+   "via": "embargos_execucao",
+   "onus": "municipio",
+   "onus_texto": "município",
+   "completude": "ementa_e_dispositivo",
+   "atos_do_processo": [
+    "DEC-TJBAAPI-70126807c201"
+   ]
+  },
+  {
+   "id": "DEC-TJBA-2ebf0874aea2",
+   "processo": "0155084-64.2009.8.05.0001",
+   "especie": "acordao",
+   "orgao": "Primeira Câmara Cível",
+   "julgamento": "2023-07-11",
+   "questao": "DEC-TJBA-2ebf0874aea2#Q4",
+   "materia": "merito",
+   "resultado": "favoravel",
+   "provisoriedade": "definitiva_na_instancia",
+   "alinea": "c",
+   "via": "embargos_execucao",
+   "onus": "municipio",
+   "onus_texto": "município",
+   "completude": "ementa_e_dispositivo",
+   "atos_do_processo": [
+    "DEC-TJBA-2ebf0874aea2"
+   ]
+  },
+  {
+   "id": "DEC-TJBA-9e9d31bd8a8b",
+   "processo": "0300365-78.2019.8.05.0105",
+   "especie": "acordao",
+   "orgao": "Primeira Câmara Cível",
+   "julgamento": "2025-05-13",
+   "questao": "DEC-TJBA-9e9d31bd8a8b#Q1",
+   "materia": "merito",
+   "resultado": "desfavoravel",
+   "provisoriedade": "definitiva_na_instancia",
+   "alinea": "a",
+   "via": "embargos_execucao",
+   "onus": "nao_tratado",
+   "onus_texto": "não tratado",
+   "completude": "ementa_e_dispositivo",
+   "atos_do_processo": [
+    "DEC-TJBA-9e9d31bd8a8b",
+    "DEC-TJBA-a75716555f26"
+   ]
+  },
+  {
+   "id": "DEC-TJBA-33e65d577725",
+   "processo": "0301824-70.2014.8.05.0112",
+   "especie": "acordao",
+   "orgao": "Quinta Câmara Cível",
+   "julgamento": "2025-05-05",
+   "questao": "DEC-TJBA-33e65d577725#Q2",
+   "materia": "merito",
+   "resultado": "favoravel",
+   "provisoriedade": "definitiva_na_instancia",
+   "alinea": "a",
+   "via": "acao_conhecimento_ou_outro",
+   "onus": "municipio",
+   "onus_texto": "município",
+   "completude": "ementa_e_dispositivo",
+   "atos_do_processo": [
+    "DEC-TJBA-33e65d577725",
+    "DEC-TJBA-f466e6800f6c"
+   ]
+  },
+  {
+   "id": "DEC-TJBA-6a718f3219ea",
+   "processo": "0301865-58.2014.8.05.0105",
+   "especie": "acordao",
+   "orgao": "Quinta Câmara Cível",
+   "julgamento": "2024-08-27",
+   "questao": "DEC-TJBA-6a718f3219ea#Q1",
+   "materia": "merito",
+   "resultado": "desfavoravel",
+   "provisoriedade": "definitiva_na_instancia",
+   "alinea": "a",
+   "via": "embargos_execucao",
+   "onus": "nao_tratado",
+   "onus_texto": "não tratado",
+   "completude": "ementa_e_dispositivo",
+   "atos_do_processo": [
+    "DEC-TJBA-6a718f3219ea",
+    "DEC-TJBA-3dca1037211c"
+   ]
+  },
+  {
+   "id": "DEC-TJBA-accdfd3234f4",
+   "processo": "0303373-71.2014.8.05.0256",
+   "especie": "acordao",
+   "orgao": "Quinta Câmara Cível",
+   "julgamento": "2021-05-26",
+   "questao": "DEC-TJBA-accdfd3234f4#Q1",
+   "materia": "merito",
+   "resultado": "desfavoravel",
+   "provisoriedade": "definitiva_na_instancia",
+   "alinea": "a",
+   "via": "execucao_fiscal_outro",
+   "onus": "nao_tratado",
+   "onus_texto": "não tratado",
+   "completude": "ementa_e_dispositivo",
+   "atos_do_processo": [
+    "DEC-TJBA-accdfd3234f4",
+    "DEC-TJBA-6d4cc9aded4a",
+    "DEC-TJBA-85b3a8f04e86",
+    "DEC-TJBA-54e1de575f25"
+   ]
+  },
+  {
+   "id": "DEC-TJBA-d6e510386934",
+   "processo": "0304034-55.2015.8.05.0146",
+   "especie": "acordao",
+   "orgao": "Terceira Câmara Cível",
+   "julgamento": "2023-08-30",
+   "questao": "DEC-TJBA-d6e510386934#Q1",
+   "materia": "merito",
+   "resultado": "favoravel",
+   "provisoriedade": "definitiva_na_instancia",
+   "alinea": "b",
+   "via": "excecao_pre_executividade",
+   "onus": "municipio",
+   "onus_texto": "município",
+   "completude": "ementa_e_dispositivo",
+   "atos_do_processo": [
+    "DEC-TJBA-d6e510386934"
+   ]
+  },
+  {
+   "id": "DEC-TJBA-c3c1eed9dcaa",
+   "processo": "0304035-40.2015.8.05.0146",
+   "especie": "acordao",
+   "orgao": "Quinta Câmara Cível",
+   "julgamento": "2024-04-04",
+   "questao": "DEC-TJBA-c3c1eed9dcaa#Q1",
+   "materia": "merito",
+   "resultado": "favoravel",
+   "provisoriedade": "definitiva_na_instancia",
+   "alinea": "b",
+   "via": "execucao_fiscal_outro",
+   "onus": "municipio",
+   "onus_texto": "município (presunção relativa + art. 373, I, CPC) |",
+   "completude": "ementa_e_dispositivo",
+   "atos_do_processo": [
+    "DEC-TJBA-c3c1eed9dcaa"
+   ]
+  },
+  {
+   "id": "DEC-TJBA-db529cd9e017",
+   "processo": "0304040-62.2015.8.05.0146",
+   "especie": "acordao",
+   "orgao": "Quinta Câmara Cível",
+   "julgamento": "2022-03-09",
+   "questao": "DEC-TJBA-db529cd9e017#Q1",
+   "materia": "merito",
+   "resultado": "favoravel",
+   "provisoriedade": "definitiva_na_instancia",
+   "alinea": "b",
+   "via": "excecao_pre_executividade",
+   "onus": "municipio",
+   "onus_texto": "município",
+   "completude": "ementa_e_dispositivo",
+   "atos_do_processo": [
+    "DEC-TJBA-db529cd9e017"
+   ]
+  },
+  {
+   "id": "DEC-TJBA-bb3e9eda5cff",
+   "processo": "0304307-68.2014.8.05.0146",
+   "especie": "acordao",
+   "orgao": "TERCEIRA CAMARA CÍVEL",
+   "julgamento": "2022-11-08",
+   "questao": "DEC-TJBA-bb3e9eda5cff#Q1",
+   "materia": "merito",
+   "resultado": "favoravel",
+   "provisoriedade": "definitiva_na_instancia",
+   "alinea": "b",
+   "via": "excecao_pre_executividade",
+   "onus": "nao_tratado",
+   "onus_texto": "não tratado",
+   "completude": "ementa_e_dispositivo",
+   "atos_do_processo": [
+    "DEC-TJBA-bb3e9eda5cff"
+   ]
+  },
+  {
+   "id": "DEC-TJBA-9f61b7848c12",
+   "processo": "0305624-06.2014.8.05.0113",
+   "especie": "acordao",
+   "orgao": "Quinta Câmara Cível",
+   "julgamento": "2023-08-22",
+   "questao": "DEC-TJBA-9f61b7848c12#Q1",
+   "materia": "merito",
+   "resultado": "desfavoravel",
+   "provisoriedade": "definitiva_na_instancia",
+   "alinea": "a",
+   "via": "acao_conhecimento_ou_outro",
+   "onus": "nao_tratado",
+   "onus_texto": "não tratado",
+   "completude": "ementa_e_dispositivo",
+   "atos_do_processo": [
+    "DEC-TJBA-9f61b7848c12",
+    "DEC-TJBA-5f1a9858be87",
+    "DEC-TJBA-79d469a9bef5",
+    "DEC-TJBA-b7c83d6ae494",
+    "DEC-TJBAAPI-fad058ec8207",
+    "DEC-TJBAAPI-ac9aab88f3e5"
+   ]
+  },
+  {
+   "id": "DEC-TJBA-2f27678bfdd9",
+   "processo": "0305659-61.2014.8.05.0146",
+   "especie": "acordao",
+   "orgao": "Quinta Câmara Cível",
+   "julgamento": "2022-03-16",
+   "questao": "DEC-TJBA-2f27678bfdd9#Q1",
+   "materia": "merito",
+   "resultado": "favoravel",
+   "provisoriedade": "definitiva_na_instancia",
+   "alinea": "b",
+   "via": "excecao_pre_executividade",
+   "onus": "municipio",
+   "onus_texto": "",
+   "completude": "ementa_e_dispositivo",
+   "atos_do_processo": [
+    "DEC-TJBA-2f27678bfdd9"
+   ]
+  },
+  {
+   "id": "DEC-TJBA-2cf8646bc25f",
+   "processo": "0334265-20.2012.8.05.0001",
+   "especie": "acordao",
+   "orgao": "Segunda Câmara Cível",
+   "julgamento": "2020-03-17",
+   "questao": "DEC-TJBA-2cf8646bc25f#Q2",
+   "materia": "merito",
+   "resultado": "favoravel",
+   "provisoriedade": "definitiva_na_instancia",
+   "alinea": "c",
+   "via": "excecao_pre_executividade",
+   "onus": "contribuinte",
+   "onus_texto": "contribuinte",
+   "completude": "inteiro_teor",
+   "atos_do_processo": [
+    "DEC-TJBA-2cf8646bc25f"
+   ]
+  },
+  {
+   "id": "DEC-TJBA-163bec758611",
+   "processo": "0335258-87.2017.8.05.0001",
+   "especie": "acordao",
+   "orgao": "Quinta Câmara Cível",
+   "julgamento": "2021-03-09",
+   "questao": "DEC-TJBA-163bec758611#Q1",
+   "materia": "merito",
+   "resultado": "favoravel",
+   "provisoriedade": "definitiva_na_instancia",
+   "alinea": "c",
+   "via": "embargos_execucao",
+   "onus": "municipio",
+   "onus_texto": "município",
+   "completude": "inteiro_teor",
+   "atos_do_processo": [
+    "DEC-TJBA-163bec758611"
+   ]
+  },
+  {
+   "id": "DEC-TJBA-bed5fa300da4",
+   "processo": "0344710-29.2014.8.05.0001",
+   "especie": "acordao",
+   "orgao": "Quarta Câmara Cível",
+   "julgamento": "2021-02-16",
+   "questao": "DEC-TJBA-bed5fa300da4#Q1",
+   "materia": "merito",
+   "resultado": "favoravel",
+   "provisoriedade": "definitiva_na_instancia",
+   "alinea": "c",
+   "via": "embargos_execucao",
+   "onus": "misto",
+   "onus_texto": "contribuinte e município (a entidade provou os requisitos do art. 14 do CTN; o Município não se desincumbiu de infirmar, art. 373, II, do CPC)",
+   "completude": "inteiro_teor",
+   "atos_do_processo": [
+    "DEC-TJBA-bed5fa300da4"
+   ]
+  },
+  {
+   "id": "DEC-TJBA-2170dce659ca",
+   "processo": "0348257-38.2018.8.05.0001",
+   "especie": "acordao",
+   "orgao": "Segunda Câmara Cível",
+   "julgamento": "2022-02-11",
+   "questao": "DEC-TJBA-2170dce659ca#Q2",
+   "materia": "merito",
+   "resultado": "favoravel",
+   "provisoriedade": "definitiva_na_instancia",
+   "alinea": "c",
+   "via": "embargos_execucao",
+   "onus": "nao_tratado",
+   "onus_texto": "não tratado",
+   "completude": "ementa_e_dispositivo",
+   "atos_do_processo": [
+    "DEC-TJBA-2170dce659ca"
+   ]
+  },
+  {
+   "id": "DEC-TJBA-742252f9a213",
+   "processo": "0413836-40.2012.8.05.0001",
+   "especie": "acordao",
+   "orgao": "Terceira Câmara Cível",
+   "julgamento": "2025-09-02",
+   "questao": "DEC-TJBA-742252f9a213#Q1",
+   "materia": "merito",
+   "resultado": "desfavoravel",
+   "provisoriedade": "definitiva_na_instancia",
+   "alinea": "a",
+   "via": "embargos_execucao",
+   "onus": "nao_tratado",
+   "onus_texto": "não tratado",
+   "completude": "ementa_e_dispositivo",
+   "atos_do_processo": [
+    "DEC-TJBA-742252f9a213"
+   ]
+  },
+  {
+   "id": "DEC-TJBA-e2aceaa89a34",
+   "processo": "0500536-61.2015.8.05.0244",
+   "especie": "acordao",
+   "orgao": "Primeira Câmara Cível",
+   "julgamento": "2023-10-17",
+   "questao": "DEC-TJBA-e2aceaa89a34#Q1",
+   "materia": "merito",
+   "resultado": "favoravel",
+   "provisoriedade": "definitiva_na_instancia",
+   "alinea": "a",
+   "via": "acao_conhecimento_ou_outro",
+   "onus": "nao_tratado",
+   "onus_texto": "não tratado",
+   "completude": "ementa_e_dispositivo",
+   "atos_do_processo": [
+    "DEC-TJBA-e2aceaa89a34",
+    "DEC-TJBA-a320d38f47dc"
+   ]
+  },
+  {
+   "id": "DEC-TJBA-e919c0691227",
+   "processo": "0500965-65.2014.8.05.0146",
+   "especie": "acordao",
+   "orgao": "Quinta Câmara Cível",
+   "julgamento": "2022-06-09",
+   "questao": "DEC-TJBA-e919c0691227#Q1",
+   "materia": "merito",
+   "resultado": "favoravel",
+   "provisoriedade": "definitiva_na_instancia",
+   "alinea": "b",
+   "via": "acao_conhecimento_ou_outro",
+   "onus": "municipio",
+   "onus_texto": "município",
+   "completude": "ementa_e_dispositivo",
+   "atos_do_processo": [
+    "DEC-TJBA-e919c0691227"
+   ]
+  },
+  {
+   "id": "DEC-TJBA-0b06576205e0",
+   "processo": "0501391-72.2017.8.05.0146",
+   "especie": "acordao",
+   "orgao": "Segunda Câmara Cível",
+   "julgamento": "2022-08-23",
+   "questao": "DEC-TJBA-0b06576205e0#Q1",
+   "materia": "merito",
+   "resultado": "favoravel",
+   "provisoriedade": "definitiva_na_instancia",
+   "alinea": "b",
+   "via": "execucao_fiscal_outro",
+   "onus": "municipio",
+   "onus_texto": "município",
+   "completude": "ementa_e_dispositivo",
+   "atos_do_processo": [
+    "DEC-TJBA-0b06576205e0"
+   ]
+  },
+  {
+   "id": "DEC-TJBA-06426ba54cec",
+   "processo": "0501412-61.2018.8.05.0001",
+   "especie": "acordao",
+   "orgao": "Segunda Câmara Cível",
+   "julgamento": "2020-07-28",
+   "questao": "DEC-TJBA-06426ba54cec#Q2",
+   "materia": "merito",
+   "resultado": "desfavoravel",
+   "provisoriedade": "definitiva_na_instancia",
+   "alinea": "c",
+   "via": "acao_conhecimento_ou_outro",
+   "onus": "outro",
+   "onus_texto": "Q1 contribuinte, Q2 não tratado",
+   "completude": "inteiro_teor",
+   "atos_do_processo": [
+    "DEC-TJBA-06426ba54cec"
+   ]
+  },
+  {
+   "id": "DEC-TJBA-35735e8da4bb",
+   "processo": "0502388-39.2016.8.05.0001",
+   "especie": "acordao",
+   "orgao": "Segunda Câmara Cível",
+   "julgamento": "2021-10-26",
+   "questao": "DEC-TJBA-35735e8da4bb#Q2",
+   "materia": "merito",
+   "resultado": "favoravel",
+   "provisoriedade": "definitiva_na_instancia",
+   "alinea": "c",
+   "via": "acao_conhecimento_ou_outro",
+   "onus": "municipio",
+   "onus_texto": "município",
+   "completude": "ementa_e_dispositivo",
+   "atos_do_processo": [
+    "DEC-TJBA-35735e8da4bb",
+    "DEC-TJBA-b3da81586a98",
+    "DEC-TJBA-389e59d02135",
+    "DEC-TJBA-ee2951f31d13"
+   ]
+  },
+  {
+   "id": "DEC-TJBA-7a0e919381ca",
+   "processo": "0503708-77.2016.8.05.0146",
+   "especie": "acordao",
+   "orgao": "Quinta Câmara Cível",
+   "julgamento": "2022-04-01",
+   "questao": "DEC-TJBA-7a0e919381ca#Q1",
+   "materia": "merito",
+   "resultado": "favoravel",
+   "provisoriedade": "definitiva_na_instancia",
+   "alinea": "b",
+   "via": "excecao_pre_executividade",
+   "onus": "municipio",
+   "onus_texto": "município",
+   "completude": "ementa_e_dispositivo",
+   "atos_do_processo": [
+    "DEC-TJBA-7a0e919381ca"
+   ]
+  },
+  {
+   "id": "DEC-TJBA-15224cb3237e",
+   "processo": "0503738-15.2016.8.05.0146",
+   "especie": "acordao",
+   "orgao": "Quarta Câmara Cível",
+   "julgamento": "2021-12-07",
+   "questao": "DEC-TJBA-15224cb3237e#Q1",
+   "materia": "merito",
+   "resultado": "favoravel",
+   "provisoriedade": "definitiva_na_instancia",
+   "alinea": "b",
+   "via": "execucao_fiscal_outro",
+   "onus": "municipio",
+   "onus_texto": "município",
+   "completude": "ementa_e_dispositivo",
+   "atos_do_processo": [
+    "DEC-TJBA-15224cb3237e"
+   ]
+  },
+  {
+   "id": "DEC-TJBA-d3f900cc50db",
+   "processo": "0503740-82.2016.8.05.0146",
+   "especie": "acordao",
+   "orgao": "Segunda Câmara Cível",
+   "julgamento": "2022-03-15",
+   "questao": "DEC-TJBA-d3f900cc50db#Q1",
+   "materia": "merito",
+   "resultado": "favoravel",
+   "provisoriedade": "definitiva_na_instancia",
+   "alinea": "b",
+   "via": "acao_conhecimento_ou_outro",
+   "onus": "municipio",
+   "onus_texto": "município (expresso, SV 52)",
+   "completude": "ementa_e_dispositivo",
+   "atos_do_processo": [
+    "DEC-TJBA-d3f900cc50db"
+   ]
+  },
+  {
+   "id": "DEC-TJBA-d47ae88263bc",
+   "processo": "0503744-22.2016.8.05.0146",
+   "especie": "acordao",
+   "orgao": "Primeira Câmara Cível",
+   "julgamento": "2023-05-09",
+   "questao": "DEC-TJBA-d47ae88263bc#Q1",
+   "materia": "merito",
+   "resultado": "favoravel",
+   "provisoriedade": "definitiva_na_instancia",
+   "alinea": "b",
+   "via": "execucao_fiscal_outro",
+   "onus": "municipio",
+   "onus_texto": "município (implícito: presunção relativa)",
+   "completude": "ementa_e_dispositivo",
+   "atos_do_processo": [
+    "DEC-TJBA-d47ae88263bc"
+   ]
+  },
+  {
+   "id": "DEC-TJBA-9bfd036d3a10",
+   "processo": "0503938-22.2016.8.05.0146",
+   "especie": "acordao",
+   "orgao": "Quinta Câmara Cível",
+   "julgamento": "2022-03-30",
+   "questao": "DEC-TJBA-9bfd036d3a10#Q1",
+   "materia": "merito",
+   "resultado": "favoravel",
+   "provisoriedade": "definitiva_na_instancia",
+   "alinea": "b",
+   "via": "excecao_pre_executividade",
+   "onus": "municipio",
+   "onus_texto": "município",
+   "completude": "ementa_e_dispositivo",
+   "atos_do_processo": [
+    "DEC-TJBA-9bfd036d3a10"
+   ]
+  },
+  {
+   "id": "DEC-TJBA-ccaf6243ab4a",
+   "processo": "0503942-59.2016.8.05.0146",
+   "especie": "acordao",
+   "orgao": "Quinta Câmara Cível",
+   "julgamento": "2022-02-16",
+   "questao": "DEC-TJBA-ccaf6243ab4a#Q1",
+   "materia": "merito",
+   "resultado": "favoravel",
+   "provisoriedade": "definitiva_na_instancia",
+   "alinea": "b",
+   "via": "excecao_pre_executividade",
+   "onus": "municipio",
+   "onus_texto": "município",
+   "completude": "ementa_e_dispositivo",
+   "atos_do_processo": [
+    "DEC-TJBA-ccaf6243ab4a"
+   ]
+  },
+  {
+   "id": "DEC-TJBA-7e984fa65d9a",
+   "processo": "0503944-29.2016.8.05.0146",
+   "especie": "acordao",
+   "orgao": "Primeira Câmara Cível",
+   "julgamento": "2023-09-05",
+   "questao": "DEC-TJBA-7e984fa65d9a#Q1",
+   "materia": "merito",
+   "resultado": "favoravel",
+   "provisoriedade": "definitiva_na_instancia",
+   "alinea": "b",
+   "via": "excecao_pre_executividade",
+   "onus": "municipio",
+   "onus_texto": "releitura H2 (inteiro teor)",
+   "completude": "inteiro_teor",
+   "atos_do_processo": [
+    "DEC-TJBA-7e984fa65d9a"
+   ]
+  },
+  {
+   "id": "DEC-TJBA-0b06bb9e97c4",
+   "processo": "0504702-50.2019.8.05.0001",
+   "especie": "acordao",
+   "orgao": "Primeira Câmara Cível",
+   "julgamento": "2021-02-08",
+   "questao": "DEC-TJBA-0b06bb9e97c4#Q2",
+   "materia": "merito",
+   "resultado": "favoravel",
+   "provisoriedade": "definitiva_na_instancia",
+   "alinea": "c",
+   "via": "execucao_fiscal_outro",
+   "onus": "municipio",
+   "onus_texto": "município",
+   "completude": "inteiro_teor",
+   "atos_do_processo": [
+    "DEC-TJBA-0b06bb9e97c4"
+   ]
+  },
+  {
+   "id": "DEC-TJBA-6bb18811b55b",
+   "processo": "0504782-48.2018.8.05.0001",
+   "especie": "acordao",
+   "orgao": "Quinta Câmara Cível",
+   "julgamento": "2020-05-05",
+   "questao": "DEC-TJBA-6bb18811b55b#Q1",
+   "materia": "merito",
+   "resultado": "favoravel",
+   "provisoriedade": "definitiva_na_instancia",
+   "alinea": "c",
+   "via": "execucao_fiscal_outro",
+   "onus": "municipio",
+   "onus_texto": "município",
+   "completude": "inteiro_teor",
+   "atos_do_processo": [
+    "DEC-TJBA-6bb18811b55b",
+    "DEC-TJBA-2d501e65a164",
+    "DEC-TJBA-39ea588186c6"
+   ]
+  },
+  {
+   "id": "DEC-TJBA-678594f66f42",
+   "processo": "0505347-75.2019.8.05.0001",
+   "especie": "acordao",
+   "orgao": "Terceira Câmara Cível",
+   "julgamento": "2022-08-30",
+   "questao": "DEC-TJBA-678594f66f42#Q1",
+   "materia": "merito",
+   "resultado": "favoravel",
+   "provisoriedade": "definitiva_na_instancia",
+   "alinea": "c",
+   "via": "execucao_fiscal_outro",
+   "onus": "municipio",
+   "onus_texto": "município",
+   "completude": "ementa_e_dispositivo",
+   "atos_do_processo": [
+    "DEC-TJBA-678594f66f42"
+   ]
+  },
+  {
+   "id": "DEC-TJBA-46bd27ed00bb",
+   "processo": "0505659-22.2017.8.05.0001",
+   "especie": "decisao_monocratica",
+   "orgao": "2ª Vice-Presidência",
+   "julgamento": "2022-09-21",
+   "questao": "DEC-TJBA-46bd27ed00bb#Q1",
+   "materia": "admissibilidade",
+   "resultado": "sem_exame",
+   "provisoriedade": "nao_aplicavel",
+   "alinea": "c",
+   "via": "mandado_seguranca",
+   "onus": "nao_tratado",
+   "onus_texto": "não tratado (só no acórdão transcrito, que o atribuía ao município)",
+   "completude": "inteiro_teor",
+   "atos_do_processo": [
+    "DEC-TJBA-46bd27ed00bb",
+    "DEC-TJBA-c6a459aa3d62"
+   ]
+  },
+  {
+   "id": "DEC-TJBA-d0cb7889029c",
+   "processo": "0505663-59.2017.8.05.0001",
+   "especie": "decisao_monocratica",
+   "orgao": "2ª Vice-Presidência",
+   "julgamento": "2023-09-25",
+   "questao": "DEC-TJBA-d0cb7889029c#Q1",
+   "materia": "admissibilidade",
+   "resultado": "sem_exame",
+   "provisoriedade": "nao_aplicavel",
+   "alinea": "b+c",
+   "via": "acao_conhecimento_ou_outro",
+   "onus": "nao_tratado",
+   "onus_texto": "não tratado",
+   "completude": "inteiro_teor",
+   "atos_do_processo": [
+    "DEC-TJBA-d0cb7889029c"
+   ]
+  },
+  {
+   "id": "DEC-TJBA-ee3437ec247d",
+   "processo": "0505868-59.2015.8.05.0001",
+   "especie": "acordao",
+   "orgao": "Primeira Câmara Cível",
+   "julgamento": "2020-02-10",
+   "questao": "DEC-TJBA-ee3437ec247d#Q4",
+   "materia": "merito",
+   "resultado": "favoravel",
+   "provisoriedade": "definitiva_na_instancia",
+   "alinea": "c",
+   "via": "execucao_fiscal_outro",
+   "onus": "municipio",
+   "onus_texto": "município",
+   "completude": "inteiro_teor",
+   "atos_do_processo": [
+    "DEC-TJBA-ee3437ec247d",
+    "DEC-TJBA-062110ceaeaa",
+    "DEC-TJBA-2a2741327d67"
+   ]
+  },
+  {
+   "id": "DEC-TJBA-de5e68d1a6f9",
+   "processo": "0505933-54.2015.8.05.0001",
+   "especie": "decisao_monocratica",
+   "orgao": "2ª Vice-Presidência",
+   "julgamento": "2022-09-30",
+   "questao": "DEC-TJBA-de5e68d1a6f9#Q1",
+   "materia": "admissibilidade",
+   "resultado": "sem_exame",
+   "provisoriedade": "definitiva_na_instancia",
+   "alinea": "c",
+   "via": "acao_conhecimento_ou_outro",
+   "onus": "nao_tratado",
+   "onus_texto": "não tratado",
+   "completude": "inteiro_teor",
+   "atos_do_processo": [
+    "DEC-TJBA-de5e68d1a6f9"
+   ]
+  },
+  {
+   "id": "DEC-TJBA-338cbd061027",
+   "processo": "0510610-88.2019.8.05.0001",
+   "especie": "acordao",
+   "orgao": "Segunda Câmara Cível",
+   "julgamento": "2023-12-12",
+   "questao": "DEC-TJBA-338cbd061027#Q2",
+   "materia": "merito",
+   "resultado": "favoravel",
+   "provisoriedade": "definitiva_na_instancia",
+   "alinea": "b",
+   "via": "acao_conhecimento_ou_outro",
+   "onus": "nao_tratado",
+   "onus_texto": "não tratado",
+   "completude": "ementa_e_dispositivo",
+   "atos_do_processo": [
+    "DEC-TJBA-338cbd061027"
+   ]
+  },
+  {
+   "id": "DEC-TJBA-345440f9966a",
+   "processo": "0512365-55.2016.8.05.0001",
+   "especie": "decisao_monocratica",
+   "orgao": "2ª Vice-Presidência",
+   "julgamento": "2025-09-26",
+   "questao": "DEC-TJBA-345440f9966a#Q1",
+   "materia": "admissibilidade",
+   "resultado": "sem_exame",
+   "provisoriedade": "definitiva_na_instancia",
+   "alinea": "c",
+   "via": "excecao_pre_executividade",
+   "onus": "nao_tratado",
+   "onus_texto": "não tratado nesta decisão (no acórdão recorrido transcrito: município)",
+   "completude": "inteiro_teor",
+   "atos_do_processo": [
+    "DEC-TJBA-345440f9966a"
+   ]
+  },
+  {
+   "id": "DEC-TJBA-350b8e0b2adb",
+   "processo": "0513992-26.2018.8.05.0001",
+   "especie": "acordao",
+   "orgao": "Terceira Câmara Cível",
+   "julgamento": "2024-09-11",
+   "questao": "DEC-TJBA-350b8e0b2adb#Q1",
+   "materia": "merito",
+   "resultado": "favoravel",
+   "provisoriedade": "definitiva_na_instancia",
+   "alinea": "c",
+   "via": "acao_conhecimento_ou_outro",
+   "onus": "nao_tratado",
+   "onus_texto": "não tratado",
+   "completude": "ementa_e_dispositivo",
+   "atos_do_processo": [
+    "DEC-TJBA-350b8e0b2adb"
+   ]
+  },
+  {
+   "id": "DEC-TJBA-63af8c638722",
+   "processo": "0522584-30.2016.8.05.0001",
+   "especie": "acordao",
+   "orgao": "Quarta Câmara Cível",
+   "julgamento": "2022-04-13",
+   "questao": "DEC-TJBA-63af8c638722#Q1",
+   "materia": "merito",
+   "resultado": "favoravel",
+   "provisoriedade": "definitiva_na_instancia",
+   "alinea": "b",
+   "via": "acao_conhecimento_ou_outro",
+   "onus": "nao_tratado",
+   "onus_texto": "não tratado",
+   "completude": "ementa_e_dispositivo",
+   "atos_do_processo": [
+    "DEC-TJBA-63af8c638722"
+   ]
+  },
+  {
+   "id": "DEC-TJBA-485d34e7c575",
+   "processo": "0523045-70.2014.8.05.0001",
+   "especie": "acordao",
+   "orgao": "QUARTA CAMARA CÍVEL",
+   "julgamento": "2020-01-28",
+   "questao": "DEC-TJBA-485d34e7c575#Q1",
+   "materia": "processual",
+   "resultado": "favoravel",
+   "provisoriedade": "definitiva_na_instancia",
+   "alinea": "c",
+   "via": "execucao_fiscal_outro",
+   "onus": "nao_tratado",
+   "onus_texto": "não tratado",
+   "completude": "inteiro_teor",
+   "atos_do_processo": [
+    "DEC-TJBA-485d34e7c575"
+   ]
+  },
+  {
+   "id": "DEC-TJBA-0903d3b6b671",
+   "processo": "0526964-96.2016.8.05.0001",
+   "especie": "integrativa",
+   "orgao": "Terceira Câmara Cível",
+   "julgamento": "2024-12-18",
+   "questao": "DEC-TJBA-0903d3b6b671#Q1",
+   "materia": "processual",
+   "resultado": "favoravel",
+   "provisoriedade": "definitiva_na_instancia",
+   "alinea": "c",
+   "via": "acao_conhecimento_ou_outro",
+   "onus": "municipio",
+   "onus_texto": "município (SV 52, só pela ementa)",
+   "completude": "ementa_e_dispositivo",
+   "atos_do_processo": [
+    "DEC-TJBA-0903d3b6b671"
+   ]
+  },
+  {
+   "id": "DEC-TJBA-2720a57a2069",
+   "processo": "0533140-91.2016.8.05.0001",
+   "especie": "acordao",
+   "orgao": "Quarta Câmara Cível",
+   "julgamento": "2024-10-01",
+   "questao": "DEC-TJBA-2720a57a2069#Q1",
+   "materia": "merito",
+   "resultado": "desfavoravel",
+   "provisoriedade": "definitiva_na_instancia",
+   "alinea": "b",
+   "via": "acao_conhecimento_ou_outro",
+   "onus": "nao_tratado",
+   "onus_texto": "não tratado",
+   "completude": "ementa_e_dispositivo",
+   "atos_do_processo": [
+    "DEC-TJBA-2720a57a2069"
+   ]
+  },
+  {
+   "id": "DEC-TJBA-b042476317f1",
+   "processo": "0542776-13.2018.8.05.0001",
+   "especie": "acordao",
+   "orgao": "Segunda Câmara Cível",
+   "julgamento": "2023-04-04",
+   "questao": "DEC-TJBA-b042476317f1#Q1",
+   "materia": "merito",
+   "resultado": "favoravel",
+   "provisoriedade": "definitiva_na_instancia",
+   "alinea": "c",
+   "via": "acao_conhecimento_ou_outro",
+   "onus": "municipio",
+   "onus_texto": "município (art. 373, II, do CPC)",
+   "completude": "ementa_e_dispositivo",
+   "atos_do_processo": [
+    "DEC-TJBA-b042476317f1"
+   ]
+  },
+  {
+   "id": "DEC-TJBA-a150f0f429ea",
+   "processo": "0563847-13.2014.8.05.0001",
+   "especie": "acordao",
+   "orgao": "Quinta Câmara Cível",
+   "julgamento": "2021-09-15",
+   "questao": "DEC-TJBA-a150f0f429ea#Q1",
+   "materia": "processual",
+   "resultado": "desfavoravel",
+   "provisoriedade": "definitiva_na_instancia",
+   "alinea": "c",
+   "via": "acao_conhecimento_ou_outro",
+   "onus": "nao_tratado",
+   "onus_texto": "não tratado",
+   "completude": "ementa_e_dispositivo",
+   "atos_do_processo": [
+    "DEC-TJBA-a150f0f429ea"
+   ]
+  },
+  {
+   "id": "DEC-TJBA-6abf51745b23",
+   "processo": "0567003-04.2017.8.05.0001",
+   "especie": "integrativa",
+   "orgao": "Segunda Câmara Cível",
+   "julgamento": "2020-03-03",
+   "questao": "DEC-TJBA-6abf51745b23#Q1",
+   "materia": "merito",
+   "resultado": "favoravel",
+   "provisoriedade": "definitiva_na_instancia",
+   "alinea": "b",
+   "via": "acao_conhecimento_ou_outro",
+   "onus": "nao_tratado",
+   "onus_texto": "não tratado (a destinação foi tida por provada: posse incontroversa e cadastro na SUCUM)",
+   "completude": "inteiro_teor",
+   "atos_do_processo": [
+    "DEC-TJBA-6abf51745b23",
+    "DEC-TJBA-b3e37c711d67",
+    "DEC-TJBA-ea19c4002182"
+   ]
+  },
+  {
+   "id": "DEC-TJBA-13e7a3386ae5",
+   "processo": "0569016-78.2014.8.05.0001",
+   "especie": "acordao",
+   "orgao": "Órgão Especial",
+   "julgamento": "2024-03-27",
+   "questao": "DEC-TJBA-13e7a3386ae5#Q1",
+   "materia": "admissibilidade",
+   "resultado": "sem_exame",
+   "provisoriedade": "definitiva_na_instancia",
+   "alinea": "a",
+   "via": "acao_conhecimento_ou_outro",
+   "onus": "nao_tratado",
+   "onus_texto": "não tratado",
+   "completude": "ementa_e_dispositivo",
+   "atos_do_processo": [
+    "DEC-TJBA-13e7a3386ae5",
+    "DEC-TJBA-1ce3965b31a1",
+    "DEC-TJBA-ebbe0a3f2486",
+    "DEC-TJBA-1163c83dfbfe"
+   ]
+  },
+  {
+   "id": "DEC-TJBA-db048c9e1eb6",
+   "processo": "0571920-32.2018.8.05.0001",
+   "especie": "acordao",
+   "orgao": "Quarta Câmara Cível",
+   "julgamento": "2025-07-21",
+   "questao": "DEC-TJBA-db048c9e1eb6#Q1",
+   "materia": "merito",
+   "resultado": "desfavoravel",
+   "provisoriedade": "definitiva_na_instancia",
+   "alinea": "c",
+   "via": "acao_conhecimento_ou_outro",
+   "onus": "nao_tratado",
+   "onus_texto": "não tratado",
+   "completude": "ementa_e_dispositivo",
+   "atos_do_processo": [
+    "DEC-TJBA-db048c9e1eb6"
+   ]
+  },
+  {
+   "id": "DEC-TJBA-c9f7953b9208",
+   "processo": "0571942-90.2018.8.05.0001",
+   "especie": "acordao",
+   "orgao": "Quinta Câmara Cível",
+   "julgamento": "2023-07-24",
+   "questao": "DEC-TJBA-c9f7953b9208#Q2",
+   "materia": "merito",
+   "resultado": "favoravel",
+   "provisoriedade": "definitiva_na_instancia",
+   "alinea": "c",
+   "via": "excecao_pre_executividade",
+   "onus": "municipio",
+   "onus_texto": "município (presunção + Súmula 724 STF + art. 14 CTN)",
+   "completude": "ementa_e_dispositivo",
+   "atos_do_processo": [
+    "DEC-TJBA-c9f7953b9208"
+   ]
+  },
+  {
+   "id": "DEC-TJBA-183b03ebb342",
+   "processo": "0762089-83.2012.8.05.0001",
+   "especie": "acordao",
+   "orgao": "Quarta Câmara Cível",
+   "julgamento": "2025-06-02",
+   "questao": "DEC-TJBA-183b03ebb342#Q1",
+   "materia": "merito",
+   "resultado": "desfavoravel",
+   "provisoriedade": "definitiva_na_instancia",
+   "alinea": "b",
+   "via": "execucao_fiscal_outro",
+   "onus": "nao_tratado",
+   "onus_texto": "não tratado",
+   "completude": "ementa_e_dispositivo",
+   "atos_do_processo": [
+    "DEC-TJBA-183b03ebb342"
+   ]
+  },
+  {
+   "id": "DEC-TJBA-2963ea18c9ac",
+   "processo": "0773112-89.2013.8.05.0001",
+   "especie": "acordao",
+   "orgao": "Quinta Câmara Cível",
+   "julgamento": "2025-04-28",
+   "questao": "DEC-TJBA-2963ea18c9ac#Q1",
+   "materia": "merito",
+   "resultado": "favoravel",
+   "provisoriedade": "definitiva_na_instancia",
+   "alinea": "b+c",
+   "via": "execucao_fiscal_outro",
+   "onus": "nao_tratado",
+   "onus_texto": "não tratado (o próprio Município reconheceu a condição religiosa) |",
+   "completude": "ementa_e_dispositivo",
+   "atos_do_processo": [
+    "DEC-TJBA-2963ea18c9ac"
+   ]
+  },
+  {
+   "id": "DEC-TJBA-03c9ececc954",
+   "processo": "0795268-71.2013.8.05.0001",
+   "especie": "acordao",
+   "orgao": "Quinta Câmara Cível",
+   "julgamento": "2022-09-29",
+   "questao": "DEC-TJBA-03c9ececc954#Q1",
+   "materia": "merito",
+   "resultado": "favoravel",
+   "provisoriedade": "definitiva_na_instancia",
+   "alinea": "c",
+   "via": "excecao_pre_executividade",
+   "onus": "nao_tratado",
+   "onus_texto": "não tratado",
+   "completude": "ementa_e_dispositivo",
+   "atos_do_processo": [
+    "DEC-TJBA-03c9ececc954"
+   ]
+  },
+  {
+   "id": "DEC-TJBA-fd125c28e619",
+   "processo": "0795617-98.2018.8.05.0001",
+   "especie": "acordao",
+   "orgao": "Segunda Câmara Cível",
+   "julgamento": "2021-08-25",
+   "questao": "DEC-TJBA-fd125c28e619#Q1",
+   "materia": "merito",
+   "resultado": "favoravel",
+   "provisoriedade": "definitiva_na_instancia",
+   "alinea": "c",
+   "via": "excecao_pre_executividade",
+   "onus": "nao_tratado",
+   "onus_texto": "não tratado",
+   "completude": "ementa_e_dispositivo",
+   "atos_do_processo": [
+    "DEC-TJBA-fd125c28e619"
+   ]
+  },
+  {
+   "id": "DEC-TJBA-c25e6fba27e0",
+   "processo": "0796489-16.2018.8.05.0001",
+   "especie": "acordao",
+   "orgao": "Primeira Câmara Cível",
+   "julgamento": "2023-04-17",
+   "questao": "DEC-TJBA-c25e6fba27e0#Q2",
+   "materia": "merito",
+   "resultado": "favoravel",
+   "provisoriedade": "definitiva_na_instancia",
+   "alinea": "b",
+   "via": "excecao_pre_executividade",
+   "onus": "municipio",
+   "onus_texto": "município (cabe à administração tributária provar a tredestinação, ARE 800395 AgR)",
+   "completude": "ementa_e_dispositivo",
+   "atos_do_processo": [
+    "DEC-TJBA-c25e6fba27e0"
+   ]
+  },
+  {
+   "id": "DEC-TJBA-5ccc1d6a6f2e",
+   "processo": "0796724-80.2018.8.05.0001",
+   "especie": "acordao",
+   "orgao": "Quarta Câmara Cível",
+   "julgamento": "2022-03-16",
+   "questao": "DEC-TJBA-5ccc1d6a6f2e#Q1",
+   "materia": "merito",
+   "resultado": "favoravel",
+   "provisoriedade": "definitiva_na_instancia",
+   "alinea": "b",
+   "via": "excecao_pre_executividade",
+   "onus": "municipio",
+   "onus_texto": "município",
+   "completude": "ementa_e_dispositivo",
+   "atos_do_processo": [
+    "DEC-TJBA-5ccc1d6a6f2e"
+   ]
+  },
+  {
+   "id": "DEC-TJBA-a0fb74268c86",
+   "processo": "0804790-54.2015.8.05.0001",
+   "especie": "acordao",
+   "orgao": "Primeira Câmara Cível",
+   "julgamento": "2020-06-08",
+   "questao": "DEC-TJBA-a0fb74268c86#Q2",
+   "materia": "merito",
+   "resultado": "favoravel",
+   "provisoriedade": "definitiva_na_instancia",
+   "alinea": "a",
+   "via": "excecao_pre_executividade",
+   "onus": "nao_tratado",
+   "onus_texto": "não tratado",
+   "completude": "inteiro_teor",
+   "atos_do_processo": [
+    "DEC-TJBA-a0fb74268c86"
+   ]
+  },
+  {
+   "id": "DEC-TJBA-24c515dad13f",
+   "processo": "0808173-40.2015.8.05.0001",
+   "especie": "acordao",
+   "orgao": "Quarta Câmara Cível",
+   "julgamento": "2023-09-29",
+   "questao": "DEC-TJBA-24c515dad13f#Q2",
+   "materia": "merito",
+   "resultado": "favoravel",
+   "provisoriedade": "definitiva_na_instancia",
+   "alinea": "b",
+   "via": "excecao_pre_executividade",
+   "onus": "nao_tratado",
+   "onus_texto": "não tratado",
+   "completude": "ementa_e_dispositivo",
+   "atos_do_processo": [
+    "DEC-TJBA-24c515dad13f"
+   ]
+  },
+  {
+   "id": "DEC-TJBA-975258acffe2",
+   "processo": "0962080-85.2015.8.05.0146",
+   "especie": "acordao",
+   "orgao": "Quinta Câmara Cível",
+   "julgamento": "2023-03-29",
+   "questao": "DEC-TJBA-975258acffe2#Q1",
+   "materia": "merito",
+   "resultado": "favoravel",
+   "provisoriedade": "definitiva_na_instancia",
+   "alinea": "b",
+   "via": "execucao_fiscal_outro",
+   "onus": "municipio",
+   "onus_texto": "município",
+   "completude": "ementa_e_dispositivo",
+   "atos_do_processo": [
+    "DEC-TJBA-975258acffe2"
+   ]
+  },
+  {
+   "id": "DEC-TJBA-dfea17163670",
+   "processo": "0963166-91.2015.8.05.0146",
+   "especie": "acordao",
+   "orgao": "Segunda Câmara Cível",
+   "julgamento": "2022-03-15",
+   "questao": "DEC-TJBA-dfea17163670#Q1",
+   "materia": "merito",
+   "resultado": "favoravel",
+   "provisoriedade": "definitiva_na_instancia",
+   "alinea": "b",
+   "via": "acao_conhecimento_ou_outro",
+   "onus": "municipio",
+   "onus_texto": "município",
+   "completude": "ementa_e_dispositivo",
+   "atos_do_processo": [
+    "DEC-TJBA-dfea17163670"
+   ]
+  },
+  {
+   "id": "DEC-TJBA-10085fb33b64",
+   "processo": "0963210-13.2015.8.05.0146",
+   "especie": "acordao",
+   "orgao": "Terceira Câmara Cível",
+   "julgamento": "2022-09-06",
+   "questao": "DEC-TJBA-10085fb33b64#Q1",
+   "materia": "merito",
+   "resultado": "favoravel",
+   "provisoriedade": "definitiva_na_instancia",
+   "alinea": "b",
+   "via": "excecao_pre_executividade",
+   "onus": "nao_tratado",
+   "onus_texto": "não tratado",
+   "completude": "ementa_e_dispositivo",
+   "atos_do_processo": [
+    "DEC-TJBA-10085fb33b64"
+   ]
+  },
+  {
+   "id": "DEC-TJBA-5e7d27d97af9",
+   "processo": "0963220-57.2015.8.05.0146",
+   "especie": "acordao",
+   "orgao": "Quinta Câmara Cível",
+   "julgamento": "2022-09-06",
+   "questao": "DEC-TJBA-5e7d27d97af9#Q1",
+   "materia": "merito",
+   "resultado": "favoravel",
+   "provisoriedade": "definitiva_na_instancia",
+   "alinea": "b",
+   "via": "excecao_pre_executividade",
+   "onus": "municipio",
+   "onus_texto": "município",
+   "completude": "so_ementa",
+   "atos_do_processo": [
+    "DEC-TJBA-5e7d27d97af9"
+   ]
+  },
+  {
+   "id": "DEC-TJBA-b9d209bba03d",
+   "processo": "0963234-41.2015.8.05.0146",
+   "especie": "acordao",
+   "orgao": "SEGUNDA CAMARA CÍVEL",
+   "julgamento": "2023-08-15",
+   "questao": "DEC-TJBA-b9d209bba03d#Q1",
+   "materia": "merito",
+   "resultado": "favoravel",
+   "provisoriedade": "definitiva_na_instancia",
+   "alinea": "b",
+   "via": "excecao_pre_executividade",
+   "onus": "municipio",
+   "onus_texto": "município",
+   "completude": "ementa_e_dispositivo",
+   "atos_do_processo": [
+    "DEC-TJBA-b9d209bba03d"
+   ]
+  },
+  {
+   "id": "DEC-TJBA-6d495c6eb7a9",
+   "processo": "0963247-40.2015.8.05.0146",
+   "especie": "acordao",
+   "orgao": "Primeira Câmara Cível",
+   "julgamento": "2024-03-06",
+   "questao": "DEC-TJBA-6d495c6eb7a9#Q1",
+   "materia": "merito",
+   "resultado": "favoravel",
+   "provisoriedade": "definitiva_na_instancia",
+   "alinea": "b",
+   "via": "acao_conhecimento_ou_outro",
+   "onus": "nao_tratado",
+   "onus_texto": "não tratado",
+   "completude": "so_ementa",
+   "atos_do_processo": [
+    "DEC-TJBA-6d495c6eb7a9"
+   ]
+  },
+  {
+   "id": "DEC-TJBA-f8d858977d11",
+   "processo": "0963250-92.2015.8.05.0146",
+   "especie": "acordao",
+   "orgao": "Quarta Câmara Cível",
+   "julgamento": "2023-08-29",
+   "questao": "DEC-TJBA-f8d858977d11#Q1",
+   "materia": "merito",
+   "resultado": "favoravel",
+   "provisoriedade": "definitiva_na_instancia",
+   "alinea": "b",
+   "via": "excecao_pre_executividade",
+   "onus": "municipio",
+   "onus_texto": "município",
+   "completude": "ementa_e_dispositivo",
+   "atos_do_processo": [
+    "DEC-TJBA-f8d858977d11"
+   ]
+  },
+  {
+   "id": "DEC-TJBA-5fb7c99f061f",
+   "processo": "0963251-77.2015.8.05.0146",
+   "especie": "acordao",
+   "orgao": "Quarta Câmara Cível",
+   "julgamento": "2022-08-04",
+   "questao": "DEC-TJBA-5fb7c99f061f#Q1",
+   "materia": "merito",
+   "resultado": "favoravel",
+   "provisoriedade": "definitiva_na_instancia",
+   "alinea": "b",
+   "via": "excecao_pre_executividade",
+   "onus": "municipio",
+   "onus_texto": "município",
+   "completude": "ementa_e_dispositivo",
+   "atos_do_processo": [
+    "DEC-TJBA-5fb7c99f061f"
+   ]
+  },
+  {
+   "id": "DEC-TJBA-38442879709a",
+   "processo": "0963253-47.2015.8.05.0146",
+   "especie": "acordao",
+   "orgao": "Quinta Câmara Cível",
+   "julgamento": "2023-06-13",
+   "questao": "DEC-TJBA-38442879709a#Q1",
+   "materia": "merito",
+   "resultado": "favoravel",
+   "provisoriedade": "definitiva_na_instancia",
+   "alinea": "b",
+   "via": "excecao_pre_executividade",
+   "onus": "municipio",
+   "onus_texto": "município",
+   "completude": "ementa_e_dispositivo",
+   "atos_do_processo": [
+    "DEC-TJBA-38442879709a"
+   ]
+  },
+  {
+   "id": "DEC-TJBA-2feb97121ad7",
+   "processo": "8000200-86.2020.8.05.0119",
+   "especie": "acordao",
+   "orgao": "Quarta Câmara Cível",
+   "julgamento": "2021-10-27",
+   "questao": "DEC-TJBA-2feb97121ad7#Q1",
+   "materia": "merito",
+   "resultado": "desfavoravel",
+   "provisoriedade": "definitiva_na_instancia",
+   "alinea": "a",
+   "via": "embargos_execucao",
+   "onus": "nao_tratado",
+   "onus_texto": "não tratado",
+   "completude": "ementa_e_dispositivo",
+   "atos_do_processo": [
+    "DEC-TJBA-2feb97121ad7",
+    "DEC-TJBA-4b59e61dd142",
+    "DEC-TJBA-5001b7b38460"
+   ]
+  },
+  {
+   "id": "DEC-TJBA-f83013f62f60",
+   "processo": "8000236-35.2019.8.05.0032",
+   "especie": "acordao",
+   "orgao": "Terceira Câmara Cível",
+   "julgamento": "2025-03-12",
+   "questao": "DEC-TJBA-f83013f62f60#Q1",
+   "materia": "merito",
+   "resultado": "desfavoravel",
+   "provisoriedade": "definitiva_na_instancia",
+   "alinea": "a",
+   "via": "acao_conhecimento_ou_outro",
+   "onus": "nao_tratado",
+   "onus_texto": "não tratado (a afetação ao serviço é admitida e considerada irrelevante pelo intuito lucrativo)",
+   "completude": "ementa_e_dispositivo",
+   "atos_do_processo": [
+    "DEC-TJBA-f83013f62f60"
+   ]
+  },
+  {
+   "id": "DEC-TJBA-0d19a0cf8b4e",
+   "processo": "8000244-71.2021.8.05.0119",
+   "especie": "acordao",
+   "orgao": "Primeira Câmara Cível",
+   "julgamento": "2024-06-04",
+   "questao": "DEC-TJBA-0d19a0cf8b4e#Q1",
+   "materia": "merito",
+   "resultado": "desfavoravel",
+   "provisoriedade": "definitiva_na_instancia",
+   "alinea": "a",
+   "via": "embargos_execucao",
+   "onus": "nao_tratado",
+   "onus_texto": "não tratado",
+   "completude": "ementa_e_dispositivo",
+   "atos_do_processo": [
+    "DEC-TJBA-0d19a0cf8b4e",
+    "DEC-TJBA-d615175f1a61",
+    "DEC-TJBA-84e774e1b176"
+   ]
+  },
+  {
+   "id": "DEC-TJBAAPI-b9d2239fe206",
+   "processo": "8000259-57.2018.8.05.0212",
+   "especie": "acordao",
+   "orgao": "Quinta Câmara Cível",
+   "julgamento": "2026-09-16",
+   "questao": "DEC-TJBAAPI-b9d2239fe206#Q3",
+   "materia": "merito",
+   "resultado": "desfavoravel",
+   "provisoriedade": "definitiva_na_instancia",
+   "alinea": "a",
+   "via": "acao_conhecimento_ou_outro",
+   "onus": "nao_tratado",
+   "onus_texto": "não tratado",
+   "completude": "ementa_e_dispositivo",
+   "atos_do_processo": [
+    "DEC-TJBAAPI-b9d2239fe206"
+   ]
+  },
+  {
+   "id": "DEC-TJBA-2f87f2bcde2c",
+   "processo": "8000297-35.2020.8.05.0233",
+   "especie": "acordao",
+   "orgao": "Primeira Câmara Cível",
+   "julgamento": "2024-07-16",
+   "questao": "DEC-TJBA-2f87f2bcde2c#Q1",
+   "materia": "merito",
+   "resultado": "desfavoravel",
+   "provisoriedade": "definitiva_na_instancia",
+   "alinea": "a",
+   "via": "acao_conhecimento_ou_outro",
+   "onus": "nao_tratado",
+   "onus_texto": "não tratado",
+   "completude": "ementa_e_dispositivo",
+   "atos_do_processo": [
+    "DEC-TJBA-2f87f2bcde2c",
+    "DEC-TJBA-f7797bab23ad"
+   ]
+  },
+  {
+   "id": "DEC-TJBAAPI-d659c637f7d9",
+   "processo": "8000682-05.2019.8.05.0043",
+   "especie": "decisao_monocratica",
+   "orgao": "Primeira Câmara Cível",
+   "julgamento": "2026-03-30",
+   "questao": "DEC-TJBAAPI-d659c637f7d9#Q2",
+   "materia": "merito",
+   "resultado": "desfavoravel",
+   "provisoriedade": "definitiva_na_instancia",
+   "alinea": "a",
+   "via": "embargos_execucao",
+   "onus": "nao_tratado",
+   "onus_texto": "não tratado",
+   "completude": "inteiro_teor",
+   "atos_do_processo": [
+    "DEC-TJBAAPI-d659c637f7d9"
+   ]
+  },
+  {
+   "id": "DEC-TJBA-81ea2da7768c",
+   "processo": "8000741-22.2020.8.05.0119",
+   "especie": "acordao",
+   "orgao": "Primeira Câmara Cível",
+   "julgamento": "2023-08-15",
+   "questao": "DEC-TJBA-81ea2da7768c#Q1",
+   "materia": "merito",
+   "resultado": "desfavoravel",
+   "provisoriedade": "definitiva_na_instancia",
+   "alinea": "a",
+   "via": "acao_conhecimento_ou_outro",
+   "onus": "nao_tratado",
+   "onus_texto": "não tratado |",
+   "completude": "ementa_e_dispositivo",
+   "atos_do_processo": [
+    "DEC-TJBA-81ea2da7768c",
+    "DEC-TJBA-4592b7dbe01f",
+    "DEC-TJBA-57e8d3985cfb",
+    "DEC-TJBA-0ebe3d510ae6",
+    "DEC-TJBA-1622a272207c",
+    "DEC-TJBA-920ea1b70ea3"
+   ]
+  },
+  {
+   "id": "DEC-TJBA-f17df9bed9ce",
+   "processo": "8000744-14.2017.8.05.0076",
+   "especie": "acordao",
+   "orgao": "Quarta Câmara Cível",
+   "julgamento": "2020-10-16",
+   "questao": "DEC-TJBA-f17df9bed9ce#Q1",
+   "materia": "merito",
+   "resultado": "favoravel",
+   "provisoriedade": "definitiva_na_instancia",
+   "alinea": "a",
+   "via": "acao_conhecimento_ou_outro",
+   "onus": "nao_tratado",
+   "onus_texto": "não tratado",
+   "completude": "ementa_e_dispositivo",
+   "atos_do_processo": [
+    "DEC-TJBA-f17df9bed9ce"
+   ]
+  },
+  {
+   "id": "DEC-TJBA-c3ee50d8aa06",
+   "processo": "8000755-40.2020.8.05.0237",
+   "especie": "acordao",
+   "orgao": "Primeira Câmara Cível",
+   "julgamento": "2025-08-19",
+   "questao": "DEC-TJBA-c3ee50d8aa06#Q1",
+   "materia": "merito",
+   "resultado": "desfavoravel",
+   "provisoriedade": "definitiva_na_instancia",
+   "alinea": "a",
+   "via": "acao_conhecimento_ou_outro",
+   "onus": "nao_tratado",
+   "onus_texto": "não tratado",
+   "completude": "ementa_e_dispositivo",
+   "atos_do_processo": [
+    "DEC-TJBA-c3ee50d8aa06"
+   ]
+  },
+  {
+   "id": "DEC-TJBA-ad9bd45e6010",
+   "processo": "8000839-36.2019.8.05.0056",
+   "especie": "decisao_monocratica",
+   "orgao": "Primeira Câmara Cível",
+   "julgamento": "2025-10-23",
+   "questao": "DEC-TJBA-ad9bd45e6010#Q1",
+   "materia": "merito",
+   "resultado": "desfavoravel",
+   "provisoriedade": "definitiva_na_instancia",
+   "alinea": "a",
+   "via": "acao_conhecimento_ou_outro",
+   "onus": "nao_tratado",
+   "onus_texto": "não tratado",
+   "completude": "inteiro_teor",
+   "atos_do_processo": [
+    "DEC-TJBA-ad9bd45e6010"
+   ]
+  },
+  {
+   "id": "DEC-TJBA-af73d1fe1282",
+   "processo": "8000964-84.2021.8.05.0136",
+   "especie": "acordao",
+   "orgao": "Quarta Câmara Cível",
+   "julgamento": "2025-08-05",
+   "questao": "DEC-TJBA-af73d1fe1282#Q1",
+   "materia": "merito",
+   "resultado": "favoravel",
+   "provisoriedade": "definitiva_na_instancia",
+   "alinea": "a",
+   "via": "acao_conhecimento_ou_outro",
+   "onus": "municipio",
+   "onus_texto": "município (presunção de imunidade; o Fisco prova a desvinculação)",
+   "completude": "ementa_e_dispositivo",
+   "atos_do_processo": [
+    "DEC-TJBA-af73d1fe1282"
+   ]
+  },
+  {
+   "id": "DEC-TJBA-70aafa3924d9",
+   "processo": "8001007-60.2020.8.05.0199",
+   "especie": "acordao",
+   "orgao": "Terceira Câmara Cível",
+   "julgamento": "2025-11-13",
+   "questao": "DEC-TJBA-70aafa3924d9#Q1",
+   "materia": "merito",
+   "resultado": "favoravel",
+   "provisoriedade": "definitiva_na_instancia",
+   "alinea": "a",
+   "via": "acao_conhecimento_ou_outro",
+   "onus": "nao_tratado",
+   "onus_texto": "não tratado",
+   "completude": "ementa_e_dispositivo",
+   "atos_do_processo": [
+    "DEC-TJBA-70aafa3924d9"
+   ]
+  },
+  {
+   "id": "DEC-TJBA-e2820f6dcb8c",
+   "processo": "8001156-16.2021.8.05.0201",
+   "especie": "acordao",
+   "orgao": "Segunda Câmara Cível",
+   "julgamento": "2025-04-07",
+   "questao": "DEC-TJBA-e2820f6dcb8c#Q1",
+   "materia": "merito",
+   "resultado": "favoravel",
+   "provisoriedade": "definitiva_na_instancia",
+   "alinea": "a",
+   "via": "execucao_fiscal_outro",
+   "onus": "nao_tratado",
+   "onus_texto": "não tratado",
+   "completude": "ementa_e_dispositivo",
+   "atos_do_processo": [
+    "DEC-TJBA-e2820f6dcb8c"
+   ]
+  },
+  {
+   "id": "DEC-TJBA-506c05518387",
+   "processo": "8001605-53.2024.8.05.9000",
+   "especie": "decisao_monocratica",
+   "orgao": "Primeira Câmara Cível",
+   "julgamento": "2025-02-04",
+   "questao": "DEC-TJBA-506c05518387#Q1",
+   "materia": "cautelar",
+   "resultado": "desfavoravel",
+   "provisoriedade": "provisoria",
+   "alinea": "c",
+   "via": "tutela",
+   "onus": "misto",
+   "onus_texto": "município (presunção juris tantum), mas a identificação dos imóveis é exigida do contribuinte",
+   "completude": "inteiro_teor",
+   "atos_do_processo": [
+    "DEC-TJBA-506c05518387",
+    "DEC-TJBA-f955da936eb6"
+   ]
+  },
+  {
+   "id": "DEC-TJBA-7bd4bd4a6b23",
+   "processo": "8001622-89.2024.8.05.9000",
+   "especie": "acordao",
+   "orgao": "Terceira Câmara Cível",
+   "julgamento": "2025-08-21",
+   "questao": "DEC-TJBA-7bd4bd4a6b23#Q3",
+   "materia": "merito",
+   "resultado": "favoravel",
+   "provisoriedade": "definitiva_na_instancia",
+   "alinea": "c",
+   "via": "excecao_pre_executividade",
+   "onus": "nao_tratado",
+   "onus_texto": "não tratado",
+   "completude": "ementa_e_dispositivo",
+   "atos_do_processo": [
+    "DEC-TJBA-7bd4bd4a6b23"
+   ]
+  },
+  {
+   "id": "DEC-TJBA-4606b9ead096",
+   "processo": "8001699-05.2021.8.05.0141",
+   "especie": "acordao",
+   "orgao": "PRIMEIRA CAMARA CÍVEL",
+   "julgamento": "2025-06-04",
+   "questao": "DEC-TJBA-4606b9ead096#Q1",
+   "materia": "merito",
+   "resultado": "favoravel",
+   "provisoriedade": "definitiva_na_instancia",
+   "alinea": "c",
+   "via": "acao_conhecimento_ou_outro",
+   "onus": "municipio",
+   "onus_texto": "município",
+   "completude": "ementa_e_dispositivo",
+   "atos_do_processo": [
+    "DEC-TJBA-4606b9ead096"
+   ]
+  },
+  {
+   "id": "DEC-TJBA-1d3e39c7073d",
+   "processo": "8002105-72.2020.8.05.0137",
+   "especie": "acordao",
+   "orgao": "Terceira Câmara Cível",
+   "julgamento": "2022-11-22",
+   "questao": "DEC-TJBA-1d3e39c7073d#Q1",
+   "materia": "merito",
+   "resultado": "favoravel",
+   "provisoriedade": "definitiva_na_instancia",
+   "alinea": "a",
+   "via": "embargos_execucao",
+   "onus": "nao_tratado",
+   "onus_texto": "não tratado",
+   "completude": "ementa_e_dispositivo",
+   "atos_do_processo": [
+    "DEC-TJBA-1d3e39c7073d",
+    "DEC-TJBA-75e0b2e5c7f0",
+    "DEC-TJBA-67a2551dafc8",
+    "DEC-TJBA-d2bdd97aef57"
+   ]
+  },
+  {
+   "id": "DEC-TJBA-277e62fd24e2",
+   "processo": "8002112-79.2022.8.05.0271",
+   "especie": "acordao",
+   "orgao": "Quinta Câmara Cível",
+   "julgamento": "2024-04-02",
+   "questao": "DEC-TJBA-277e62fd24e2#Q1",
+   "materia": "merito",
+   "resultado": "desfavoravel",
+   "provisoriedade": "definitiva_na_instancia",
+   "alinea": "a",
+   "via": "embargos_execucao",
+   "onus": "nao_tratado",
+   "onus_texto": "não tratado",
+   "completude": "ementa_e_dispositivo",
+   "atos_do_processo": [
+    "DEC-TJBA-277e62fd24e2",
+    "DEC-TJBA-8b3079a21da1",
+    "DEC-TJBA-e063ddcd2ddc"
+   ]
+  },
+  {
+   "id": "DEC-TJBA-15c370800bc8",
+   "processo": "8002321-09.2019.8.05.0027",
+   "especie": "acordao",
+   "orgao": "Quinta Câmara Cível",
+   "julgamento": "2025-07-16",
+   "questao": "DEC-TJBA-15c370800bc8#Q1",
+   "materia": "merito",
+   "resultado": "favoravel",
+   "provisoriedade": "definitiva_na_instancia",
+   "alinea": "a",
+   "via": "acao_conhecimento_ou_outro",
+   "onus": "nao_tratado",
+   "onus_texto": "não tratado",
+   "completude": "ementa_e_dispositivo",
+   "atos_do_processo": [
+    "DEC-TJBA-15c370800bc8"
+   ]
+  },
+  {
+   "id": "DEC-TJBA-9f459cd896db",
+   "processo": "8002710-41.2020.8.05.0000",
+   "especie": "integrativa",
+   "orgao": "Quarta Câmara Cível",
+   "julgamento": "2021-08-04",
+   "questao": "DEC-TJBA-9f459cd896db#Q1",
+   "materia": "processual",
+   "resultado": "favoravel",
+   "provisoriedade": "definitiva_na_instancia",
+   "alinea": "a",
+   "via": "acao_conhecimento_ou_outro",
+   "onus": "nao_tratado",
+   "onus_texto": "não tratado",
+   "completude": "ementa_e_dispositivo",
+   "atos_do_processo": [
+    "DEC-TJBA-9f459cd896db",
+    "DEC-TJBA-f21504df9665",
+    "DEC-TJBA-8f59e8d98404"
+   ]
+  },
+  {
+   "id": "DEC-TJBA-4621b7bf10d8",
+   "processo": "8002930-34.2023.8.05.0000",
+   "especie": "integrativa",
+   "orgao": "Terceira Câmara Cível",
+   "julgamento": "2024-02-28",
+   "questao": "DEC-TJBA-4621b7bf10d8#Q1",
+   "materia": "cautelar",
+   "resultado": "favoravel",
+   "provisoriedade": "provisoria",
+   "alinea": "a",
+   "via": "tutela",
+   "onus": "nao_tratado",
+   "onus_texto": "não tratado",
+   "completude": "ementa_e_dispositivo",
+   "atos_do_processo": [
+    "DEC-TJBA-4621b7bf10d8"
+   ]
+  },
+  {
+   "id": "DEC-TJBA-e3b4aef87c1f",
+   "processo": "8003270-07.2025.8.05.0000",
+   "especie": "acordao",
+   "orgao": "Primeira Câmara Cível",
+   "julgamento": "2025-06-30",
+   "questao": "DEC-TJBA-e3b4aef87c1f#Q2",
+   "materia": "merito",
+   "resultado": "favoravel",
+   "provisoriedade": "definitiva_na_instancia",
+   "alinea": "c",
+   "via": "excecao_pre_executividade",
+   "onus": "misto",
+   "onus_texto": "contribuinte",
+   "completude": "inteiro_teor",
+   "atos_do_processo": [
+    "DEC-TJBA-e3b4aef87c1f",
+    "DEC-TJBA-eec4d6425623",
+    "DEC-TJBA-082c3674043f"
+   ]
+  },
+  {
+   "id": "DEC-TJBA-609828974920",
+   "processo": "8004312-67.2020.8.05.0000",
+   "especie": "acordao",
+   "orgao": "Segunda Câmara Cível",
+   "julgamento": "2020-06-17",
+   "questao": "DEC-TJBA-609828974920#Q1",
+   "materia": "merito",
+   "resultado": "favoravel",
+   "provisoriedade": "definitiva_na_instancia",
+   "alinea": "b",
+   "via": "excecao_pre_executividade",
+   "onus": "municipio",
+   "onus_texto": "município",
+   "completude": "ementa_e_dispositivo",
+   "atos_do_processo": [
+    "DEC-TJBA-609828974920"
+   ]
+  },
+  {
+   "id": "DEC-TJBA-a2610fcf9cf8",
+   "processo": "8004856-70.2021.8.05.0113",
+   "especie": "acordao",
+   "orgao": "Quarta Câmara Cível",
+   "julgamento": "2022-08-08",
+   "questao": "DEC-TJBA-a2610fcf9cf8#Q1",
+   "materia": "merito",
+   "resultado": "favoravel",
+   "provisoriedade": "definitiva_na_instancia",
+   "alinea": "c",
+   "via": "acao_conhecimento_ou_outro",
+   "onus": "municipio",
+   "onus_texto": "município",
+   "completude": "ementa_e_dispositivo",
+   "atos_do_processo": [
+    "DEC-TJBA-a2610fcf9cf8"
+   ]
+  },
+  {
+   "id": "DEC-TJBA-1c38b7e1577e",
+   "processo": "8005052-96.2023.8.05.0201",
+   "especie": "acordao",
+   "orgao": "Terceira Câmara Cível",
+   "julgamento": "2025-12-10",
+   "questao": "DEC-TJBA-1c38b7e1577e#Q1",
+   "materia": "merito",
+   "resultado": "favoravel",
+   "provisoriedade": "definitiva_na_instancia",
+   "alinea": "a",
+   "via": "acao_conhecimento_ou_outro",
+   "onus": "municipio",
+   "onus_texto": "município",
+   "completude": "ementa_e_dispositivo",
+   "atos_do_processo": [
+    "DEC-TJBA-1c38b7e1577e"
+   ]
+  },
+  {
+   "id": "DEC-TJBA-243f49db93ca",
+   "processo": "8005054-24.2022.8.05.0000",
+   "especie": "acordao",
+   "orgao": "Terceira Câmara Cível",
+   "julgamento": "2024-02-29",
+   "questao": "DEC-TJBA-243f49db93ca#Q2",
+   "materia": "merito",
+   "resultado": "indeterminavel",
+   "provisoriedade": "definitiva_na_instancia",
+   "alinea": "c",
+   "via": "excecao_pre_executividade",
+   "onus": "nao_tratado",
+   "onus_texto": "não tratado",
+   "completude": "ementa_e_dispositivo",
+   "atos_do_processo": [
+    "DEC-TJBA-243f49db93ca"
+   ]
+  },
+  {
+   "id": "DEC-TJBA-261b7411ef90",
+   "processo": "8005171-83.2020.8.05.0000",
+   "especie": "acordao",
+   "orgao": "Segunda Câmara Cível",
+   "julgamento": "2021-09-21",
+   "questao": "DEC-TJBA-261b7411ef90#Q1",
+   "materia": "cautelar",
+   "resultado": "favoravel",
+   "provisoriedade": "provisoria",
+   "alinea": "c",
+   "via": "tutela",
+   "onus": "contribuinte",
+   "onus_texto": "contribuinte",
+   "completude": "inteiro_teor",
+   "atos_do_processo": [
+    "DEC-TJBA-261b7411ef90"
+   ]
+  },
+  {
+   "id": "DEC-TJBA-befcc24c24a5",
+   "processo": "8007502-72.2019.8.05.0000",
+   "especie": "acordao",
+   "orgao": "Primeira Câmara Cível",
+   "julgamento": "2020-02-10",
+   "questao": "DEC-TJBA-befcc24c24a5#Q2",
+   "materia": "merito",
+   "resultado": "favoravel",
+   "provisoriedade": "definitiva_na_instancia",
+   "alinea": "b",
+   "via": "excecao_pre_executividade",
+   "onus": "municipio",
+   "onus_texto": "município (declaração basta, art. 58 §6º Lei 7.186/2006, e fiscalização posterior do Fisco; o acórdão não chama isso de ônus)",
+   "completude": "ementa_e_dispositivo",
+   "atos_do_processo": [
+    "DEC-TJBA-befcc24c24a5"
+   ]
+  },
+  {
+   "id": "DEC-TJBA-ee902b5dee34",
+   "processo": "8007900-14.2022.8.05.0000",
+   "especie": "acordao",
+   "orgao": "Segunda Câmara Cível",
+   "julgamento": "2023-12-18",
+   "questao": "DEC-TJBA-ee902b5dee34#Q1",
+   "materia": "cautelar",
+   "resultado": "favoravel",
+   "provisoriedade": "provisoria",
+   "alinea": "b",
+   "via": "tutela",
+   "onus": "municipio",
+   "onus_texto": "município",
+   "completude": "ementa_e_dispositivo",
+   "atos_do_processo": [
+    "DEC-TJBA-ee902b5dee34"
+   ]
+  },
+  {
+   "id": "DEC-TJBA-7f176313ffe6",
+   "processo": "8007901-67.2020.8.05.0000",
+   "especie": "acordao",
+   "orgao": "Quinta Câmara Cível",
+   "julgamento": "2020-09-28",
+   "questao": "DEC-TJBA-7f176313ffe6#Q1",
+   "materia": "processual",
+   "resultado": "desfavoravel",
+   "provisoriedade": "definitiva_na_instancia",
+   "alinea": "b",
+   "via": "excecao_pre_executividade",
+   "onus": "municipio",
+   "onus_texto": "município (presunção relativa a favor do templo, alínea b; o tribunal exige prova, o que a exceção de pré-executividade não comporta)",
+   "completude": "ementa_e_dispositivo",
+   "atos_do_processo": [
+    "DEC-TJBA-7f176313ffe6"
+   ]
+  },
+  {
+   "id": "DEC-TJBA-bbd590893927",
+   "processo": "8008302-03.2019.8.05.0000",
+   "especie": "acordao",
+   "orgao": "TERCEIRA CAMARA CÍVEL",
+   "julgamento": "2020-09-30",
+   "questao": "DEC-TJBA-bbd590893927#Q2",
+   "materia": "merito",
+   "resultado": "favoravel",
+   "provisoriedade": "definitiva_na_instancia",
+   "alinea": "b+c",
+   "via": "excecao_pre_executividade",
+   "onus": "nao_tratado",
+   "onus_texto": "não tratado",
+   "completude": "ementa_e_dispositivo",
+   "atos_do_processo": [
+    "DEC-TJBA-bbd590893927"
+   ]
+  },
+  {
+   "id": "DEC-TJBA-d5eddb600142",
+   "processo": "8008392-11.2019.8.05.0000",
+   "especie": "integrativa",
+   "orgao": "Terceira Câmara Cível",
+   "julgamento": "2021-11-09",
+   "questao": "DEC-TJBA-d5eddb600142#Q1",
+   "materia": "processual",
+   "resultado": "desfavoravel",
+   "provisoriedade": "definitiva_na_instancia",
+   "alinea": "a",
+   "via": "acao_conhecimento_ou_outro",
+   "onus": "nao_tratado",
+   "onus_texto": "não tratado",
+   "completude": "ementa_e_dispositivo",
+   "atos_do_processo": [
+    "DEC-TJBA-d5eddb600142",
+    "DEC-TJBA-2604408988d6"
+   ]
+  },
+  {
+   "id": "DEC-TJBA-c7e23238cce4",
+   "processo": "8009655-12.2018.8.05.0001",
+   "especie": "acordao",
+   "orgao": "6ª Turma Recursal",
+   "julgamento": "2020-11-04",
+   "questao": "DEC-TJBA-c7e23238cce4#Q1",
+   "materia": "merito",
+   "resultado": "favoravel",
+   "provisoriedade": "definitiva_na_instancia",
+   "alinea": "b",
+   "via": "acao_conhecimento_ou_outro",
+   "onus": "contribuinte",
+   "onus_texto": "contribuinte (\"condição devidamente comprovada\" pelo autor; ônus não discutido)",
+   "completude": "inteiro_teor",
+   "atos_do_processo": [
+    "DEC-TJBA-c7e23238cce4"
+   ]
+  },
+  {
+   "id": "DEC-TJBA-72b155d0bf7a",
+   "processo": "8010464-05.2018.8.05.0000",
+   "especie": "decisao_monocratica",
+   "orgao": "2ª Vice-Presidência",
+   "julgamento": "2020-06-23",
+   "questao": "DEC-TJBA-72b155d0bf7a#Q1",
+   "materia": "admissibilidade",
+   "resultado": "sem_exame",
+   "provisoriedade": "nao_aplicavel",
+   "alinea": "c",
+   "via": "excecao_pre_executividade",
+   "onus": "municipio",
+   "onus_texto": "município",
+   "completude": "inteiro_teor",
+   "atos_do_processo": [
+    "DEC-TJBA-72b155d0bf7a",
+    "DEC-TJBA-fe78b6250aaf"
+   ]
+  },
+  {
+   "id": "DEC-TJBA-c292955c0167",
+   "processo": "8010857-85.2022.8.05.0000",
+   "especie": "acordao",
+   "orgao": "Quarta Câmara Cível",
+   "julgamento": "2022-10-05",
+   "questao": "DEC-TJBA-c292955c0167#Q3",
+   "materia": "merito",
+   "resultado": "favoravel",
+   "provisoriedade": "definitiva_na_instancia",
+   "alinea": "c",
+   "via": "excecao_pre_executividade",
+   "onus": "nao_tratado",
+   "onus_texto": "não tratado",
+   "completude": "ementa_e_dispositivo",
+   "atos_do_processo": [
+    "DEC-TJBA-c292955c0167"
+   ]
+  },
+  {
+   "id": "DEC-TJBA-48cf9542fdb8",
+   "processo": "8012084-08.2025.8.05.0000",
+   "especie": "integrativa",
+   "orgao": "Terceira Câmara Cível",
+   "julgamento": "2025-10-15",
+   "questao": "DEC-TJBA-48cf9542fdb8#Q1",
+   "materia": "merito",
+   "resultado": "desfavoravel",
+   "provisoriedade": "definitiva_na_instancia",
+   "alinea": "a",
+   "via": "acao_conhecimento_ou_outro",
+   "onus": "nao_tratado",
+   "onus_texto": "não tratado",
+   "completude": "ementa_e_dispositivo",
+   "atos_do_processo": [
+    "DEC-TJBA-48cf9542fdb8"
+   ]
+  },
+  {
+   "id": "DEC-TJBA-17c2ceacb599",
+   "processo": "8012449-98.2021.8.05.0001",
+   "especie": "acordao",
+   "orgao": "Segunda Câmara Cível",
+   "julgamento": "2023-07-04",
+   "questao": "DEC-TJBA-17c2ceacb599#Q2",
+   "materia": "merito",
+   "resultado": "favoravel",
+   "provisoriedade": "definitiva_na_instancia",
+   "alinea": "c",
+   "via": "acao_conhecimento_ou_outro",
+   "onus": "municipio",
+   "onus_texto": "município",
+   "completude": "ementa_e_dispositivo",
+   "atos_do_processo": [
+    "DEC-TJBA-17c2ceacb599"
+   ]
+  },
+  {
+   "id": "DEC-TJBA-54e2028fe848",
+   "processo": "8013601-87.2021.8.05.0000",
+   "especie": "acordao",
+   "orgao": "Segunda Câmara Cível",
+   "julgamento": "2021-10-26",
+   "questao": "DEC-TJBA-54e2028fe848#Q1",
+   "materia": "processual",
+   "resultado": "desfavoravel",
+   "provisoriedade": "nao_aplicavel",
+   "alinea": "c",
+   "via": "excecao_pre_executividade",
+   "onus": "contribuinte",
+   "onus_texto": "contribuinte",
+   "completude": "inteiro_teor",
+   "atos_do_processo": [
+    "DEC-TJBA-54e2028fe848"
+   ]
+  },
+  {
+   "id": "DEC-TJBA-ea28cd19f3a3",
+   "processo": "8015259-49.2021.8.05.0000",
+   "especie": "acordao",
+   "orgao": "Quinta Câmara Cível",
+   "julgamento": "2021-10-22",
+   "questao": "DEC-TJBA-ea28cd19f3a3#Q1",
+   "materia": "processual",
+   "resultado": "sem_exame",
+   "provisoriedade": "definitiva_na_instancia",
+   "alinea": "b",
+   "via": "excecao_pre_executividade",
+   "onus": "municipio",
+   "onus_texto": "município",
+   "completude": "ementa_e_dispositivo",
+   "atos_do_processo": [
+    "DEC-TJBA-ea28cd19f3a3"
+   ]
+  },
+  {
+   "id": "DEC-TJBA-9aac70a46d3a",
+   "processo": "8016171-12.2022.8.05.0000",
+   "especie": "acordao",
+   "orgao": "Quarta Câmara Cível",
+   "julgamento": "2022-11-22",
+   "questao": "DEC-TJBA-9aac70a46d3a#Q1",
+   "materia": "merito",
+   "resultado": "favoravel",
+   "provisoriedade": "definitiva_na_instancia",
+   "alinea": "c",
+   "via": "excecao_pre_executividade",
+   "onus": "municipio",
+   "onus_texto": "município",
+   "completude": "ementa_e_dispositivo",
+   "atos_do_processo": [
+    "DEC-TJBA-9aac70a46d3a"
+   ]
+  },
+  {
+   "id": "DEC-TJBA-6411751a4738",
+   "processo": "8017541-57.2021.8.05.0001",
+   "especie": "acordao",
+   "orgao": "Terceira Câmara Cível",
+   "julgamento": "2023-11-22",
+   "questao": "DEC-TJBA-6411751a4738#Q1",
+   "materia": "merito",
+   "resultado": "favoravel",
+   "provisoriedade": "definitiva_na_instancia",
+   "alinea": "c",
+   "via": "acao_conhecimento_ou_outro",
+   "onus": "municipio",
+   "onus_texto": "município",
+   "completude": "ementa_e_dispositivo",
+   "atos_do_processo": [
+    "DEC-TJBA-6411751a4738",
+    "DEC-TJBA-2e74d81b1e27",
+    "DEC-TJBA-9bec4659da1f"
+   ]
+  },
+  {
+   "id": "DEC-TJBA-cd1fad2fc2c5",
+   "processo": "8017940-57.2019.8.05.0001",
+   "especie": "acordao",
+   "orgao": "Quarta Câmara Cível",
+   "julgamento": "2023-05-02",
+   "questao": "DEC-TJBA-cd1fad2fc2c5#Q1",
+   "materia": "merito",
+   "resultado": "favoravel",
+   "provisoriedade": "definitiva_na_instancia",
+   "alinea": "c",
+   "via": "acao_conhecimento_ou_outro",
+   "onus": "municipio",
+   "onus_texto": "município (presunção relativa do art. 14, § 1º, CTN, porque o Município já tinha reconhecido a imunidade antes)",
+   "completude": "ementa_e_dispositivo",
+   "atos_do_processo": [
+    "DEC-TJBA-cd1fad2fc2c5"
+   ]
+  },
+  {
+   "id": "DEC-TJBA-94f3919f0605",
+   "processo": "8019135-17.2018.8.05.0000",
+   "especie": "integrativa",
+   "orgao": "Segunda Câmara Cível",
+   "julgamento": "2020-07-01",
+   "questao": "DEC-TJBA-94f3919f0605#Q1",
+   "materia": "merito",
+   "resultado": "desfavoravel",
+   "provisoriedade": "definitiva_na_instancia",
+   "alinea": "a",
+   "via": "acao_conhecimento_ou_outro",
+   "onus": "nao_tratado",
+   "onus_texto": "não tratado",
+   "completude": "ementa_e_dispositivo",
+   "atos_do_processo": [
+    "DEC-TJBA-94f3919f0605"
+   ]
+  },
+  {
+   "id": "DEC-TJBA-96cbb08fb05b",
+   "processo": "8019246-27.2020.8.05.0001",
+   "especie": "acordao",
+   "orgao": "Quinta Câmara Cível",
+   "julgamento": "2020-08-06",
+   "questao": "DEC-TJBA-96cbb08fb05b#Q1",
+   "materia": "merito",
+   "resultado": "favoravel",
+   "provisoriedade": "definitiva_na_instancia",
+   "alinea": "c",
+   "via": "acao_conhecimento_ou_outro",
+   "onus": "municipio",
+   "onus_texto": "município (presunção e SV 52)",
+   "completude": "ementa_e_dispositivo",
+   "atos_do_processo": [
+    "DEC-TJBA-96cbb08fb05b",
+    "DEC-TJBA-e83fe1e1e5e2"
+   ]
+  },
+  {
+   "id": "DEC-TJBA-898557818325",
+   "processo": "8019448-02.2023.8.05.0000",
+   "especie": "decisao_monocratica",
+   "orgao": "Quinta Câmara Cível",
+   "julgamento": "2023-05-09",
+   "questao": "DEC-TJBA-898557818325#Q1",
+   "materia": "cautelar",
+   "resultado": "desfavoravel",
+   "provisoriedade": "provisoria",
+   "alinea": "b",
+   "via": "tutela",
+   "onus": "municipio",
+   "onus_texto": "município (está na decisão de 1º grau transcrita e mantida; o relator se apoia na falta de prova do uso alegado, residência de pastores)",
+   "completude": "inteiro_teor",
+   "atos_do_processo": [
+    "DEC-TJBA-898557818325"
+   ]
+  },
+  {
+   "id": "DEC-TJBA-284a7a8b807f",
+   "processo": "8019519-43.2019.8.05.0000",
+   "especie": "decisao_monocratica",
+   "orgao": "2ª Vice-Presidência",
+   "julgamento": "2022-03-21",
+   "questao": "DEC-TJBA-284a7a8b807f#Q1",
+   "materia": "admissibilidade",
+   "resultado": "sem_exame",
+   "provisoriedade": "definitiva_na_instancia",
+   "alinea": "a",
+   "via": "embargos_execucao",
+   "onus": "municipio",
+   "onus_texto": "município",
+   "completude": "inteiro_teor",
+   "atos_do_processo": [
+    "DEC-TJBA-284a7a8b807f"
+   ]
+  },
+  {
+   "id": "DEC-TJBA-4fdc0233cb00",
+   "processo": "8020596-50.2020.8.05.0001",
+   "especie": "acordao",
+   "orgao": "Segunda Câmara Cível",
+   "julgamento": "2022-09-08",
+   "questao": "DEC-TJBA-4fdc0233cb00#Q1",
+   "materia": "processual",
+   "resultado": "desfavoravel",
+   "provisoriedade": "nao_aplicavel",
+   "alinea": "b",
+   "via": "mandado_seguranca",
+   "onus": "nao_tratado",
+   "onus_texto": "não tratado",
+   "completude": "ementa_e_dispositivo",
+   "atos_do_processo": [
+    "DEC-TJBA-4fdc0233cb00"
+   ]
+  },
+  {
+   "id": "DEC-TJBA-1137d0d82107",
+   "processo": "8020692-92.2025.8.05.0000",
+   "especie": "acordao",
+   "orgao": "Terceira Câmara Cível",
+   "julgamento": "2025-08-26",
+   "questao": "DEC-TJBA-1137d0d82107#Q1",
+   "materia": "merito",
+   "resultado": "desfavoravel",
+   "provisoriedade": "definitiva_na_instancia",
+   "alinea": "a",
+   "via": "excecao_pre_executividade",
+   "onus": "contribuinte",
+   "onus_texto": "contribuinte",
+   "completude": "ementa_e_dispositivo",
+   "atos_do_processo": [
+    "DEC-TJBA-1137d0d82107"
+   ]
+  },
+  {
+   "id": "DEC-TJBA-f024905652b6",
+   "processo": "8021678-56.2019.8.05.0000",
+   "especie": "acordao",
+   "orgao": "Quarta Câmara Cível",
+   "julgamento": "2020-06-10",
+   "questao": "DEC-TJBA-f024905652b6#Q1",
+   "materia": "cautelar",
+   "resultado": "desfavoravel",
+   "provisoriedade": "provisoria",
+   "alinea": "c",
+   "via": "tutela",
+   "onus": "nao_tratado",
+   "onus_texto": "não tratado",
+   "completude": "ementa_e_dispositivo",
+   "atos_do_processo": [
+    "DEC-TJBA-f024905652b6"
+   ]
+  },
+  {
+   "id": "DEC-TJBA-cfdac98b101c",
+   "processo": "8022091-95.2021.8.05.0001",
+   "especie": "acordao",
+   "orgao": "Sexta Turma Recursal",
+   "julgamento": "2023-05-15",
+   "questao": "DEC-TJBA-cfdac98b101c#Q1",
+   "materia": "merito",
+   "resultado": "favoravel",
+   "provisoriedade": "definitiva_na_instancia",
+   "alinea": "c",
+   "via": "acao_conhecimento_ou_outro",
+   "onus": "municipio",
+   "onus_texto": "município (implícito: \"caso não demonstrada\", SV 52)",
+   "completude": "so_ementa",
+   "atos_do_processo": [
+    "DEC-TJBA-cfdac98b101c"
+   ]
+  },
+  {
+   "id": "DEC-TJBA-9d673755fc33",
+   "processo": "8022379-51.2018.8.05.0000",
+   "especie": "acordao",
+   "orgao": "Terceira Câmara Cível",
+   "julgamento": "2021-06-08",
+   "questao": "DEC-TJBA-9d673755fc33#Q2",
+   "materia": "merito",
+   "resultado": "desfavoravel",
+   "provisoriedade": "definitiva_na_instancia",
+   "alinea": "c",
+   "via": "excecao_pre_executividade",
+   "onus": "contribuinte",
+   "onus_texto": "",
+   "completude": "inteiro_teor",
+   "atos_do_processo": [
+    "DEC-TJBA-9d673755fc33"
+   ]
+  },
+  {
+   "id": "DEC-TJBA-4652a6381744",
+   "processo": "8023108-38.2022.8.05.0000",
+   "especie": "acordao",
+   "orgao": "QUARTA CAMARA CÍVEL",
+   "julgamento": "2023-06-01",
+   "questao": "DEC-TJBA-4652a6381744#Q1",
+   "materia": "merito",
+   "resultado": "favoravel",
+   "provisoriedade": "definitiva_na_instancia",
+   "alinea": "c",
+   "via": "excecao_pre_executividade",
+   "onus": "nao_tratado",
+   "onus_texto": "não tratado",
+   "completude": "ementa_e_dispositivo",
+   "atos_do_processo": [
+    "DEC-TJBA-4652a6381744"
+   ]
+  },
+  {
+   "id": "DEC-TJBA-aff87ef590b3",
+   "processo": "8024250-79.2019.8.05.0001",
+   "especie": "acordao",
+   "orgao": "Segunda Câmara Cível",
+   "julgamento": "2021-10-29",
+   "questao": "DEC-TJBA-aff87ef590b3#Q2",
+   "materia": "merito",
+   "resultado": "favoravel",
+   "provisoriedade": "definitiva_na_instancia",
+   "alinea": "c",
+   "via": "excecao_pre_executividade",
+   "onus": "nao_tratado",
+   "onus_texto": "não tratado (os requisitos foram provados por documentos da excipiente e pelo reconhecimento do próprio Fisco)",
+   "completude": "ementa_e_dispositivo",
+   "atos_do_processo": [
+    "DEC-TJBA-aff87ef590b3"
+   ]
+  },
+  {
+   "id": "DEC-TJBA-a4fd8347b57b",
+   "processo": "8025109-59.2023.8.05.0000",
+   "especie": "decisao_monocratica",
+   "orgao": "2ª Vice-Presidência",
+   "julgamento": "2024-11-08",
+   "questao": "DEC-TJBA-a4fd8347b57b#Q1",
+   "materia": "admissibilidade",
+   "resultado": "sem_exame",
+   "provisoriedade": "definitiva_na_instancia",
+   "alinea": "b",
+   "via": "acao_conhecimento_ou_outro",
+   "onus": "nao_tratado",
+   "onus_texto": "não tratado",
+   "completude": "inteiro_teor",
+   "atos_do_processo": [
+    "DEC-TJBA-a4fd8347b57b"
+   ]
+  },
+  {
+   "id": "DEC-TJBA-02cc144c36a0",
+   "processo": "8027427-44.2025.8.05.0000",
+   "especie": "acordao",
+   "orgao": "Primeira Câmara Cível",
+   "julgamento": "2025-11-06",
+   "questao": "DEC-TJBA-02cc144c36a0#Q1",
+   "materia": "merito",
+   "resultado": "desfavoravel",
+   "provisoriedade": "definitiva_na_instancia",
+   "alinea": "a",
+   "via": "excecao_pre_executividade",
+   "onus": "contribuinte",
+   "onus_texto": "contribuinte",
+   "completude": "ementa_e_dispositivo",
+   "atos_do_processo": [
+    "DEC-TJBA-02cc144c36a0"
+   ]
+  },
+  {
+   "id": "DEC-TJBA-f8176fbeaa4a",
+   "processo": "8033936-93.2022.8.05.0000",
+   "especie": "integrativa",
+   "orgao": "Terceira Câmara Cível",
+   "julgamento": "2023-10-23",
+   "questao": "DEC-TJBA-f8176fbeaa4a#Q1",
+   "materia": "processual",
+   "resultado": "desfavoravel",
+   "provisoriedade": "definitiva_na_instancia",
+   "alinea": "a",
+   "via": "acao_conhecimento_ou_outro",
+   "onus": "nao_tratado",
+   "onus_texto": "não tratado",
+   "completude": "ementa_e_dispositivo",
+   "atos_do_processo": [
+    "DEC-TJBA-f8176fbeaa4a",
+    "DEC-TJBA-fca9bd34339d"
+   ]
+  },
+  {
+   "id": "DEC-TJBA-ba87ef8f3749",
+   "processo": "8040298-09.2025.8.05.0000",
+   "especie": "acordao",
+   "orgao": "PRIMEIRA CAMARA CÍVEL",
+   "julgamento": "2025-09-03",
+   "questao": "DEC-TJBA-ba87ef8f3749#Q2",
+   "materia": "merito",
+   "resultado": "favoravel",
+   "provisoriedade": "definitiva_na_instancia",
+   "alinea": "c",
+   "via": "excecao_pre_executividade",
+   "onus": "municipio",
+   "onus_texto": "município |",
+   "completude": "ementa_e_dispositivo",
+   "atos_do_processo": [
+    "DEC-TJBA-ba87ef8f3749"
+   ]
+  },
+  {
+   "id": "DEC-TJBA-833447ef42a8",
+   "processo": "8044404-48.2024.8.05.0000",
+   "especie": "acordao",
+   "orgao": "Terceira Câmara Cível",
+   "julgamento": "2025-06-18",
+   "questao": "DEC-TJBA-833447ef42a8#Q1",
+   "materia": "processual",
+   "resultado": "desfavoravel",
+   "provisoriedade": "definitiva_na_instancia",
+   "alinea": "c",
+   "via": "excecao_pre_executividade",
+   "onus": "contribuinte",
+   "onus_texto": "contribuinte (prova documental contemporânea ao exercício; o texto cita o art. 14 do CTN e o art. 373, I, do CPC)",
+   "completude": "inteiro_teor",
+   "atos_do_processo": [
+    "DEC-TJBA-833447ef42a8"
+   ]
+  },
+  {
+   "id": "DEC-TJBA-741220024f98",
+   "processo": "8044406-18.2024.8.05.0000",
+   "especie": "acordao",
+   "orgao": "Segunda Câmara Cível",
+   "julgamento": "2024-10-29",
+   "questao": "DEC-TJBA-741220024f98#Q1",
+   "materia": "processual",
+   "resultado": "desfavoravel",
+   "provisoriedade": "definitiva_na_instancia",
+   "alinea": "c",
+   "via": "excecao_pre_executividade",
+   "onus": "contribuinte",
+   "onus_texto": "contribuinte",
+   "completude": "inteiro_teor",
+   "atos_do_processo": [
+    "DEC-TJBA-741220024f98"
+   ]
+  },
+  {
+   "id": "DEC-TJBA-02bbc8cc1826",
+   "processo": "8049168-43.2025.8.05.0000",
+   "especie": "acordao",
+   "orgao": "Quinta Câmara Cível",
+   "julgamento": "2025-11-17",
+   "questao": "DEC-TJBA-02bbc8cc1826#Q4",
+   "materia": "processual",
+   "resultado": "desfavoravel",
+   "provisoriedade": "definitiva_na_instancia",
+   "alinea": "c",
+   "via": "excecao_pre_executividade",
+   "onus": "contribuinte",
+   "onus_texto": "contribuinte",
+   "completude": "inteiro_teor",
+   "atos_do_processo": [
+    "DEC-TJBA-02bbc8cc1826"
+   ]
+  },
+  {
+   "id": "DEC-TJBA-e41d61ada5fb",
+   "processo": "8051783-06.2025.8.05.0000",
+   "especie": "acordao",
+   "orgao": "Quinta Câmara Cível",
+   "julgamento": "2025-12-16",
+   "questao": "DEC-TJBA-e41d61ada5fb#Q1",
+   "materia": "merito",
+   "resultado": "desfavoravel",
+   "provisoriedade": "definitiva_na_instancia",
+   "alinea": "c",
+   "via": "excecao_pre_executividade",
+   "onus": "nao_tratado",
+   "onus_texto": "não tratado",
+   "completude": "so_ementa",
+   "atos_do_processo": [
+    "DEC-TJBA-e41d61ada5fb"
+   ]
+  },
+  {
+   "id": "DEC-TJBA-54281e49ab57",
+   "processo": "8057316-50.2019.8.05.0001",
+   "especie": "acordao",
+   "orgao": "Terceira Câmara Cível",
+   "julgamento": "2021-08-24",
+   "questao": "DEC-TJBA-54281e49ab57#Q1",
+   "materia": "merito",
+   "resultado": "favoravel",
+   "provisoriedade": "definitiva_na_instancia",
+   "alinea": "c",
+   "via": "excecao_pre_executividade",
+   "onus": "municipio",
+   "onus_texto": "município (sobre os requisitos do art. 14; a destinação em si não foi tratada)",
+   "completude": "ementa_e_dispositivo",
+   "atos_do_processo": [
+    "DEC-TJBA-54281e49ab57"
+   ]
+  },
+  {
+   "id": "DEC-TJBA-5aa9b711c3b1",
+   "processo": "8060483-05.2024.8.05.0000",
+   "especie": "acordao",
+   "orgao": "Primeira Câmara Cível",
+   "julgamento": "2024-12-11",
+   "questao": "DEC-TJBA-5aa9b711c3b1#Q1",
+   "materia": "merito",
+   "resultado": "favoravel",
+   "provisoriedade": "definitiva_na_instancia",
+   "alinea": "c",
+   "via": "excecao_pre_executividade",
+   "onus": "municipio",
+   "onus_texto": "município",
+   "completude": "ementa_e_dispositivo",
+   "atos_do_processo": [
+    "DEC-TJBA-5aa9b711c3b1"
+   ]
+  },
+  {
+   "id": "DEC-TJBA-0227a3b4463b",
+   "processo": "8062022-06.2024.8.05.0000",
+   "especie": "acordao",
+   "orgao": "Quinta Câmara Cível",
+   "julgamento": "2025-03-31",
+   "questao": "DEC-TJBA-0227a3b4463b#Q1",
+   "materia": "merito",
+   "resultado": "favoravel",
+   "provisoriedade": "definitiva_na_instancia",
+   "alinea": "c",
+   "via": "excecao_pre_executividade",
+   "onus": "nao_tratado",
+   "onus_texto": "não tratado",
+   "completude": "ementa_e_dispositivo",
+   "atos_do_processo": [
+    "DEC-TJBA-0227a3b4463b",
+    "DEC-TJBA-0515651b38c3"
+   ]
+  },
+  {
+   "id": "DEC-TJBA-e7c643effb28",
+   "processo": "8078556-27.2021.8.05.0001",
+   "especie": "acordao",
+   "orgao": "Quarta Câmara Cível",
+   "julgamento": "2023-04-12",
+   "questao": "DEC-TJBA-e7c643effb28#Q1",
+   "materia": "merito",
+   "resultado": "favoravel",
+   "provisoriedade": "definitiva_na_instancia",
+   "alinea": "c",
+   "via": "acao_conhecimento_ou_outro",
+   "onus": "nao_tratado",
+   "onus_texto": "não tratado",
+   "completude": "ementa_e_dispositivo",
+   "atos_do_processo": [
+    "DEC-TJBA-e7c643effb28",
+    "DEC-TJBA-c264c232f1f6"
+   ]
+  },
+  {
+   "id": "DEC-TJBA-eb25c6a36621",
+   "processo": "8103487-60.2022.8.05.0001",
+   "especie": "acordao",
+   "orgao": "Segunda Câmara Cível",
+   "julgamento": "2023-10-31",
+   "questao": "DEC-TJBA-eb25c6a36621#Q1",
+   "materia": "merito",
+   "resultado": "favoravel",
+   "provisoriedade": "definitiva_na_instancia",
+   "alinea": "c",
+   "via": "mandado_seguranca",
+   "onus": "municipio",
+   "onus_texto": "município",
+   "completude": "ementa_e_dispositivo",
+   "atos_do_processo": [
+    "DEC-TJBA-eb25c6a36621"
+   ]
+  }
+ ]
+}

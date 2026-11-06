@@ -1,0 +1,126 @@
+{
+ "tese": 14,
+ "formulacao": "Se o Município aumenta a base de cálculo do IPTU por decreto ou outro ato do Executivo que ele próprio altera a planta de valores ou o valor venal acima do índice oficial de correção monetária, sem lei em sentido formal que fixe esses valores, então a majoração é inconstitucional e ilegal, o lançamento é anulado na parte que excede a correção e o contribuinte paga pelo valor do exercício anterior corrigido.",
+ "n_catalogo_fav": 16,
+ "n_acervo": 93,
+ "n_acervo_fav": 21,
+ "contrarias_ids": [
+  "0516790-62.2015.8.05.0001",
+  "8020527-18.2020.8.05.0001",
+  "0570500-94.2015.8.05.0001",
+  "0542847-54.2014.8.05.0001",
+  "0505025-31.2014.8.05.0001",
+  "0507145-76.2016.8.05.0001",
+  "8005170-38.2024.8.05.0201"
+ ],
+ "precedentes": [
+  {
+   "id": "STJ Súmula 160",
+   "fonte": "Cognitio STJ:sumulas:160; PANGEA stj-sum-160",
+   "conferido": true
+  },
+  {
+   "id": "STF Tema 211 (RE 648.245/MG)",
+   "fonte": "Cognitio STF:paradigmas-teor:211-5323879",
+   "conferido": true
+  }
+ ],
+ "walton": {
+  "esquema": "ARG.SCH.WRM08.VERBAL_CLASSIFICATION",
+  "status": "PLAUSIBLE"
+ },
+ "excertos": [
+  {
+   "numero": "0009160-13.2008.8.05.0274",
+   "texto": "A aprovação de nova planta de valores venais do município, por modificar a base de cálculo do IPTU, implica modificação do valor do tributo, o que requer a edição de lei"
+  },
+  {
+   "numero": "0500256-34.2014.8.05.0274",
+   "texto": "a inconstitucionalidade dos Decretos Municipais de n.ºs 11.976/2005 e 12.229/2006, editados pelo Município de Vitória da Conquista"
+  },
+  {
+   "numero": "0014123-30.2009.8.05.0274",
+   "texto": "Superior Tribunal de Justiça consolidou o entendimento através do enunciado nº 160 da sua Súmula, no sentido de ser vedado ao Município atualizar o IPTU em percentual superior ao índice oficial de correção monetária mediante decreto"
+  },
+  {
+   "numero": "0010410-42.2012.8.05.0274",
+   "texto": "ALTERAÇÃO DA BASE DE CÁLCULO DO IPTU ATRAVÉS DE DECRETO MUNICIPAL. MODIFICAÇÃO QUE IMPORTA NA SUA MAJORAÇÃO."
+  },
+  {
+   "numero": "0003531-29.2006.8.05.0274",
+   "texto": "é ilegal, na medida em que se exige do ente tributante a edição de lei expressa que discipline a matéria."
+  },
+  {
+   "numero": "0010621-54.2007.8.05.0274",
+   "texto": "MAJORAÇÃO DE IPTU ATRAVÉS DO DECRETO MUNICIPAL Nº 11.976/2005. MUNICÍPIO DE VITÓRIA DA CONQUISTA. ALTERAÇÃO DA PLANTA BÁSICA DE VALORES. PRINCÍPIO DA LEGALIDADE TRIBUTÁRIA."
+  },
+  {
+   "numero": "0003722-06.2008.8.05.0274",
+   "texto": "AUSÊNCIA DE LEI FORMAL. VIOLAÇÃO AOS ARTS. 150, INC. I, DA CF E ART. 97 DO CTN. DECLARAÇÃO INCIDENTAL DE INCONSTITUCIONALIDADE DO DECRETO MUNICIPAL N.º 11.976/05."
+  },
+  {
+   "numero": "0003051-51.2006.8.05.0274",
+   "texto": "O Decreto Municipal n.º 11.976/2005, de Vitória da Conquista, que fixa Planta Genérica de Valores e Terrenos e majora o valor venal do imóvel, base de cálculo do imposto predial, viola o artigo 150, inciso I, da Constituição Federal"
+  },
+  {
+   "numero": "0003617-97.2006.8.05.0274",
+   "texto": "MAJORAÇÃO DO VALOR VENAL DO IMÓVEL. NECESSIDADE DE LEI EM SENTIDO FORMAL. INCONSTITUCIONALIDADE. OFENSA AO ART. 150, I, DA CF/88."
+  },
+  {
+   "numero": "0006138-73.2010.8.05.0274",
+   "texto": "MAJORAÇÃO DA BASE DE CÁLCULO. PLANTA GENÉRICA DE VALORES. DECRETO MUNICIPAL. INCONSTITUCIONALIDADE. NECESSIDADE DE LEI FORMAL."
+  },
+  {
+   "numero": "8013132-09.2019.8.05.0001",
+   "texto": "TRANSFERÊNCIA AO PODER EXECUTIVO PARA FIXAÇÃO DA BASE DE CÁLCULO DO IPTU (ART. 2º, §2º). INCONSTITUCIONALIDADE. VIOLAÇÃO AO PRINCIPIO CONSTITUCIONAL DA RESERVA LEGAL."
+  },
+  {
+   "numero": "8012657-46.2025.8.05.0000",
+   "texto": "A majoração da base de cálculo do IPTU por meio de decreto viola o enunciado da Súmula 160 do STJ"
+  },
+  {
+   "numero": "8036080-35.2025.8.05.0000",
+   "texto": "Os autos demonstram indícios de majoração desproporcional do IPTU para o exercício de 2025, com aumentos superiores a 170% em determinados imóveis, o que justifica a concessão da tutela provisória."
+  },
+  {
+   "numero": "0568211-86.2018.8.05.0001",
+   "texto": "o aumento do IPTU/TRSD do ano de 2018 se revelou manifestamente desproporcional, violando-se, assim, o princípio da legalidade tributária."
+  },
+  {
+   "numero": "0552379-13.2018.8.05.0001",
+   "texto": "EXTRAPOLAÇÃO DO LIMITE IMPOSTO PELO ART. 1º, DA LEI MUNICIPAL NO. 8.473/2013"
+  },
+  {
+   "numero": "0505525-24.2019.8.05.0001",
+   "texto": "EXTINÇÃO DO FEITO SEM RESOLUÇÃO DE MÉRITO, AUSÊNCIA DO DIREITO LÍQUIDO E CERTO. INDEFERIMENTO LIMINAR DA PETIÇÃO INICIAL, IMPOSSIBILIDADE."
+  },
+  {
+   "numero": "0516790-62.2015.8.05.0001",
+   "texto": "A Instrução Normativa n. 12/2013 não introduziu nem majorou tributos, não tendo alterado quaisquer dos elementos de cálculo da obrigação tributária"
+  },
+  {
+   "numero": "8020527-18.2020.8.05.0001",
+   "texto": "INEXISTÊNCIA DE VIOLAÇÃO AOS PRINCÍPIOS DA LEGALIDADE TRIBUTÁRIA, DA RAZOABILIDADE E DA PROPORCIONALIDADE, BEM COMO DA SÚMULA 160 DO STJ."
+  },
+  {
+   "numero": "0570500-94.2015.8.05.0001",
+   "texto": "OBSERVÂNCIA DA LEGALIDADE TRIBUTÁRIA. AUSÊNCIA DE DELEGAÇÃO AO PODER EXECUTIVO."
+  },
+  {
+   "numero": "0542847-54.2014.8.05.0001",
+   "texto": "INCONSTITUCIONALIDADE AFASTADA. JULGAMENTO PELO TRIBUNAL PLENO. VÍCIO FORMAL OU MATERIAL NO PROCESSO LEGISLATIVO. INOCORRÊNCIA. MAJORAÇÃO ABUSIVA. INEXISTÊNCIA."
+  },
+  {
+   "numero": "0505025-31.2014.8.05.0001",
+   "texto": "no qual o tributo passou de R$36.298,33 em 2013 para R$87.031,87 em 2014, representando majoração de 139%. Sentença denegou a segurança."
+  },
+  {
+   "numero": "0507145-76.2016.8.05.0001",
+   "texto": "AUSÊNCIA DE VIOLAÇÃO AOS PRINCÍPIOS DA LEGALIDADE, MOTIVAÇÃO, ANTERIORIDADE NONAGESIMAL, CAPACIDADE CONTRIBUTIVA E ISONOMIA. RECURSO CONHECIDO E NEGADO PROVIMENTO."
+  },
+  {
+   "numero": "8005170-38.2024.8.05.0201",
+   "texto": "INAPLICABILIDADE DA SÚMULA 160 DO STJ. ENQUADRAMENTO EM ZONA FISCAL DECORRENTE DA PLANTA GENÉRICA DE VALORES PREVISTA EM LEI MUNICIPAL."
+  }
+ ]
+}

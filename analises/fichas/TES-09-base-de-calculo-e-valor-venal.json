@@ -1,0 +1,177 @@
+{
+ "tese": 9,
+ "formulacao": "Se o valor venal que o Município usou como base de cálculo do IPTU supera o valor de mercado do imóvel, ou decorre de erro de fato no cadastro (padrão construtivo, fator de localização, VUP, uso misto), e o contribuinte prova isso por perícia ou prova técnica idônea, então a presunção de legitimidade do lançamento e da CDA cede, o tributo é recalculado sobre o valor real e o excesso é restituído.",
+ "n_catalogo_fav": 23,
+ "n_acervo": 556,
+ "n_acervo_fav": 103,
+ "contrarias_ids": [
+  "0505412-46.2014.8.05.0001",
+  "8020927-32.2020.8.05.0001",
+  "8010545-48.2018.8.05.0001",
+  "0562111-57.2014.8.05.0001",
+  "0511252-66.2016.8.05.0001",
+  "0507288-02.2015.8.05.0001",
+  "8007407-88.2022.8.05.0274",
+  "0575556-11.2015.8.05.0001"
+ ],
+ "precedentes": [
+  {
+   "id": "STF Tema 211 (RE 648.245/MG)",
+   "fonte": "PANGEA stf-rg-211; Cognitio STF:paradigmas-teor:211-5323879",
+   "conferido": true
+  },
+  {
+   "id": "STJ Súmula 393",
+   "fonte": "Cognitio STJ:sumulas:393",
+   "conferido": true
+  },
+  {
+   "id": "STJ Tema 1113 (ITBI; distinção)",
+   "fonte": "PANGEA stj-rr-1113",
+   "conferido": false
+  },
+  {
+   "id": "TJSP IRDR 19 (ITBI)",
+   "fonte": "PANGEA tjsp-irdr-19",
+   "conferido": false
+  }
+ ],
+ "walton": {
+  "esquema": "ARG.SCH.WRM08.EXPERT_OPINION",
+  "status": "PLAUSIBLE"
+ },
+ "excertos": [
+  {
+   "numero": "8072279-63.2019.8.05.0001",
+   "texto": "Perícia técnica que demonstra significativa discrepância entre o valor adotado pelo Município e o valor real de mercado justifica a intervenção judicial para determinar o recálculo do tributo."
+  },
+  {
+   "numero": "8010074-61.2020.8.05.0001",
+   "texto": "O laudo pericial judicial, elaborado segundo metodologia técnica adequada e produzido sob contraditório, é suficiente para afastar a presunção de legitimidade do lançamento do IPTU"
+  },
+  {
+   "numero": "8052545-92.2020.8.05.0001",
+   "texto": "A presunção de certeza e liquidez da CDA pode ser afastada por prova pericial que demonstre a incompatibilidade entre o valor venal utilizado pelo Fisco Municipal e o real valor de mercado do imóvel"
+  },
+  {
+   "numero": "0307178-79.2018.8.05.0001",
+   "texto": "A base de cálculo que excede o valor de mercado viola a capacidade contributiva (CF/1988, art. 145, §1º) e caracteriza efeito confiscatório (CF/1988, art. 150, IV)."
+  },
+  {
+   "numero": "0503162-64.2019.8.05.0001",
+   "texto": "VALOR VENAL DOS IMÓVEIS. DISCREPÂNCIA DA AVALIAÇÃO DE MERCADO. POSSIBILIDADE DE REVISÃO JUDICIAL."
+  },
+  {
+   "numero": "0576258-49.2018.8.05.0001",
+   "texto": "VALOR UNITÁRIO PADRÃO - VUP E PADRÃO CONSTRUTIVO QUE DESTOAM DA REALIDADE. MUNICÍPIO DE SALVADOR QUE NÃO LEVOU EM CONTA AS CARACTERÍSTICAS REAIS DOS IMÓVEIS PARA O CÁLCULO DO VALOR FINAL DO IMPOSTO."
+  },
+  {
+   "numero": "0513529-26.2014.8.05.0001",
+   "texto": "Constatado na prova pericial que o valor venal do imóvel adotado pelo Município para fins de cálculo do IPTU era excessivo"
+  },
+  {
+   "numero": "0758800-69.2017.8.05.0001",
+   "texto": "ERRO NA CLASSIFICAÇÃO DO PADRÃO CONSTRUTIVO DO IMÓVEL. FATO RECONHECIDO PELA SEFAZ NA ESFERA ADMINISTRATIVA."
+  },
+  {
+   "numero": "0547489-31.2018.8.05.0001/50000",
+   "texto": "Há na hipótese vertente, portanto, violação ao princípio da isonomia tributária (art. 150, inciso II, da Constituição Federal de 1988)"
+  },
+  {
+   "numero": "8096698-74.2024.8.05.0001",
+   "texto": "FATOR DE LOCALIZAÇÃO INCORRETO. ERRO MATERIAL COMPROVADO. PRESUNÇÃO DE LEGITIMIDADE DOS ATOS ADMINISTRATIVOS AFASTADA."
+  },
+  {
+   "numero": "8062088-56.2019.8.05.0001",
+   "texto": "ERRO NA BASE DE CÁLCULO. IMÓVEL DIVIDIDO EM ÁREA RESIDENCIAL E COMERCIAL. NULIDADE DOS LANÇAMENTOS TRIBUTÁRIOS. REVISÃO DO CÁLCULO DEVIDA."
+  },
+  {
+   "numero": "8001984-98.2019.8.05.0001",
+   "texto": "IPTU. ERRO NA BASE DE CÁLCULO. REVISÃO DO VALOR VENAL. RESTITUIÇÃO SIMPLES."
+  },
+  {
+   "numero": "8006069-64.2018.8.05.0001",
+   "texto": "COBRANÇA DE IPTU/TRSD EM VALOR MUITO ACIMA DO EXERCÍCIO ANTERIOR. ERRO NA BASE DE CÁLCULO."
+  },
+  {
+   "numero": "8005110-59.2019.8.05.0001",
+   "texto": "LANÇAMENTO DOS TRIBUTOS QUE DEVEM TOMAR COMO BASE DE CÁLCULO O VALOR DE MERCADO DO BEM."
+  },
+  {
+   "numero": "8020822-55.2020.8.05.0001",
+   "texto": "Não merece reforma a sentença que reconhece o valor venal do imóvel para fim de tributação de IPTU com base em discussão ocorrida em ações julgadas por sentença afetadas pela imutabilidade da coisa julgada."
+  },
+  {
+   "numero": "0069023-79.2004.8.05.0001",
+   "texto": "tendo o juízo sentenciante entendido que o laudo pericial foi insatisfatório, deveria ter determinado a realização de nova perícia"
+  },
+  {
+   "numero": "8054259-17.2025.8.05.0000",
+   "texto": "Havendo indícios de que o arbitramento da base de cálculo do IPTU controvertido afigura-se excessiva"
+  },
+  {
+   "numero": "0788962-86.2013.8.05.0001",
+   "texto": "PARA DETERMINAR A APLICAÇÃO DO DESCONTO DE 80% BA BASE DE CÁLCULO DO IPTU CONFORME ART. 2º DA LEI MUNICIPAL Nº 5.311/1997"
+  },
+  {
+   "numero": "0769929-71.2017.8.05.0001",
+   "texto": "SENTENÇA QUE ACOLHEU A EXCEÇÃO DE PRÉ-EXECUTIVIDADE PARA DETERMINAR A APLICAÇÃO DO DESCONTO DE 80% BA BASE DE CÁLCULO DO IPTU"
+  },
+  {
+   "numero": "8009457-72.2018.8.05.0001",
+   "texto": "IPTU 2018 LANÇADO COM FLAGRANTE ILEGALIDADE AOS PRECEITOS LIMITADORES PREVISTOS NA LEI MUNICIPAL Nº 8.473/2013"
+  },
+  {
+   "numero": "8090444-22.2023.8.05.0001",
+   "texto": "MAJORAÇÃO EXORBITANTE. FLAGRANTE ILEGALIDADE AOS PRECEITOS LIMITADORES PREVISTOS NA LEI MUNICIPAL Nº 8.473/2013 E EM OUTRAS NORMAS."
+  },
+  {
+   "numero": "8081502-35.2022.8.05.0001",
+   "texto": "ALTERAÇÃO CADASTRAL UNILATERAL. MAJORAÇÃO EXCESSIVA. INOBSERVÂNCIA DOS LIMITES LEGAIS DE AUMENTO."
+  },
+  {
+   "numero": "8010806-13.2018.8.05.0001",
+   "texto": "AÇÃO ANULATÓRIA DE DÉBITO FISCAL. LANÇAMENTO DO IPTU E TRSD EIVADO DE ERRO NA BASE DE CALCULO DA TRAVA."
+  },
+  {
+   "numero": "8142391-86.2021.8.05.0001",
+   "texto": "AÇÃO REVISIONAL DE VALOR VENAL DE IMÓVEL. IPTU E TRSD. LAUDO TÉCNICO PARTICULAR NÃO IMPUGNADO TECNICAMENTE. RECURSO CONHECIDO E DESPROVIDO."
+  },
+  {
+   "numero": "8020927-32.2020.8.05.0001",
+   "texto": "PRESUNÇÃO DE VERACIDADE E LEGITIMIDADE DO ATO ADMINISTRATIVO DE LANÇAMENTO TRIBUTÁRIO. PRESUNÇÃO QUE SÓ PODE SER ELIDIDA POR PROVA INEQUÍVOCA EM CONTRÁRIO, CUJA PRODUÇÃO FICA A CARGO DO AUTOR."
+  },
+  {
+   "numero": "8010545-48.2018.8.05.0001",
+   "texto": "MERA IMPUGNAÇÃO ADMINISTRATIVA QUE NÃO TEM O CONDÃO DE, POR SI SÓ, DESCONSTITUIR A IMPUTAÇÃO EFETUADA PELO FISCO."
+  },
+  {
+   "numero": "0505412-46.2014.8.05.0001",
+   "texto": "NECESSIDADE DE REALIZAÇÃO DE PROVA PERICIAL. MEDIDA INDISPENSÁVEL À AFERIÇÃO DA LEGALIDADE DO LANÇAMENTO FISCAL"
+  },
+  {
+   "numero": "0562111-57.2014.8.05.0001",
+   "texto": "não há ofensa a legalidade tributária quando a base de cálculo é apurada por meio de ato infralegal que apenas aplica ao caso concreto as disposições previstas em lei"
+  },
+  {
+   "numero": "0511252-66.2016.8.05.0001",
+   "texto": "PRECEDENTE VINCULANTE EM CONTROLE CONCENTRADO DE CONSTITUCIONALIDADE. OBSERVÂNCIA OBRIGATÓRIA. RECURSO DESPROVIDO."
+  },
+  {
+   "numero": "0507288-02.2015.8.05.0001",
+   "texto": "NECESSIDADE DE DILAÇÃO PROBATÓRIA PARA AFERIÇÃO DO VALOR VENAL. INADEQUAÇÃO DA VIA ELEITA."
+  },
+  {
+   "numero": "8007407-88.2022.8.05.0274",
+   "texto": "QUESTIONAMENTO SOBRE VALOR VENAL DO IMÓVEL. NECESSIDADE DE DILAÇÃO PROBATÓRIA. INADEQUAÇÃO DA VIA ELEITA."
+  },
+  {
+   "numero": "0575556-11.2015.8.05.0001",
+   "texto": "a base de cálculo do IPTU não é o valor declarado pelo contribuinte como sendo o de aquisição do imóvel, mas sim aquele que é apurado pela administração segundo critérios postos na legislação de regência"
+  },
+  {
+   "numero": "8050267-14.2026.8.05.0000",
+   "texto": "VEDAÇÃO AO ARBITRAMENTO PRÉVIO E UNILATERAL DE VALOR DE REFERÊNCIA OU VALOR VENAL ATUALIZADO (VVA)."
+  }
+ ]
+}

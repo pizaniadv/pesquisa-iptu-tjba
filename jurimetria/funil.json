@@ -1,0 +1,118 @@
+{
+ "unidade": "registro do banco (linha) -> candidato unico",
+ "recibos": {
+  "pangea": {
+   "arquivos": 1,
+   "registros_percorridos": 13776,
+   "acertos_brutos": 51
+  },
+  "stj": {
+   "arquivos": 1,
+   "registros_percorridos": 135625,
+   "acertos_brutos": 308
+  },
+  "stf-acordaos-stf": {
+   "arquivos": 1,
+   "registros_percorridos": 27156,
+   "acertos_brutos": 32
+  },
+  "stf-repercussao-geral-stf": {
+   "arquivos": 1,
+   "registros_percorridos": 1468,
+   "acertos_brutos": 23
+  },
+  "stf-sumulas-stf": {
+   "arquivos": 1,
+   "registros_percorridos": 799,
+   "acertos_brutos": 5
+  },
+  "cmt": {
+   "arquivos": 1,
+   "registros_percorridos": 1635,
+   "acertos_brutos": 1074
+  },
+  "tjba": {
+   "arquivos": 72,
+   "registros_percorridos": 2101322,
+   "acertos_brutos": 11893
+  },
+  "tjbaapi": {
+   "arquivos": 309,
+   "registros_percorridos": 135102,
+   "acertos_brutos": 264
+  }
+ },
+ "triagem_T1_ultima": {
+  "tjba": {
+   "etapa": "T1",
+   "versao_regra": "v2",
+   "banco": "tjba",
+   "brutos": 11893,
+   "A1": 9149,
+   "A4": 325,
+   "dup_ident": 1912,
+   "A3": 483,
+   "A2": 24,
+   "mesma_base_ato_distinto": 25,
+   "candidatos_unicos": 9981
+  },
+  "stj": {
+   "etapa": "T1",
+   "versao_regra": "v2",
+   "banco": "stj",
+   "brutos": 308,
+   "A1": 307,
+   "A4": 1,
+   "candidatos_unicos": 308
+  },
+  "stf-acordaos-stf": {
+   "etapa": "T1",
+   "versao_regra": "v2",
+   "banco": "stf-acordaos-stf",
+   "brutos": 32,
+   "A1": 30,
+   "A4": 2,
+   "candidatos_unicos": 32
+  },
+  "stf-repercussao-geral-stf": {
+   "etapa": "T1",
+   "versao_regra": "v2",
+   "banco": "stf-repercussao-geral-stf",
+   "brutos": 23,
+   "A1": 12,
+   "A4": 11,
+   "candidatos_unicos": 23
+  },
+  "stf-sumulas-stf": {
+   "etapa": "T1",
+   "versao_regra": "v2",
+   "banco": "stf-sumulas-stf",
+   "brutos": 5,
+   "A1": 5,
+   "candidatos_unicos": 5
+  },
+  "cmt": {
+   "etapa": "T1",
+   "versao_regra": "v2",
+   "banco": "cmt",
+   "brutos": 1074,
+   "A1": 971,
+   "dup_bytes": 72,
+   "mesma_base_ato_distinto": 42,
+   "dup_ident": 21,
+   "A4": 9,
+   "A3": 1,
+   "candidatos_unicos": 981
+  },
+  "tjbaapi": {
+   "etapa": "T1",
+   "versao_regra": "v2",
+   "banco": "tjbaapi",
+   "brutos": 264,
+   "A1": 231,
+   "dup_bytes": 32,
+   "A3": 1,
+   "candidatos_unicos": 232
+  }
+ }
+}

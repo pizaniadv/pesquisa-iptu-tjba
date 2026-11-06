@@ -1,0 +1,64 @@
+{
+  "tese": 26,
+  "formulacao": "Se o contribuinte pediu administrativamente a compensação do IPTU (ou a pactuou com o Município) antes da execução, então a exigibilidade do crédito está suspensa ou o crédito extinto, e a execução não se sustenta; e o mandado de segurança é via adequada para declarar o direito à compensação.",
+  "n_catalogo_fav": 4,
+  "n_acervo": 179,
+  "n_acervo_fav": 10,
+  "contrarias_ids": [],
+  "precedentes": [
+    {
+      "id": "STJ Súmula 213",
+      "fonte": "Cognitio STJ:sumulas:213",
+      "conferido": true
+    },
+    {
+      "id": "STJ Súmula 460 / Tema 258",
+      "fonte": "Cognitio STJ:sumulas:460; STJ:precedentes:Tema-258",
+      "conferido": true
+    },
+    {
+      "id": "STJ Súmula 461",
+      "fonte": "Cognitio STJ:sumulas:461",
+      "conferido": true
+    },
+    {
+      "id": "STJ: pedido de compensação suspende exigibilidade (afirmado em 8031438-92.2020)",
+      "fonte": "não localizado",
+      "conferido": false
+    }
+  ],
+  "walton": {
+    "esquema": "ARG.SCH.WRM08.RULES.S55_1",
+    "status": "WEAK_UNANSWERED_CQ"
+  },
+  "excertos": [
+    {
+      "numero": "8031438-92.2020.8.05.0000",
+      "texto": "O STJ possui jurisprudência firme e consolidada de que o próprio pedido de compensação tem o condão de suspender a exigibilidade do crédito tributário"
+    },
+    {
+      "numero": "0814389-46.2017.8.05.0001",
+      "texto": "EXISTÊNCIA DE PROCESSO ADMINISTRATIVO FISCAL DE COMPENSAÇÃO DO TRIBUTO EM DATA ANTERIOR AO AJUIZAMENTO DA EXECUÇÃO FISCAL. EXIGIBILIDADE SUSPENSA"
+    },
+    {
+      "numero": "0563911-23.2014.8.05.0001",
+      "texto": "EXTINÇÃO DE CRÉDITO TRIBUTÁRIO MEDIANTE COMPENSAÇÃO DE VALORES. ACORDO TRANSACIONAL PACTUADO. RECUSA IMOTIVADA DO FISCO. PREVISÃO CONTRATUAL (CLÁUSULA Nº 5)."
+    },
+    {
+      "numero": "0567700-25.2017.8.05.0001",
+      "texto": "CABIMENTO DO MANDAMUS PARA A FINALIDADE ALMEJADA. ENUNCIADO N.º 213 DA SÚMULA DO STJ."
+    },
+    {
+      "numero": "0007014-71.2023.8.05.0080",
+      "texto": "IMPOSSIBILIDADE DE COMPENSAÇÃO ANTE A AUSÊNCIA DE COMPROVANTE DE PAGAMENTO."
+    },
+    {
+      "numero": "8190679-60.2024.8.05.0001",
+      "texto": "AÇÃO ANULATÓRIA DE LANÇAMENTO FISCAL C/C COMPENSAÇÃO DE CRÉDITO TRIBUTÁRIO"
+    },
+    {
+      "numero": "8190679-60.2024.8.05.0001",
+      "texto": "c) a devolução ou compensação dos valores pagos a maior"
+    }
+  ]
+}

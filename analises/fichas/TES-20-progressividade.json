@@ -1,0 +1,151 @@
+{
+ "tese": 20,
+ "formulacao": "Se o IPTU foi lançado com alíquotas progressivas por critério que não é o valor do imóvel (área do terreno, padrão construtivo) ou por lei anterior à EC 29/2000, ou com faixas de progressividade fixadas por ato do Executivo, então a progressividade é inconstitucional, o lançamento deve ser refeito pela alíquota mínima correspondente à destinação do imóvel e o excesso é restituído.",
+ "n_catalogo_fav": 15,
+ "n_acervo": 171,
+ "n_acervo_fav": 31,
+ "contrarias_ids": [
+  "0506326-08.2017.8.05.0001",
+  "0567192-84.2014.8.05.0001",
+  "0546919-79.2017.8.05.0001",
+  "0507145-76.2016.8.05.0001",
+  "0509055-70.2018.8.05.0001",
+  "0507452-30.2016.8.05.0001",
+  "0528094-92.2014.8.05.0001",
+  "0556716-84.2014.8.05.0001",
+  "0532552-55.2014.8.05.0001"
+ ],
+ "precedentes": [
+  {
+   "id": "STF Tema 155 (AI 712.743)",
+   "fonte": "PANGEA stf-rg-155; Cognitio STF:repercussao_geral:tema-155 (cadastro)",
+   "conferido": true
+  },
+  {
+   "id": "STF Tema 226 (RE 602.347/MG)",
+   "fonte": "PANGEA stf-rg-226; Cognitio STF:paradigmas-teor:226-10676798",
+   "conferido": true
+  },
+  {
+   "id": "STF Súmula 668",
+   "fonte": "Cognitio STF:paradigmas-teor:226-10676798 (transcrita no teor do RE 602.347)",
+   "conferido": true
+  },
+  {
+   "id": "STF Tema 523 (RE 666.156/RJ)",
+   "fonte": "Cognitio STF:paradigmas-teor:523-752973153",
+   "conferido": true
+  },
+  {
+   "id": "STF ADI 2732",
+   "fonte": "PANGEA stf-adi-2732",
+   "conferido": false
+  }
+ ],
+ "walton": {
+  "esquema": "ARG.SCH.WRM08.RULES.S55_1",
+  "status": "PLAUSIBLE"
+ },
+ "excertos": [
+  {
+   "numero": "0580121-47.2017.8.05.0001",
+   "texto": "A Lei Municipal 7.952/2010, ao adotar a extensão do imóvel como critério de progressividade, afronta os artigos 156, §1º, e 182, §4º, da Constituição Federal."
+  },
+  {
+   "numero": "0532317-49.2018.8.05.0001",
+   "texto": "a área do terreno não edificado não é critério para fixação de alíquotas progressivas. Por essa razão, subsiste a inconstitucionalidade da progressividade do referido IPTU."
+  },
+  {
+   "numero": "8011067-41.2019.8.05.0001",
+   "texto": "PROGRESSIVIDADE. LEI MUNICIPAL 7.952/2010. ÁREA DO IMÓVEL. BASE DE CÁLCULO NÃO PREVISTA NO ART. 156, § 1º DA CF. INCONSTITUCIONALIDADE DECLARADA PELO PLENO DESTE TRIBUNAL DE JUSTIÇA."
+  },
+  {
+   "numero": "8014283-08.2022.8.05.0000",
+   "texto": "INCONSTITUCIONALIDADE DAS ALÍQUOTAS PROGRESSIVAS DE IPTU PREVISTAS NA LEI MUNICIPAL 7.952/2010"
+  },
+  {
+   "numero": "0009614-65.2010.8.05.0001",
+   "texto": "PROGRESSIVIDADE DO IPTU, EM RAZÃO DO PADRÃO CONSTRUTIVO DO IMÓVEL, INSTITUÍDA PELO ART. 73 E TABELA DE RECEITAS Nº 1, DA LEI MUNICIPAL Nº 7.186/2006. INCONSTITUCIONALIDADE RECONHECIDA PELO TRIBUNAL PLENO."
+  },
+  {
+   "numero": "0011695-84.2010.8.05.0001",
+   "texto": "PADRÃO CONSTRUTIVO DO IMÓVEL. BASE DE CÁLCULO NÃO PREVISTA NO ART.156, § 1º DA CONSTITUIÇÃO FEDERAL. INCONSTITUCIONALIDADE DECLARADA PELO PLENO DESTE TRIBUNAL DE JUSTIÇA"
+  },
+  {
+   "numero": "0333357-84.2017.8.05.0001",
+   "texto": "É inconstitucional, por violação aos arts. 156, §1º, I e 182, §4º, II, da CF 88, a cobrança de alíquotas progressivas de IPTU de acordo como padrão construtivo"
+  },
+  {
+   "numero": "8000376-67.2018.8.05.0044",
+   "texto": "não há previsão legal para o estabelecimento de progressividade em face do padrão construtivo"
+  },
+  {
+   "numero": "0522213-37.2014.8.05.0001",
+   "texto": "INSTRUÇÃO NORMATIVA Nº 12/2013. O AUMENTO DO IPTU. PRINCÍPIO DA RESERVA LEGAL. VIOLAÇÃO. SENTENÇA MANTIDA."
+  },
+  {
+   "numero": "0158261-36.2009.8.05.0001",
+   "texto": "A Lei 5.325/97 precede o advento da EC n.º 29/2000 e estabelece critério de progressividade, em descompasso com o permissivo supralegal então vigente"
+  },
+  {
+   "numero": "8017145-83.2021.8.05.0000",
+   "texto": "o crédito tributário deve ser calculado utilizando-se a alíquota mínima para imóveis não edificados (1,0%), consoante remansosa jurisprudência do STF firmada em sede de repercussão geral no RE nº 602347, Tema 226"
+  },
+  {
+   "numero": "8012132-74.2019.8.05.0000",
+   "texto": "COBRANÇA PROGRESSIVA. INCONSTITUCIONALIDADE DECLARADA EM SENTENÇA TRANSITADA EM JULGADA. LANÇAMENTO DECLARADO NULO. EXCEÇÃO DE PRÉ-EXECUTIVIDADE ACOLHIDA."
+  },
+  {
+   "numero": "0507390-87.2016.8.05.0001",
+   "texto": "VIOLAÇÃO AO PRINCÍPIO DA LEGALIDADE TRIBUTÁRIA. TABELAS DE PROGRESSIVIDADE INSTITUÍDAS POR INSTRUÇÃO NORMATIVA. NECESSIDADE DE LEI EM SENTIDO FORMAL."
+  },
+  {
+   "numero": "0532823-59.2017.8.05.0001",
+   "texto": "Trata-se de elemento essencial da relação tributária, cuja definição somente pode ser feita por lei em sentido formal."
+  },
+  {
+   "numero": "0325468-21.2013.8.05.0001",
+   "texto": "ante a declaração de inconstitucionalidade Pelo plenário desta Corte, na qual afastou a progressividade por padrão construtivo, a referida tabela não pode ser aplicada"
+  },
+  {
+   "numero": "0506326-08.2017.8.05.0001",
+   "texto": "VÍCIOS FORMAIS NÃO CONFIGURADOS. AUSÊNCIA DE VIOLAÇÃO AOS PRINCÍPIOS DA LEGALIDADE, MOTIVAÇÃO, ANTERIORIDADE NONAGESIMAL, CAPACIDADE CONTRIBUTIVA E ISONOMIA. RECURSO CONHECIDO E DADO PROVIMENTO."
+  },
+  {
+   "numero": "0567192-84.2014.8.05.0001",
+   "texto": "CÁLCULO. METODOLOGIA. CONSTITUCIONALIDADE. DECLARAÇÃO. TRIBUNAL PLENO. OBSERVÂNCIA. IMPOSIÇÃO. SENTENÇA. PROCEDÊNCIA. REFORMA."
+  },
+  {
+   "numero": "0546919-79.2017.8.05.0001",
+   "texto": "HIPÓTESE QUE NÃO ABRANGE O CONTRIBUINTE APELADO. FICHA DE PROPRIEDADE QUE CONFIRMA SE TRATAR DE IMÓVEL EDIFICADO ONDE FUNCIONA UM HOTEL."
+  },
+  {
+   "numero": "0507145-76.2016.8.05.0001",
+   "texto": "mantendo a legalidade da cobrança e denegar a segurança vindicada pelo impetrante"
+  },
+  {
+   "numero": "0509055-70.2018.8.05.0001",
+   "texto": "IMÓVEIS NÃO RESIDENCIAIS TRIBUTADOS EM ALÍQUOTAS INFERIORES AO PATAMAR DECLARADO INCONSTITUCIONAL."
+  },
+  {
+   "numero": "0507452-30.2016.8.05.0001",
+   "texto": "VIOLAÇÃO AO PRINCÍPIO DA RESERVA LEGAL NÃO VERIFICADO."
+  },
+  {
+   "numero": "0528094-92.2014.8.05.0001",
+   "texto": "CONSTITUCIONALIDADE RECONHECIDA PELO TRIBUNAL PLENO. PRECEDENTE OBRIGATÓRIO. RECURSO PROVIDO. ORDEM DENEGADA."
+  },
+  {
+   "numero": "0556716-84.2014.8.05.0001",
+   "texto": "RECONHECIMENTO APENAS DA INCONSTITUCIONALIDADE PARCIAL DAS ALÍQUOTAS DE 4% E 5% PARA TERRENOS NÃO EDIFICADOS NO EXERCÍCIO DE 2014."
+  },
+  {
+   "numero": "0532552-55.2014.8.05.0001",
+   "texto": "PROGRESSIVIDADE DE ALÍQUOTAS EM FUNÇÃO DO VALOR VENAL. CONSTITUCIONALIDADE RECONHECIDA PELO TRIBUNAL PLENO DO TJBA."
+  },
+  {
+   "numero": "0556725-12.2015.8.05.0001",
+   "texto": "INCONSTITUCIONALIDADE PARCIAL EXCLUSIVA DAS ALÍQUOTAS DE 4% E 5% DE TERRENOS NO EXERCÍCIO DE 2014. LIMITAÇÃO À ALÍQUOTA DE 3%."
+  }
+ ]
+}

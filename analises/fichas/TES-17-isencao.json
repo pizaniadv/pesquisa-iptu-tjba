@@ -1,0 +1,132 @@
+{
+  "tese": 17,
+  "formulacao": "Se o imóvel ou o crédito se enquadra numa hipótese de isenção prevista em lei municipal (valor do imposto até o limite legal, destinação habitacional, imóvel único, condição pessoal) ou se limitação ambiental esvazia o domínio útil, e o contribuinte prova esse enquadramento, então o IPTU é inexigível e o crédito cobrado deve ser extinto.",
+  "n_catalogo_fav": 14,
+  "n_acervo": 291,
+  "n_acervo_fav": 40,
+  "contrarias_ids": [
+    "DEC-TJBA-d572ac018386",
+    "DEC-TJBA-eba100ec7d39",
+    "DEC-TJBA-336ba14037e4",
+    "DEC-TJBA-5d52a46028ab",
+    "0198690-20.2024.8.05.0001"
+  ],
+  "precedentes": [
+    {
+      "id": "STJ AREsp 2.345.529 (APP por si só não afasta IPTU, salvo prova)",
+      "fonte": "Cognitio STJ:integras:272539042",
+      "conferido": true
+    },
+    {
+      "id": "STJ AgInt no REsp 2.062.845/SP",
+      "fonte": "citado no AREsp 2.345.529; teor não aberto",
+      "conferido": false
+    }
+  ],
+  "walton": {
+    "esquema": "ARG.SCH.WRM08.RULES.S55_1",
+    "status": "PLAUSIBLE"
+  },
+  "excertos": [
+    {
+      "numero": "8001509-85.2020.8.05.0235",
+      "texto": "A Lei Municipal n.º 107/2009, de forma expressa, isenta o pagamento do imposto predial e territorial urbano – IPTU cujo valor, sem qualquer desconto, seja igual ou inferior a R$ 50,00 (cinquenta reais)."
+    },
+    {
+      "numero": "8001398-04.2020.8.05.0235",
+      "texto": "LEI MUNICIPAL QUE INSTITUIU HIPÓTESES DE ISENÇÃO PARA IPTU (N.º 107/2009). VALORES ABAIXO DE 50 REAIS"
+    },
+    {
+      "numero": "8001665-73.2020.8.05.0235",
+      "texto": "A Lei Municipal n.º 107/2009, de forma expressa, isenta o pagamento do imposto predial e territorial urbano – IPTU cujo valor, sem qualquer desconto, seja igual ou inferior a R$ 50,00"
+    },
+    {
+      "numero": "8001011-52.2021.8.05.0235",
+      "texto": "reconheceu extinção do crédito tributário, por isenção legal"
+    },
+    {
+      "numero": "8002398-96.2019.8.05.0001",
+      "texto": "ACOSTADO LAUDO MERCADOLÓGICO AFASTANDO A PRESUNÇÃO DE VERACIDADE E DE LEGITIMIDADE DO ATO ADMINISTRATIVO"
+    },
+    {
+      "numero": "8070993-79.2021.8.05.0001",
+      "texto": "havendo expressa limitação ao direito de propriedade sobre o imóvel, ausentes estão os elementos mínimos caracterizadores do fato gerador da obrigação imputada à parte Recorrida"
+    },
+    {
+      "numero": "8016004-60.2020.8.05.0001",
+      "texto": "IMÓVEL LOCALIZADO EM ZONA DE PROTEÇÃO AMBIENTAL. LIMITAÇÕES ADMINISTRATIVAS QUE RESTRINGEM O EXERCÍCIO DO DOMÍNIO ÚTIL DA PROPRIEDADE."
+    },
+    {
+      "numero": "8016224-24.2021.8.05.0001",
+      "texto": "LIMITAÇÕES ADMINISTRATIVAS QUE RESTRINGEM O EXERCÍCIO DO DOMÍNIO ÚTIL DA PROPRIEDADE. DESCARACTERIZADA HIPÓTESE DE INCIDÊNCIA DO FATO GERADOR DO TRIBUTO. ISENÇÃO DEVIDA."
+    },
+    {
+      "numero": "0315192-23.2016.8.05.0001",
+      "texto": "O imóvel comprovadamente destinado ao Programa Habitacional Minha Casa Minha Vida goza de isenção tributária desde a destinação do terreno até o término da construção das unidades imobiliárias"
+    },
+    {
+      "numero": "8001051-28.2019.8.05.0001",
+      "texto": "PARTE COM DOIS IMÓVEIS REGISTRADOS COMO DE SUA PROPRIEDADE. DIRETO DE ISENÇÃO EM UM DOS IMÓVEIS. INTELIGÊNCIA DO INCISO I, DO ARTIGO 83 DA LEI MUNICIPAL Nº 7.186/2006."
+    },
+    {
+      "numero": "8040730-28.2025.8.05.0000",
+      "texto": "o que, em juízo de cognição sumária, indica o enquadramento na hipótese de isenção prevista no art. 69, § 4º, do Código Tributário Municipal de Teixeira de Freitas (Lei Municipal nº 308/2003)"
+    },
+    {
+      "numero": "8010782-82.2018.8.05.0001",
+      "texto": "IMPOSSIBILIDADE DE REVOGAÇÃO UNILATERAL E SEM O DEVIDO PROCESSO ADMINISTRATIVO DE ISENÇÃO PREVIAMENTE CONCEDIDA, REFERENTE AO MESMO EXERCÍCIO FINANCEIRO."
+    },
+    {
+      "numero": "8001327-57.2022.8.05.0000",
+      "texto": "O ato administrativo que concede isenção tributária possui natureza declaratória, já que apenas reconhece a preexistência de uma situação fática que autoriza a concessão do benefício fiscal"
+    },
+    {
+      "numero": "0327783-17.2016.8.05.0001",
+      "texto": "a fazenda municipal também remitiu os débitos pretéritos à 2013, daquela associação"
+    },
+    {
+      "numero": "8009857-52.2019.8.05.0001",
+      "texto": "AUTORA QUE NÃO LOGROU ÊXITO EM COMPROVAR QUE O VALOR ATRIBUÍDO AO SEU IMÓVEL ESTÁ SUPERESTIMADO"
+    },
+    {
+      "numero": "8009006-47.2018.8.05.0001",
+      "texto": "A ACIONANTE NÃO LOGROU ÊXITO EM COMPROVAR QUE O VALOR ATRIBUÍDO AO SEU IMÓVEL ESTÁ SUPERESTIMADO E DENTRO DA FAIXA DE ISENÇÃO"
+    },
+    {
+      "numero": "0503134-21.2015.8.05.0039",
+      "texto": "PLEITO DE ISENÇÃO DE IPTU. RECONHECIMENTO JURISPRUDENCIAL PELO STJ, DESDE QUE PROVADO O ESVAZIAMENTO COMPLETO DO DIREITO DE PROPRIEDADE. PROVA PRÉ-CONSTITUÍDA INSUFICIENTE A ATESTAR A COMPLETA LIMITAÇÃO À EXPLORAÇÃO DO IMÓVEL, NOS TERMOS DO ART. 1.228 DO CC."
+    },
+    {
+      "numero": "8001022-81.2021.8.05.0235",
+      "texto": "O valor dos créditos tributários é superior ao limite estabelecido no Código Tributário Municipal."
+    },
+    {
+      "numero": "8001022-81.2021.8.05.0235",
+      "texto": "Não cabe ao Judiciário, de ofício, decretar a extinção de Execução Fiscal sob o fundamento de que o valor cobrado é insignificante, porquanto o crédito tributário regularmente lançado é indisponível, somente podendo ser remido por determinação de lei expressa do próprio ente tributante, conforme art. 150, parágrafo 6º, da CF e artigo 172 do CTN."
+    },
+    {
+      "numero": "0198690-20.2024.8.05.0001",
+      "texto": "RESTRIÇÃO LEGAL CUJA SUBSUNÇÃO FÁTICA NÃO CONTEMPLA A PARTE AUTORA. LEI 7719/09."
+    },
+    {
+      "numero": "8014812-19.2025.8.05.0001",
+      "texto": "não se vislumbra a probabilidade do direito que a parte acionante alega estar caracterizado de forma clara para obtenção de tutela de urgência"
+    },
+    {
+      "numero": "0089584-26.2024.8.05.0001",
+      "texto": "PARTE AUTORA QUE É BENEFICIÁRIA DE ISENÇÃO TRIBUTÁRIA CONCEDIDA POR LEI MUNICIPAL. COBRANÇA INDEVIDA."
+    },
+    {
+      "numero": "0055573-64.2007.8.05.0001",
+      "texto": "CONDENAÇÃO DO MUNICÍPIOS EM CUSTAS PROCESSUAIS. ISENÇÃO LEGAL DEVIDA."
+    },
+    {
+      "numero": "0577832-10.2018.8.05.0001",
+      "texto": "BASE DE CÁLCULO DEVE SER O VALOR VENAL DO IMÓVEL, CONFORME LEI E JURISPRUDÊNCIA. ATESTADO POR LAUDO PERICIAL REALIZADO NOS AUTOS."
+    },
+    {
+      "numero": "8001950-72.2020.8.05.0039",
+      "texto": "b) a “Isenção Temporária” do referido imposto"
+    }
+  ]
+}

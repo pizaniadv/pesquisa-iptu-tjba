@@ -1,0 +1,207 @@
+{
+ "tese": 39,
+ "id_alternativo": "TES-002",
+ "formulacao": "Se a estatal presta serviço público essencial, sem fim lucrativo e fora de concorrência (EMBASA, CODEBA como autoridade portuária, CONDER), e o imóvel está afetado a esse serviço, então o IPTU não incide pela imunidade recíproca (na camada E, só por ementa, têm indício favorável por palavra 23 dos 38 processos da EMBASA, 11 dos 21 da CODEBA e 3 dos 4 da CONDER, o que não é resultado; para a EMBASA há contrária na 3ª CC em 25/11/2024 e, na 4ª CC, apelação do Município provida em 02/2025 mas revertida por embargos de declaração em 06/2025, que restabeleceram a imunidade (0097379-11.2009), ver § \"EMBASA\" adiante; ajuste do orquestrador em 06/11/2026 após o fichamento). Se quem ocupa o imóvel é concessionária privada com fim lucrativo (COELBA), a imunidade só se sustenta, num TJBA dividido (na camada T3, 11 favoráveis e 17 desfavoráveis da COELBA), se o imóvel é bem público afetado ao serviço e a câmara aceita distinguir os Temas 385 e 437; o desfecho depende do Tema 1.297 (pendente) e, para estatais, do Tema 1.398 (sem tese).",
+ "n_catalogo_fav": 15,
+ "n_acervo": 98,
+ "n_acervo_fav": 47,
+ "nota_campos": "n_catalogo_fav = processos favoráveis da camada T3 (37 lidos); n_acervo = processos só por ementa da fatia TES002_a, sem os 4 de alínea c; n_acervo_fav = desses, os com indício favorável por palavra em algum ato (§ 3.6 do MD; indício, não resultado)",
+ "contrarias_ids": [
+  "DEC-TJBA-9e9d31bd8a8b",
+  "DEC-TJBA-6a718f3219ea",
+  "DEC-TJBA-accdfd3234f4",
+  "DEC-TJBA-9f61b7848c12",
+  "DEC-TJBA-742252f9a213",
+  "DEC-TJBA-2feb97121ad7",
+  "DEC-TJBA-f83013f62f60",
+  "DEC-TJBA-0d19a0cf8b4e",
+  "DEC-TJBAAPI-b9d2239fe206",
+  "DEC-TJBA-2f87f2bcde2c",
+  "DEC-TJBAAPI-d659c637f7d9",
+  "DEC-TJBA-81ea2da7768c",
+  "DEC-TJBA-c3ee50d8aa06",
+  "DEC-TJBA-ad9bd45e6010",
+  "DEC-TJBA-d5eddb600142",
+  "DEC-TJBA-48cf9542fdb8",
+  "DEC-TJBA-94f3919f0605",
+  "DEC-TJBA-1137d0d82107",
+  "DEC-TJBA-02cc144c36a0",
+  "DEC-TJBA-f8176fbeaa4a"
+ ],
+ "precedentes": [
+  {
+   "id": "STF Tema 385 (RE 594.015)",
+   "fonte": "PANGEA stf-rg-385",
+   "conferido": true
+  },
+  {
+   "id": "STF Tema 437 (RE 601.720)",
+   "fonte": "PANGEA stf-rg-437",
+   "conferido": true
+  },
+  {
+   "id": "STF Tema 508 (RE 600.867)",
+   "fonte": "Cognitio STF:paradigmas-teor:508-753969848",
+   "conferido": true
+  },
+  {
+   "id": "STF Tema 1.297 (RE 1.479.602)",
+   "fonte": "Cognitio STF:repercussao_geral:tema-1297",
+   "conferido": true
+  },
+  {
+   "id": "STF Tema 1.398",
+   "fonte": "PANGEA stf-rg-1398",
+   "conferido": true
+  },
+  {
+   "id": "STF Tema 644",
+   "fonte": "PANGEA stf-rg-644",
+   "conferido": true
+  },
+  {
+   "id": "STF Tema 1.140",
+   "fonte": "citado nos votos do TJBA",
+   "conferido": false
+  },
+  {
+   "id": "STF RE 1.315.581",
+   "fonte": "citado nos votos do TJBA",
+   "conferido": false
+  },
+  {
+   "id": "STF RE 1.272.751 AgR / Rcl 32.717",
+   "fonte": "citado nos votos do TJBA",
+   "conferido": false
+  },
+  {
+   "id": "STF RE 918.700",
+   "fonte": "portal STF (metadados; existência confere, teor não lido) — antialucinação F7, [A CONFERIR] 5",
+   "conferido": false
+  },
+  {
+   "id": "STF ARE 947.142 AgR",
+   "fonte": "portal STF (metadados; existência confere, teor não lido) — antialucinação F7, [A CONFERIR] 5",
+   "conferido": false
+  },
+  {
+   "id": "STF ADPF 858",
+   "fonte": "portal STF (metadados; existência confere, teor não lido) — antialucinação F7, [A CONFERIR] 5",
+   "conferido": false
+  },
+  {
+   "id": "STF RE 1.395.601 AgR",
+   "fonte": "portal STF (metadados; existência confere, teor não lido) — antialucinação F7, [A CONFERIR] 6",
+   "conferido": false
+  },
+  {
+   "id": "STF Rcl 70.570",
+   "fonte": "portal STF (metadados; existência confere, teor não lido) — antialucinação F7, [A CONFERIR] 6",
+   "conferido": false
+  },
+  {
+   "id": "STJ REsp 1.089.827/RJ",
+   "fonte": "não localizado (Cognitio sem o documento; portal STJ HTTP 403) — antialucinação F7, [A CONFERIR] 7",
+   "conferido": false
+  }
+ ],
+ "walton": {
+  "esquema": "ARG.SCH.WRM08.PRECEDENT",
+  "status": "WEAK_UNANSWERED_CQ"
+ },
+ "excertos": [
+  {
+   "numero": "8002112-79.2022.8.05.0271",
+   "texto": "A imunidade tributária constante do art. 150, VI, a, da Constituição Federal alcança o imóvel pertencente à União que se encontra em posse precária de concessionária de serviço público para ser utilizado na atividade-fim a qual essa se destina"
+  },
+  {
+   "numero": "0301824-70.2014.8.05.0112",
+   "texto": "7. O Município de Itaberaba não demonstrou que o imóvel seria utilizado para fins diversos da prestação do serviço público essencial, sendo incabível a cobrança do IPTU."
+  },
+  {
+   "numero": "8000259-57.2018.8.05.0212",
+   "texto": "O Supremo Tribunal Federal, no julgamento do Tema 508 de repercussão geral, fixou entendimento de que sociedade de economia mista voltada à remuneração de capital de controladores ou acionistas não está abrangida pela imunidade tributária do art. 150, VI, \"a\", da Constituição, unicamente em razão das atividades desempenhadas, entendimento aplicável, por analogia, à concessionária de capital aberto que exerce atividade econômica com finalidade lucrativa."
+  },
+  {
+   "numero": "8000839-36.2019.8.05.0056",
+   "texto": "O critério determinante é a natureza jurídica do sujeito e o caráter lucrativo de suas operações, independentemente do grau de competição no setor."
+  },
+  {
+   "numero": "0500536-61.2015.8.05.0244",
+   "texto": "No julgamento do RE 1315581, sob relatoria do eminente Ministro Luís Roberto Barroso, restou concretizado o entendimento de que a concessionária de serviço público, ocupante de bem da União, que utiliza o imóvel na prestação de sua atividade-fim, faz jus à imunidade do IPTU incidente sobre tal bem."
+  },
+  {
+   "numero": "8000236-35.2019.8.05.0032",
+   "texto": "Logo, sujeita-se à cobrança de IPTU, ainda que preste serviço público e o bem esteja afetado a esta finalidade, considerando o seu intuito lucrativo."
+  },
+  {
+   "numero": "8005052-96.2023.8.05.0201",
+   "texto": "Compete ao ente tributante comprovar eventual desvio de finalidade do bem imóvel para afastar a imunidade."
+  },
+  {
+   "numero": "8000964-84.2021.8.05.0136",
+   "texto": "2. O ônus de comprovar a desvinculação do imóvel de sua finalidade pública recai sobre o Fisco, presumindo-se a imunidade derivada da Carta Magna, em favor da concessionária."
+  },
+  {
+   "numero": "0303373-71.2014.8.05.0256",
+   "texto": "O STF pacificou o seu entendimento acerca da controvérsia submetida a esta Turma Julgadora ao julgar os TEMAS 385 (RE nº 594.015/SP) e 437 (RE nº 601.720/RJ), ambos em sede de Repercussão Geral, consolidando a orientação jurídica da não aplicação do instituto da imunidade tributária sobre imóveis cedidos à pessoa jurídica de direito privado, em decorrência do intuito lucrativo dos concessionários, remetendo-os ao regime jurídico estabelecido no art. 173, §2º, da Constituição Federal."
+  },
+  {
+   "numero": "8002105-72.2020.8.05.0137",
+   "texto": "Nessa compreensão, amparado no art. 1.030, inciso III, do Código de Ritos, é medida que se impõe o sobrestamento do Recurso Extraordinário interposto (ID 57054405), até o pronunciamento definitivo da Suprema Corte no Leading Case RE n.º 1.479.602 (Tema 1.297), que deu origem ao (TEMA 1.297)."
+  },
+  {
+   "numero": "0569016-78.2014.8.05.0001",
+   "texto": "A superveniência do reconhecimento da repercussão geral no RE n.º 1.479.602 (Tema 1.297/STF), que trata da imunidade tributária recíproca sobre bens afetados à concessão de serviço público, justifica a revisão da decisão recorrida."
+  },
+  {
+   "numero": "0305624-06.2014.8.05.0113",
+   "texto": "Nessa compreensão, causa estranheza a vinculação do presente caso ao Tema 1297/STF, porquanto este trata de fornecimento de energia elétrica e aquele trata de serviço público de transporte ferroviário."
+  },
+  {
+   "numero": "0305624-06.2014.8.05.0113",
+   "texto": "Ante o exposto, rogo, com a devida vênia, por esclarecimentos acerca da aplicação do Tema em referência, que se encontra afetado sob o rito da repercussão geral."
+  },
+  {
+   "numero": "0034925-34.2005.8.05.0001",
+   "texto": "a apelada exerce a função de autoridade portuária, nos termos da Lei nº 8.630/1993 e da Lei nº 12.815/2013, prestando serviço público essencial de administração e exploração portuária, por delegação da União, exercendo atividade sem fins lucrativos."
+  },
+  {
+   "numero": "0034925-34.2005.8.05.0001",
+   "texto": "entendo que o substrato fático da presente lide é distinta da tese consolidada pelo Tema 385 pelo STF em sede de recurso extraordinário com repercussão geral reconhecida, como o próprio Supremo reconheceu em sede do ARE nº 931099/BA, razão pela qual me alinho ao entendimento deste respeitável Tribunal de Justiça para reconhecer o direito da apelada à imunidade tributária recíproca prevista no art. 150, VI, a, da CF/88, nos moldes da sentença prolatada em primeiro grau, a qual deve ser mantida."
+  },
+  {
+   "numero": "8000744-14.2017.8.05.0076",
+   "texto": "As empresas públicas e sociedades de economia mista prestadoras de serviço público de prestação obrigatória e exclusiva do Estado são abrangidas pela imunidade tributária recíproca prevista no art. 150, VI, a, da Constituição Federal."
+  },
+  {
+   "numero": "8001156-16.2021.8.05.0201",
+   "texto": "4. A CONDER, como empresa pública vinculada ao Estado da Bahia, atua na execução de políticas públicas de desenvolvimento urbano e habitação, não configurando exploração de atividade econômica em regime concorrencial."
+  },
+  {
+   "numero": "8019519-43.2019.8.05.0000",
+   "texto": "ser o ônus do poder tributante elidir a presunção de que o imóvel gerador do tributo se destina às finalidades institucionais da autarquia."
+  },
+  {
+   "numero": "0413836-40.2012.8.05.0001",
+   "texto": "Restou evidenciado nos autos que a CNB, embora vinculada ao Estado da Bahia, é sociedade de economia mista que exerce atividade empresarial com fins lucrativos – transporte hidroviário de passageiros e veículos –, mediante cobrança de tarifas, o que a afasta do alcance da imunidade tributária recíproca."
+  },
+  {
+   "numero": "8027427-44.2025.8.05.0000",
+   "texto": "Para a aplicação da imunidade tributária às sociedades de economia mista, é indispensável a comprovação inequívoca do exercício de serviço público essencial, em caráter de exclusividade, sem fins lucrativos e fora do regime de concorrência."
+  },
+  {
+   "numero": "0001957-92.2012.8.05.0004",
+   "texto": "A EMBASA, por ser uma sociedade anônima de economia mista, com fins lucrativos, não faz jus à imunidade tributária recíproca"
+  },
+  {
+   "numero": "0078263-58.2005.8.05.0001",
+   "texto": "INAPLICABILIDADE DO TEMA 385, DO SUPREMO TRIBUNAL FEDERAL. RECONHECIMENTO DE IMUNIDADE TRIBUTÁRIA DA CODEBA."
+  },
+  {
+   "numero": "8058847-67.2025.8.05.0000",
+   "texto": "atua em regime concorrencial com agentes privados do setor de construção civil, não preenchendo o requisito da exclusividade exigido pela jurisprudência consolidada do STF"
+  }
+ ],
+ "regenerado": "06/11/2026: formulacao copiada do § 1 do MD e precedentes completados, conforme antialucinação F7 (B-11)"
+}

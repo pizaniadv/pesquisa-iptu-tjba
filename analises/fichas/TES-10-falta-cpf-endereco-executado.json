@@ -1,0 +1,105 @@
+{
+ "tese": 10,
+ "formulacao": "Se o Município ajuíza execução fiscal de IPTU sem CPF/CNPJ ou sem endereço válido do executado e, intimado para emendar ou diligenciar, não supre a falta, então a execução se extingue sem mérito; quanto ao CPF, decisões do TJBA de 2025-2026 aplicam o art. 1º-A da Resolução CNJ 547/2024 e afastam, por distinção, a Súmula 558 e o Tema 876 do STJ (7 decisões na linha b do § 3 do MD, 1 delas do catálogo; sem denominador).",
+ "n_catalogo_fav": 6,
+ "n_acervo": 87,
+ "n_acervo_fav": 53,
+ "contrarias_ids": [
+  "DEC-TJBA-05e3df524cb5",
+  "DEC-TJBA-b29f1b75296a"
+ ],
+ "precedentes": [
+  {
+   "id": "Súmula 558/STJ",
+   "fonte": "Cognitio STJ:sumulas:558",
+   "conferido": true
+  },
+  {
+   "id": "Tema 876/STJ (REsp 1.455.091/AM)",
+   "fonte": "Cognitio STJ:precedentes:Tema-876; STJ:paradigmas-teor:201401188624-1365117",
+   "conferido": true
+  },
+  {
+   "id": "Tema 1.184/STF (RE 1.355.208)",
+   "fonte": "Cognitio STF:repercussao_geral:tema-1184 (cadastro)",
+   "conferido": true
+  },
+  {
+   "id": "Tema 1.428/STF",
+   "fonte": "citado no TJBA; não buscado",
+   "conferido": false
+  },
+  {
+   "id": "Tema 1.201/STJ",
+   "fonte": "citado no TJBA; não buscado",
+   "conferido": false
+  },
+  {
+   "id": "Resolução CNJ 547/2024, art. 1º-A (Res. 617/2025)",
+   "fonte": "citada no TJBA; ato normativo não lido",
+   "conferido": false
+  }
+ ],
+ "walton": {
+  "esquema": "ARG.SCH.WRM08.EXCEPTIONAL_CASE",
+  "status": "WEAK_UNANSWERED_CQ"
+ },
+ "excertos": [
+  {
+   "numero": "0751427-84.2017.8.05.0001",
+   "texto": "Diante da impossibilidade de citação por correio por ausência de endereço válido, as demais modalidades de citação também se mostram obstadas, impondo a extinção da execução fiscal sem resolução do mérito."
+  },
+  {
+   "numero": "0309956-36.2013.8.05.0150",
+   "texto": "Diante da impossibilidade de citação por correio pela ausência de endereço válido, as demais modalidades de citação também se mostram obstadas"
+  },
+  {
+   "numero": "0809385-33.2014.8.05.0001",
+   "texto": "Para fins de tentativa da citação pelo correio, mostra-se imperiosa que já na exordial conste o endereço do executado"
+  },
+  {
+   "numero": "0310038-67.2013.8.05.0150",
+   "texto": "OPORTUNIZADO AO MUNICIPIO FORNECER NOVO ENDEREÇO DO EXECUTADO. INERCIA. SENTENÇA MANTIDA."
+  },
+  {
+   "numero": "0307221-30.2013.8.05.0150",
+   "texto": "a indicação correta do endereço do réu é requisito essencial à petição inicial, porquanto sua ausência inviabiliza a citação do demandado"
+  },
+  {
+   "numero": "8001557-44.2021.8.05.0256",
+   "texto": "A ausência de fornecimento da referida identificação fulmina de ineficácia a atividade jurisdicional executiva, tornando o processo natimorto e inexequível."
+  },
+  {
+   "numero": "8008515-75.2023.8.05.0256",
+   "texto": "AUSÊNCIA DE CPF DA EXECUTADA. INDISPENSABILIDADE PARA O DESENVOLVIMENTO VÁLIDO E REGULAR DO PROCESSO ELETRÔNICO."
+  },
+  {
+   "numero": "8000948-69.2020.8.05.0103",
+   "texto": "DISTINÇÃO (DISTINGUISHING) DA SÚMULA 558 E DO TEMA 876/STJ FRENTE AO AMBIENTE DO PROCESSO ELETRÔNICO E ÀS FERRAMENTAS DE CONSTRIÇÃO PATRIMONIAL (SISBAJUD, RENAJUD, INFOJUD E SNIPER)."
+  },
+  {
+   "numero": "0502387-05.2017.8.05.0103",
+   "texto": "EFICÁCIA NORMATIVA VINCULANTE DA CONSULTA CNJ Nº 0004754-38.2025.2.00.0000."
+  },
+  {
+   "numero": "0503918-55.2017.8.05.0256",
+   "texto": "TEMA 876 DO STJ. SÚMULA 558/STJ. DISTINGUISHING."
+  },
+  {
+   "numero": "8003697-83.2025.8.05.0103",
+   "texto": "AUSÊNCIA DE INTERESSE DE AGIR E DE CPF DO DEVEDOR."
+  },
+  {
+   "numero": "8041504-92.2024.8.05.0000",
+   "texto": "ÔNUS DO EXEQUENTE DE APRESENTAR CDA REGULAR. IMPOSSIBILIDADE DE CORREÇÃO DE OFÍCIO PELO JUDICIÁRIO."
+  },
+  {
+   "numero": "8016313-04.2022.8.05.0004",
+   "texto": "A exigência de endereço na Certidão de Dívida Ativa condiciona-se ao conhecimento pela Fazenda Pública"
+  },
+  {
+   "numero": "8001170-72.2022.8.05.0004",
+   "texto": "A extinção do processo por abandono exige a intimação pessoal da parte autora, o que não ocorreu no caso concreto, configurando nulidade da sentença"
+  }
+ ]
+}
